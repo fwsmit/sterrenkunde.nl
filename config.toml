@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.sterrenkunde.nl/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Sterrenkunde in Nederland - Info over Sterren, Maan en Planeten'
 theme = 'ananke'
 sectionPagesMenu = 'main'
 
