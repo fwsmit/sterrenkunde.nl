@@ -1,4 +1,8 @@
-# Arizonakrater
++++
+title = "Arizonakrater"
+date = 2023-11-17T19:54:58+01:00
+draft = false
++++
 
 \
 ![De arizonakrater](plaatjes/arizona_krater.jpg){vspace="5" hspace="5"

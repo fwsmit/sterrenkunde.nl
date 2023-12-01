@@ -1,4 +1,8 @@
-# Atmosfeer
++++
+title = "Atmosfeer"
+date = 2023-11-17T19:54:58+01:00
+draft = false
++++
 
   -------------------------------------------------------------------------------------------------------------
   [![De atmosfeer van de aarde](plaatjes/atmosfeer.png){vspace="5" hspace="5"}](plaatjes/atmosfeer_groot.png)
