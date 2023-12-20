@@ -6,6 +6,8 @@ draft = true
 
 Zwaartekracht, ook wel aantrekkingskracht of gravitatie genoemd, is er de oorzaak van dat:
 
+![alt](/eruption.webp)
+
 - jij niet van de aarde valt;
 - het erg veel energie (brandstof) kost een raket te lanceren;
 - de maan om de aarde draait;
