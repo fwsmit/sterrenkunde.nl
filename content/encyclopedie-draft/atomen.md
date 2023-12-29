@@ -4,9 +4,11 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
 Atomen zijn hele kleine deeltjes, waaruit alles bestaat.
+
+Zie hier een model van een atoom
+![Rutherford model](/Atom_model.jpg)
 
 Stel je eens voor dat je een heel klein beetje water hebt.
 
