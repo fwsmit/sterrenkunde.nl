@@ -4,7 +4,6 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
 Afkorting van *astronomische eenheid*. De astronomische eenheid is een
 afstandsmaat die vooral gebruikt wordt om afstanden binnen het
