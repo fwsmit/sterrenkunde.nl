@@ -7,8 +7,12 @@ draft = false
 
 Atomen zijn hele kleine deeltjes, waaruit alles bestaat.
 
-Zie hier een model van een atoom
-![Rutherford model](/Atom_model.jpg)
+![Rutherford model](/Atom_Model2.png)
+
+(figuur 1) Atoom model 
+
+
+
 
 Stel je eens voor dat je een heel klein beetje water hebt.
 
@@ -23,15 +27,18 @@ Het lijkt alsof je alsmaar door kunt gaan met delen. Toch is dat niet
 zo. Uiteindelijk heb je nog maar één waterdeeltje over. Dat ene deeltje
 heeft nog steeds de eigenschappen van water. Maar als je dat deeltje nu
 nóg kleiner gaat maken, is het géén water meer! Het allerkleinste
-deeltje van een bepaalde stof noemen we een *molecuul*.
+deeltje van een bepaalde stof noemen we een *molecuul*, Zie figuur 1.
 
 Een molecuul is vreselijk klein. In één glas water zitten al
 6.000.000.000.000.000.000.000.000 watermoleculen. Dat zijn er zes
-quadriljoen. Dat zijn er zó veel, dat als het uiterst fijne
-zandkorreltjes waren, je met zo\'n hoeveelheid zandkorreltjes heel
+septiljoen. Dat zijn er zó veel, dat als het uiterst fijne
+zandkorreltjes waren, je met zo'n hoeveelheid zandkorreltjes heel
 Nederland met een laag van 20 kilometer zand kunt bedekken!
 
 Dit geeft misschien een beetje een indruk hoe klein een molecuul is.
+
+Ongeveer een straal van 0.275 nanometer of 0.000000275 meters voor 
+een watermolecul.
 
 Maar ook moleculen zijn opgebouwd uit nóg kleinere deeltjes.
 
@@ -50,7 +57,7 @@ noemen we [elementen](elemente.html){.two}. Waterstof is een element,
 evenals zuurstof. Ze lijken niet veel op elkaar.
 
 De waterstofdeeltjes en de zuurstofdeeltjes leken immers ook niet op
-elkaar. Zo\'n heel klein deeltje van een bepaald element heet nu een
+elkaar. Zo'n heel klein deeltje van een bepaald element heet nu een
 *atoom*.
 
 Nu weet je dus, dat een water molecuul bestaat uit twee waterstofatomen
