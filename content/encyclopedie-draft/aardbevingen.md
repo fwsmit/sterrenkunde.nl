@@ -4,13 +4,12 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
   -----------------------------------------------------------------------
   ![De gevolgen van een aardbeving](plaatjes/aardbeving.jpg){vspace="0"
   hspace="0"}\
   **De gevolgen van een aardbeving**
-
+![Eruption](/eruption.webp)
   -----------------------------------------------------------------------
 
 Op plaatsen waar de aardkorst erg dun is komen vaak aardbevingen voor.
