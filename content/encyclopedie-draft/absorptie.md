@@ -4,8 +4,8 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
+-----------------------------------------------------------------------
 Wanneer een lichtstraal door een stofwolk heengaat, wordt het licht
 verzwakt door dit stof. Dit verschijnsel noemen we nu absorptie. Het
 licht wordt als het ware door het stof opgeslorpt.
@@ -13,7 +13,7 @@ licht wordt als het ware door het stof opgeslorpt.
 De ruimte tussen de sterren is niet leeg. Tussen de sterren bevinden
 zich vaak grote gas- en stofwolken.
 
-Dit gas en stof wordt [interstellaire materie](interste.html){.two}
+Dit gas en stof wordt [interstellaire materie](/encyclopedie-draft/interste){.two}
 genoemd.
 
 Interstellair betekent: tussen de sterren. Het licht van de sterren
@@ -28,3 +28,5 @@ verroding* op.
 
 Denk maar eens aan de ondergaande zon. Als de zon laag staat moet het
 zonlicht een veel langere weg door de atmosfeer afleggen.
+
+-----------------------------------------------------------------------

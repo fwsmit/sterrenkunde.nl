@@ -10,8 +10,6 @@ draft = false
 
 (figuur 1: De gevolgen van een aardbeving)
 
-  -----------------------------------------------------------------------
-
 Op plaatsen waar de aardkorst erg dun is komen vaak aardbevingen voor.
 
 Deze aardbevingen ontstaan door plotselinge beweging van één of meerdere
@@ -143,3 +141,5 @@ Zo'n aardverschuiving komt soms in berg achtige streken voor na zware
 regenval.
 
 Ook een aardbeving kan een aardverschuiving veroorzaken.
+
+----------------------------------------------------------------------------

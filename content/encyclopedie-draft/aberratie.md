@@ -4,7 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
+----------------------------------------------------------------------------
 
 Aberratie is een verschijnsel dat je kunt vergelijken met een alledaags
 gebeuren. Let maar eens op een wandelaar die met een paraplu in de regen
@@ -49,12 +49,14 @@ ster, veroorzaakt door de beweging van de aarde om de zon, wordt
 De aarde draait immers in één jaar om de zon. Deze aberratie werd in het
 jaar 1725 ontdekt door *James Bradley*. De grootst mogelijke afwijking
 van de schijnbare plaats aan de hemel in vergelijking met zijn
-werkelijke positie is 20,5 [boogseconde](hoeken.html){.two}.
+werkelijke positie is 20,5 [boogseconde](/encyclopedie-draft/boogseconde){.two}.
 
-Eén boogseconde is het 1/60ste deel van een [boogminuut\
-](hoeken.html){.two}en één boogminuut is weer het 1/60ste deel van een
+Eén boogseconde is het 1/60ste deel van een [boogminuut](/encyclopedie-draft/hoeken)
+{.two}en één boogminuut is weer het 1/60ste deel van een
 graad. Dus één boogseconde is het 1/3600ste deel van een graad.
 
 Ook door de draaiing van de aarde om zijn as treedt een afwijking op
 tussen de schijnbare en de werkelijke richting van een ster. Deze
 afwijking is nog veel kleiner en wordt *dagelijkse aberratie* genoemd.
+
+----------------------------------------------------------------------------

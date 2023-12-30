@@ -9,7 +9,8 @@ draft = false
   
   **(figuur 1: De aarde vanuit de ruimte)**
 
-  -----------------------------------------------------------------------
+
+
 
 De aarde is één van de negen planeten van ons zonnestelsel.
 
@@ -27,7 +28,7 @@ verlicht, zie je dat voorwerp. Dat voorwerp geeft zelf geen licht, maar
 kaatst alleen het licht van je zaklantaarn terug.
 
 Om de aarde heen zit een dikke luchtlaag. Deze luchtlaag noemen we de
-*dampkring* of [atmosfeer](atmosfeer.html){.two}. De dampkring bestaat
+*dampkring* of [atmosfeer](/encyclopedie-draft/atmosfeer){.two}. De dampkring bestaat
 voornamelijk uit stikstof en zuurstof. De zuurstof hebben we nodig om te
 leven.
 
@@ -89,7 +90,7 @@ Als de aarde in het perihelium staat bedraagt de afstand tot de zon
 het aphelium is de afstand 152,1 miljoen kilometer (grootste afstand).
 
 De gemiddelde afstand aarde - zon bedraagt 149,6 miljoen kilometer. Deze
-afstand wordt één [astronomische eenheid](astronom.html){.two} genoemd.
+afstand wordt één [astronomische eenheid](/encyclopedie-draft/ae){.two} genoemd.
 Dit wordt vaak afgekort tot *A.E.* of *a.e.* In de sterrenkunde is een
 afstand van zo\'n 150 miljoen km erg weinig. Toch heeft een auto die
 alsmaar 100 km/uur rijdt maar liefst 170 jaar nodig om een afstand van
@@ -103,11 +104,11 @@ evenaar is de middellijn groter, namelijk 12.756 km. De aardbol is dus
 een beetje afgeplat. Bijna iedere planeet heeft een afplatting. De aarde
 bestaat uit een *kern*, een *mantel*en een *korst.*
 
-  -----------------------------------------------------------------------
+
   ![Doorsnede van de aarde](/image.png)
   **(Figuur 2: Doorsnede van de aarde)**
 
-  -----------------------------------------------------------------------
+
 
 Het binnenste van de aarde noemen we de kern. Daar omheen ligt de
 mantel. In de kern is het erg heet. Waarschijnlijk wel drieduizend
@@ -129,7 +130,7 @@ Het magma ontstaat in de mantel. Soms wordt het daar namelijk erg heet.
 
 Als het vloeibaar gesteente eenmaal uit de vulkaan is gestroomd, koelt
 het af. Het wordt dan een deel van de aardkorst. Op plaatsen waar de
-aardkorst erg dun is komen vaak [aardbevingen](aardbevingen.html){.two}
+aardkorst erg dun is komen vaak [aardbevingen](/encyclopedie-draft/aardbevingen){.two}
 voor.
 
 Deze ontstaan door plotselinge beweging van één of meerdere lagen van de
@@ -235,7 +236,7 @@ absolute magnitude: -3,86\
 \
 
 De *siderische omlooptijd* is de tijd waarin de planeet de gehele
-[dierenriem](dierenri.html){.two} doorloopt en op dezelfde plaats
+[dierenriem](/encyclopedie-draft/dierenriem){.two} doorloopt en op dezelfde plaats
 terugkomt ten opzichte van dezelfde ster, gezien vanaf de zon.
 
 De *siderische rotatieduur* van de aarde is de tijd waarin de aarde om
@@ -245,3 +246,5 @@ haar as draait ten opzichte van de sterren.
 De *absolute magnitude* van een planeet is de helderheid van de planeet
 als zij op één *astronomische eenheid* van de zon én tegelijk op één
 astronomische eenheid van de waarnemer staat.
+
+-----------------------------------------------------------------------

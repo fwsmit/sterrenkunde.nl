@@ -4,13 +4,13 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
+
 
 De afwijking van de bolvorm van een hemellichaam. Dit is een gevolg van
 de draaiing van het hemellichaam om zijn as.
 
 De afplatting van de aarde bedraagt 1/298. Dat wil dus zeggen dat de
-polaire [diameter](diameter.html){.two} van de aarde 1/298 kleiner is
+polaire [diameter](/encyclopedie-draft/diameter){.two} van de aarde 1/298 kleiner is
 dan de *equatoriale diameter*.
 
 De equatoriale middellijn bedraagt 12.756 kilometer. De polaire
@@ -20,7 +20,7 @@ diameter van de aarde bedraagt dus 12.756 - 43 = 12.713 km.
 Er is ook een niet zo moeilijke formule om de afplatting uit te rekenen.
 Deze formule luidt:
 
-\
+
 
   ------------ --- ---------------------------------------------------------
   afplatting   =   grootste middellijn - kleinste middellijn
