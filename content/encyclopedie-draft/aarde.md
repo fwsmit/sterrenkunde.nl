@@ -4,12 +4,10 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![De aarde vanuit de ruimte](plaatjes/aarde.jpg){vspace="0"
-  hspace="0"}\
-  **De aarde vanuit de ruimte**
+  ![De aarde vanuit de ruimte](/Rotating_earth_animated_transparent.gif)
+  
+  **(figuur 1: De aarde vanuit de ruimte)**
 
   -----------------------------------------------------------------------
 
@@ -106,9 +104,8 @@ een beetje afgeplat. Bijna iedere planeet heeft een afplatting. De aarde
 bestaat uit een *kern*, een *mantel*en een *korst.*
 
   -----------------------------------------------------------------------
-  ![Doorsnede van de aarde](plaatjes/aarde_doorsnede.jpg){vspace="0"
-  hspace="0"}\
-  **Doorsnede van de aarde**
+  ![Doorsnede van de aarde](/image.png)
+  **(Figuur 2: Doorsnede van de aarde)**
 
   -----------------------------------------------------------------------
 
