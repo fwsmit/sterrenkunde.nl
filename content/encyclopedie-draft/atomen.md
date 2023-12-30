@@ -31,7 +31,7 @@ deeltje van een bepaalde stof noemen we een *molecuul*, Zie figuur 1.
 
 Een molecuul is vreselijk klein. In één glas water zitten al
 6.000.000.000.000.000.000.000.000 watermoleculen. Dat zijn er zes
-septiljoen. Dat zijn er zó veel, dat als het uiterst fijne
+quadriljoen. Dat zijn er zó veel, dat als het uiterst fijne
 zandkorreltjes waren, je met zo'n hoeveelheid zandkorreltjes heel
 Nederland met een laag van 20 kilometer zand kunt bedekken!
 

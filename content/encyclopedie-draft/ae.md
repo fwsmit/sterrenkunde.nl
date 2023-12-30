@@ -7,8 +7,8 @@ draft = false
 
 Afkorting van *astronomische eenheid*. De astronomische eenheid is een
 afstandsmaat die vooral gebruikt wordt om afstanden binnen het
-zonnestelsel aan te geven. Afgesproken is dat de gemiddelde afstand
-aarde - zon precies één astronomische eenheid bedraagt. Deze afstand is
+zonnestelsel aan te geven. Afgesproken is dat de gemiddelde afstand van de
+aarde -  de zon precies één astronomische eenheid bedraagt. Deze afstand is
 tegenwoordig heel nauwkeurig bekend en bedraagt 149.597.870,69
 kilometer.
 
@@ -41,12 +41,12 @@ duizend. Eén kilometer is duizend meter. Zo is een kiloparsec gelijk aan
 1000 parsec (dus aan 3260 lichtjaar).
 
 Tenslotte kennen we nog de *megaparsec*. Het voorvoegsel mega betekent
-miljoen. Eén megaparsec is dus gelijk aan één mil joen parsec! Dat is
+miljoen. Eén megaparsec is dus gelijk aan één miljoen parsec! Dat is
 3.260.000 lichtjaar! Afstanden tot andere
 [sterrenstelsels](sterrenstelsel.html){.two} worden soms in megaparsecs
 opgegeven. Een kilo pag. 2/3 Druk op een toets voor meer informatie m =
 menu parsec wordt vaak afgekort tot *kpc* en een megaparsec tot *Mpc*.
 
-Bij de trefwoorden [parallax](parallax.html){.two} en
+Bij de trefwoorden [parallax](/parallax.html){.two} en
 [afstandsmaat](afstands.html){.two} kun je nog meer informatie over de
 parsec lezen!

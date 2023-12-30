@@ -6,10 +6,10 @@ draft = false
 
 
   -----------------------------------------------------------------------
-  ![De gevolgen van een aardbeving](plaatjes/aardbeving.jpg){vspace="0"
-  hspace="0"}\
-  **De gevolgen van een aardbeving**
-![Eruption](/eruption.webp)
+![Eruption](/eruption-modified.png)
+
+(figuur 1: De gevolgen van een aardbeving)
+
   -----------------------------------------------------------------------
 
 Op plaatsen waar de aardkorst erg dun is komen vaak aardbevingen voor.
@@ -139,7 +139,7 @@ flink wat schade veroorzaakte.
 Bij een *aardverschuiving* wordt een gedeelte van de aardkorst
 verplaatst.
 
-Zo\'n aardverschuiving komt soms in berg achtige streken voor na zware
+Zo'n aardverschuiving komt soms in berg achtige streken voor na zware
 regenval.
 
 Ook een aardbeving kan een aardverschuiving veroorzaken.
