@@ -6,7 +6,8 @@ draft = false
 
 
   -----------------------------------------------------------------------
-![Eruption](/eruption-modified.png)
+ **Bron fig 1: Environmental Protection Agency**
+![Aardbeving](/Damageround.png)
 
 (figuur 1: De gevolgen van een aardbeving)
 
