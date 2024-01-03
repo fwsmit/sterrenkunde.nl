@@ -70,8 +70,8 @@ dezelfde plaats staat. Het tijdsverloop van 24 uur wordt ook wel één
 zon.
 
 De afstand tussen de aarde en de zon is niet altijd hetzelfde. Dat komt
-doordat de baan van de aarde geen\
-mooie cirkel is. De cirkel is een beetje uitgerekt. Zo\'n uitgerekte
+doordat de baan van de aarde geen
+mooie cirkel is. De cirkel is een beetje uitgerekt. Zo'n uitgerekte
 cirkel noemen we een *ellips*.
 
 In de winter staat de aarde het dichtst bij de zon. Het punt waar de
@@ -88,7 +88,7 @@ dat ook niet. Nee, de seizoenen ontstaan door de schuine stand van de
 aardas, weet je nog wel?
 
 Als de aarde in het perihelium staat bedraagt de afstand tot de zon
-147,1 miljoen kilometer (kleinste afstand). In\
+147,1 miljoen kilometer (kleinste afstand). In
 het aphelium is de afstand 152,1 miljoen kilometer (grootste afstand).
 
 De gemiddelde afstand aarde - zon bedraagt 149,6 miljoen kilometer. Deze
@@ -108,7 +108,7 @@ bestaat uit een *kern*, een *mantel*en een *korst.*
 
 
   ![Doorsnede van de aarde](/image.png)
-  **(Figuur 2: Doorsnede van de aarde)**
+  **Figuur 2: Doorsnede van de aarde**
 
 
 
@@ -132,7 +132,7 @@ Het magma ontstaat in de mantel. Soms wordt het daar namelijk erg heet.
 
 Als het vloeibaar gesteente eenmaal uit de vulkaan is gestroomd, koelt
 het af. Het wordt dan een deel van de aardkorst. Op plaatsen waar de
-aardkorst erg dun is komen vaak [aardbevingen](/encyclopedie-draft/aardbevingen){.two}
+aardkorst erg dun is komen vaak [aardbevingen](/encyclopedie-draft/aardbevingen)
 voor.
 
 Deze ontstaan door plotselinge beweging van één of meerdere lagen van de
@@ -167,13 +167,13 @@ noorden van Canada. Dat punt heet de *magnetische noordpool*.
 
 Aan de andere kant van de aarde ligt net zo\'n punt. Dat is natuurlijk
 de *magnetische zuidpool* . Doordat de aarde een magnetisch veld heeft,
-liggen er\
+liggen er
 stralingsgordels om de planeet. We noemen die de *Van Allen-gordels*.
 
 Het zijn gebieden waar veel elektrisch geladen deeltjes voorkomen.
 
 De aarde is ongeveer even oud als de rest van het zonnestelsel.
-Waarschijnlijk zo\'n 4 miljard jaar. Kort na het ontstaan van de aarde
+Waarschijnlijk zo'n 4 miljard jaar. Kort na het ontstaan van de aarde
 was hij heel heet.
 
 Het binnenste was gesmolten.
@@ -184,7 +184,7 @@ Door onder andere de vorming van gebergten en door vulkanisme werd het
 huidige oppervlak gevormd. Ook ontstond er een atmosfeer.
 
 Maar die zag er toen nog heel anders uit dan nu. Toen de aarde afkoelde,
-begon het te regenen. En niet zo\'n beetje! Miljoenen jaren lang heeft
+begon het te regenen. En niet zo'n beetje! Miljoenen jaren lang heeft
 het gegoten. Nog steeds bestaat bijna drie kwart van het aardoppervlak
 uit zeeën en oceanen. Die zijn toen ontstaan. Je hebt nu, héél in het
 kort, een theorie gelezen over de ontwikkeling van de aarde. Al weet
@@ -220,31 +220,32 @@ Dat maakt onze wereld tot een hele bijzondere planeet.
 Tenslotte vind je hieronder nog een aantal numerieke gegevens over onze
 planeet.
 
-\
-gemiddelde afstand tot de zon: 1 AE (149.597.870 km)\
-kleinste afstand tot de zon: 0,9833 AE (147.101.680 km)\
-grootste afstand tot de zon: 1,0167 AE (152.098.320 km)\
-siderische omlooptijd: 1,0000388 jaar\
-baansnelheid: 29,785 km/sec\
-equatoriale middellijn: 12.756,274 km\
-polaire middellijn: 12.713,504 km\
-afplatting: 1/298.257.224\
-siderische rotatieduur: 23u 56m 04,1s\
-massa: 1/332.946 x massa zon\
-gemiddelde dichtheid: 5,515 gr per kubieke cm\
-gemiddelde temperatuur: 287 K (14°C)\
-albedo: 30%\
-absolute magnitude: -3,86\
-\
+|  |  |
+|---|---|
+|**gemiddelde afstand tot de zon**| 1 AE (149.597.870 km)|
+|**kleinste afstand tot de zon**| 0,9833 AE (147.101.680 km)|
+|**grootste afstand tot de zon**| 1,0167 AE (152.098.320 km)|
+|**siderische omlooptijd**| 1,0000388 jaar|
+|**baansnelheid**| 29,785 km/sec|
+|**equatoriale middellijn**| 12.756,274 km|
+|**polaire middellijn**| 12.713,504 km|
+|**afplatting**| 1/298.257.224|
+|**siderische rotatieduur**| 23u 56m 04,1s|
+|**massa**| 1/332.946 x massa zon|
+|**gemiddelde dichtheid**| 5,515 g/cm³|
+|**gemiddelde temperatuur**| 287 K (14°C)|
+|**albedo**| 30%|
+|**absolute magnitude**| -3,86|
+
 
 De *siderische omlooptijd* is de tijd waarin de planeet de gehele
-[dierenriem](/encyclopedie-draft/dierenriem){.two} doorloopt en op dezelfde plaats
+[dierenriem](/encyclopedie-draft/dierenriem) doorloopt en op dezelfde plaats
 terugkomt ten opzichte van dezelfde ster, gezien vanaf de zon.
 
 De *siderische rotatieduur* van de aarde is de tijd waarin de aarde om
 haar as draait ten opzichte van de sterren.
 
-\
+
 De *absolute magnitude* van een planeet is de helderheid van de planeet
 als zij op één *astronomische eenheid* van de zon én tegelijk op één
 astronomische eenheid van de waarnemer staat.
