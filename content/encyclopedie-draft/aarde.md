@@ -5,9 +5,11 @@ draft = false
 +++
 
   -----------------------------------------------------------------------
-  ![De aarde vanuit de ruimte](/Rotating_earth_animated_transparent.gif)
+ 
+  **Bron: NASA, made by Reto  Stöckli** 
+  ![De aarde vanuit de ruimte](/earth.gif)
   
-  **(figuur 1: De aarde vanuit de ruimte)**
+  **Figuur 1: De aarde vanuit de ruimte.**
 
 
 
@@ -22,13 +24,13 @@ Een planeet straalt zelf geen licht uit. Net als alle andere planeten
 ontvangt de aarde licht en warmte van de zon. Wel kaatst een planeet
 zonlicht terug.
 
-Daarom kunnen wij \'s avonds vaak de maan en de planeten aan de hemel
+Daarom kunnen wij 's avonds vaak de maan en de planeten aan de hemel
 zien staan. Als je in een donkere kamer een voorwerp met een zaklantaarn
 verlicht, zie je dat voorwerp. Dat voorwerp geeft zelf geen licht, maar
 kaatst alleen het licht van je zaklantaarn terug.
 
 Om de aarde heen zit een dikke luchtlaag. Deze luchtlaag noemen we de
-*dampkring* of [atmosfeer](/encyclopedie-draft/atmosfeer){.two}. De dampkring bestaat
+*dampkring* of [atmosfeer](/encyclopedie-draft/atmosfeer) De dampkring bestaat
 voornamelijk uit stikstof en zuurstof. De zuurstof hebben we nodig om te
 leven.
 
@@ -90,7 +92,7 @@ Als de aarde in het perihelium staat bedraagt de afstand tot de zon
 het aphelium is de afstand 152,1 miljoen kilometer (grootste afstand).
 
 De gemiddelde afstand aarde - zon bedraagt 149,6 miljoen kilometer. Deze
-afstand wordt één [astronomische eenheid](/encyclopedie-draft/ae){.two} genoemd.
+afstand wordt één [astronomische eenheid](/encyclopedie-draft/ae) genoemd.
 Dit wordt vaak afgekort tot *A.E.* of *a.e.* In de sterrenkunde is een
 afstand van zo\'n 150 miljoen km erg weinig. Toch heeft een auto die
 alsmaar 100 km/uur rijdt maar liefst 170 jaar nodig om een afstand van

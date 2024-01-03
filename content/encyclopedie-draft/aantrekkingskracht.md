@@ -5,4 +5,4 @@ draft = false
 +++
 
 
-Zie [zwaartekracht](/encyclopedie-draft/zwaartekracht){.two}.
+Zie [zwaartekracht](/encyclopedie-draft/zwaartekracht).
