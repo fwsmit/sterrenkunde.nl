@@ -4,8 +4,8 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
+----------------------------------------------------------------------------------------
 De maan beweegt niet in een cirkelvormige baan om de aarde.
 
 Daardoor verandert de afstand tussen de aarde en de maan ge durende een
@@ -52,76 +52,22 @@ periheliumstanden (kleinste afstanden), gemiddelde af standen en
 apheliumafstanden (grootste afstanden) van de planeten tot de zon. Alle
 afstanden zijn afgerond en gegeven in miljoenen kilometers.
 
-perihelium afstand
-
-gemiddelde afstand
-
-aphelium afstand
-
-Venus
-
-108
-
-108
-
-109
-
-Aarde
-
-147
-
-150
-
-152
-
-Mars
-
-206
-
-228
-
-250
-
-Jupiter
-
-740
-
-778
-
-815
-
-Saturnus
-
-1347
-
-1427
-
-1505
-
-Uranus
-
-2734
-
-2870
-
-3000
-
-Neptunus
-
-4454
-
-4489
-
-4531
-
-Pluto
-
-4440
-
-5908
-
-7370
+--------------------------------------------------------------------------------------------------
+|   |   |   |   |
+|---|---|---|---|
+**planeten** | **perihelium afstand** | **gemiddelde afstand** | **aphelium afstand**
+Venus        |108                     |108                     |109
+Aarde        |147                     |150                     |152
+Mars         |206                     |228                     |250
+Jupiter      |740                     |778                     |815
+Saturnus     |1347                    |1427                    |1505
+Uranus       |2734                    |2870                    |3000
+Neptunus     |4454                    |4489                    |4531
+Pluto        |4440                    |5908                    |7370
+------------------------------------------------------------------------------------------------------------
 
 Merk op dat de planeet Pluto dus dichter bij de zon kan staan dan
 Neptunus. Dat is nu ook het geval. Pas over enkele jaren zal Pluto weer
 de verste planeet in het zonnestelsel zijn.
+
+-------------------------------------------------------------------------------------------------

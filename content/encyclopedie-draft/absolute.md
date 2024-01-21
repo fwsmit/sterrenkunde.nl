@@ -11,9 +11,9 @@ uit. Toch willen we graag weten hoeveel licht een ster in werkelijkheid
 uitstraalt. Om dat te kunnen bepalen is de absolute magnitude ingevoerd.
 Het is een maat voor de helderheid die de sterren hebben wanneer ze
 allemaal op gelijke afstand zouden staan. Voor deze afstand heeft men om
-bepaalde redenen 10 [parsec](/encyclopedie-draft/parsec){.two} gekozen.
+bepaalde redenen 10 [parsec](/encyclopedie/ae) gekozen.
 
-Eén parsec is gelijk aan 3,26 [lichtjaar](/encyclopedie-draft/lichtjaar){.two}. Tien
+Eén parsec is gelijk aan 3,26 [lichtjaar](/encyclopedie/lichtjaar). Tien
 parsec is dus 32,6 lichtjaar. Zou de zon zo ver weg staan, dan zou de
 helderheid van de zon magnitude +4,8 bedragen.
 
@@ -30,11 +30,11 @@ schijnbare magnitude wordt meestal aangegeven met de kleine letter m.
 
 Ook bij een planeet wordt wel gesproken over zijn absolute magnitude.
 Met de absolute magnitude van een planeet bedoelen we de helderheid van
-die planeet als zij op één [astronomische-eenheid](/encyclopedie-draft/ae) (de gemiddelde afstand aarde - zon) én
+die planeet als zij op één [astronomische-eenheid](/encyclopedie/ae) (de gemiddelde afstand aarde - zon) én
 tegelijk op één astronomische eenheid van de waarnemer staat.
 
 Tenslotte vind je hieronder de absolute magnitude van de planeten.
 
-Zie ook het verhaal over [magnitude](/encyclopedie-draft/magnitude){.two}.
+Zie ook het verhaal over [magnitude](/encyclopedie/magnitude).
 
 -------------------------------------------------------------------

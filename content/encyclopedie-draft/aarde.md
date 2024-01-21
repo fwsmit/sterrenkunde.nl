@@ -30,7 +30,7 @@ verlicht, zie je dat voorwerp. Dat voorwerp geeft zelf geen licht, maar
 kaatst alleen het licht van je zaklantaarn terug.
 
 Om de aarde heen zit een dikke luchtlaag. Deze luchtlaag noemen we de
-*dampkring* of [atmosfeer](/encyclopedie-draft/atmosfeer) De dampkring bestaat
+*dampkring* of [atmosfeer](/encyclopedie/atmosfeer) De dampkring bestaat
 voornamelijk uit stikstof en zuurstof. De zuurstof hebben we nodig om te
 leven.
 
@@ -92,7 +92,7 @@ Als de aarde in het perihelium staat bedraagt de afstand tot de zon
 het aphelium is de afstand 152,1 miljoen kilometer (grootste afstand).
 
 De gemiddelde afstand aarde - zon bedraagt 149,6 miljoen kilometer. Deze
-afstand wordt één [astronomische eenheid](/encyclopedie-draft/ae) genoemd.
+afstand wordt één [astronomische eenheid](/encyclopedie/ae) genoemd.
 Dit wordt vaak afgekort tot *A.E.* of *a.e.* In de sterrenkunde is een
 afstand van zo\'n 150 miljoen km erg weinig. Toch heeft een auto die
 alsmaar 100 km/uur rijdt maar liefst 170 jaar nodig om een afstand van
@@ -132,7 +132,7 @@ Het magma ontstaat in de mantel. Soms wordt het daar namelijk erg heet.
 
 Als het vloeibaar gesteente eenmaal uit de vulkaan is gestroomd, koelt
 het af. Het wordt dan een deel van de aardkorst. Op plaatsen waar de
-aardkorst erg dun is komen vaak [aardbevingen](/encyclopedie-draft/aardbevingen)
+aardkorst erg dun is komen vaak [aardbevingen](/encyclopedie/aardbevingen)
 voor.
 
 Deze ontstaan door plotselinge beweging van één of meerdere lagen van de
@@ -239,11 +239,12 @@ planeet.
 
 
 De *siderische omlooptijd* is de tijd waarin de planeet de gehele
-[dierenriem](/encyclopedie-draft/dierenriem) doorloopt en op dezelfde plaats
+[dierenriem](/encyclopedie/dierenriem) doorloopt en op dezelfde plaats
 terugkomt ten opzichte van dezelfde ster, gezien vanaf de zon.
 
 De *siderische rotatieduur* van de aarde is de tijd waarin de aarde om
 haar as draait ten opzichte van de sterren.
+
 
 
 De *absolute magnitude* van een planeet is de helderheid van de planeet

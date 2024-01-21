@@ -4,8 +4,8 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
+-------------------------------------------------------------------------------------
 De ster Algol in het sterrenbeeld Perseus is de op één na helderste ster
 van dit sterrenbeeld. Zijn helderheid verandert regelmatig. Dat was
 reeds in de Oudheid bekend. Toen al heeft de ster zijn bijnaam
@@ -13,7 +13,7 @@ reeds in de Oudheid bekend. Toen al heeft de ster zijn bijnaam
 ook zonder veel moeite met het blote oog zichtbaar.
 
 Hoe ontstaan nu die helderheidsveranderingen? Algol is een
-[dubbelster](dubbelst.html){.two}. Deze dubbelster bestaat uit een
+[dubbelster](/encyclopedie/dubbelster). Deze dubbelster bestaat uit een
 kleine heldere blauwe ster en een grotere rode ster. Die rode ster is
 welis waar groter, maar toch veel zwakker dan de blauwe ster. Dat komt
 doordat de temperatuur aan het oppervlak van een rode ster veel lager is
@@ -22,7 +22,7 @@ licht uit dan een blauwe ster.
 
 Beide sterren draaien om elkaar heen. Hierbij bedekken ze elkaar
 regelmatig. Normaal heeft het Algol-stelsel een helder heid van
-[magnitude](magnitud.html){.two} 2,2. Maar wanneer de grote rode ster
+[magnitude](/encyclopedie/magnitud) 2,2. Maar wanneer de grote rode ster
 vanaf de aarde gezien voor de kleinere blauwe schuift, neemt de
 gezamenlijke helderheid behoorlijk af. 4,9 uur na het begin van de
 bedekking is de kleine blauwe ster geheel door de grote bedekt. Nu wordt
@@ -53,5 +53,7 @@ omdat Algol het helderste voorbeeld van dit type is, worden deze sterren
 ook wel *Algolsterren* genoemd.
 
 Meer informatie over dit soort sterren kun je vinden bij de trefwoorden
-[veranderlijke sterren](verander.html){.two} en
-[bedekkingsveranderlijken](bedekkin.html){.two}.
+[veranderlijke sterren](/encyclopedie/verander) en
+[bedekkingsveranderlijken](/encyclopedie/bedekking).
+
+-------------------------------------------------------------------------------------------------

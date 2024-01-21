@@ -44,12 +44,12 @@ duizend. Eén kilometer is duizend meter. Zo is een kiloparsec gelijk aan
 Tenslotte kennen we nog de *megaparsec*. Het voorvoegsel mega betekent
 miljoen. Eén megaparsec is dus gelijk aan één miljoen parsec! Dat is
 3.260.000 lichtjaar! Afstanden tot andere
-[sterrenstelsels](/encyclopedie-draft/sterrenstelsel) worden soms in megaparsecs
+[sterrenstelsels](/encyclopedie/sterrenstelsel) worden soms in megaparsecs
 opgegeven. Een kilo pag. 2/3 Druk op een toets voor meer informatie m =
 menu parsec wordt vaak afgekort tot *kpc* en een megaparsec tot *Mpc*.
 
-Bij de trefwoorden [parallax](/encyclopedie-draft/parallax) en
-[afstandsmaat](/encyclopedie-draft/afstandsmaat) kun je nog meer informatie over de
+Bij de trefwoorden [parallax](/encyclopedie/parallax) en
+[afstandsmaat](/encyclopedie/afstandsmaat) kun je nog meer informatie over de
 parsec lezen!
 
 --------------------------------------------------------------------------------

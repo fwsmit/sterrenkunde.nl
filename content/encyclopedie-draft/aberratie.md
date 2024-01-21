@@ -49,10 +49,10 @@ ster, veroorzaakt door de beweging van de aarde om de zon, wordt
 De aarde draait immers in één jaar om de zon. Deze aberratie werd in het
 jaar 1725 ontdekt door *James Bradley*. De grootst mogelijke afwijking
 van de schijnbare plaats aan de hemel in vergelijking met zijn
-werkelijke positie is 20,5 [boogseconde](/encyclopedie-draft/boogseconde){.two}.
+werkelijke positie is 20,5 [boogseconde](/encyclopedie/boogseconde).
 
-Eén boogseconde is het 1/60ste deel van een [boogminuut](/encyclopedie-draft/hoeken)
-{.two}en één boogminuut is weer het 1/60ste deel van een
+Eén boogseconde is het 1/60ste deel van een [boogminuut](/encyclopedie/hoeken)
+en één boogminuut is weer het 1/60ste deel van een
 graad. Dus één boogseconde is het 1/3600ste deel van een graad.
 
 Ook door de draaiing van de aarde om zijn as treedt een afwijking op

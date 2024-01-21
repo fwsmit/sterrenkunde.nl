@@ -4,10 +4,10 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
+--------------------------------------------------------------------------------------
 Almagest is de Arabische titel van een vertaling van het belangrijkste
-boek van de astronoom [Claudius Ptolemaeus](ptolemaeus.html){.two}.
+boek van de astronoom [Claudius Ptolemaeus](/encyclopedie/ptolemaeus).
 
 De oorspronkelijke titel luidt «Megalé suntaxis tès astronomias» dat
 «Grote verhandeling over de sterrenkunde» betekent. Ptolemaeus was een
@@ -34,6 +34,8 @@ dertien behandelen de bewegingen van de planeten.
 Het werk van Claudius Ptolemaeus is vele honderden jaren het
 belangrijkste sterrenkundige werk geweest. Het duurde tot in de 16e eeuw
 alvorens het geocentrische wereldbeeld, waarvoor Ptolemaeus pleitte,
-vervangen werd door het [heliocentrische
-wereldbeeld](heliocentrisch.html){.two}, het wereldbeeld waarin de zon
+vervangen werd door het 
+[heliocentrische wereldbeeld](/encyclopedie/heliocentrisch), het wereldbeeld waarin de zon
 centraal staat en waarin alle planeten om de zon bewegen.
+
+---------------------------------------------------------------------------------------------------------------

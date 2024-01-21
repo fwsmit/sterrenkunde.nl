@@ -4,8 +4,8 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
+------------------------------------------------------------------------------------------------------------------------
 Op aarde geven we de afstanden meestal aan in meters of kilometers. De
 afstanden in het heelal zijn natuurlijk veel en veel groter dan de
 afstanden op aarde. Zo is de afstand tussen de aarde en de maan
@@ -37,91 +37,26 @@ de aarde.
 Hieronder vind je de afstanden van de planeten tot de zon in
 astronomische eenheden:
 
-planeet
-
-afstand tot de zon in a.e.
-
-kortste
-
-gemiddelde
-
-grootste
-
-Mercurius
-
-0,3075
-
-0,3871
-
-0,4667
-
-Venus
-
-0,7184
-
-0,7233
-
-0,7282
-
-Aarde
-
-0,9833
-
-1,0000
-
-1,0167
-
-Mars
-
-1,3813
-
-1,5236
-
-1,6659
-
-Jupiter
-
-4,9504
-
-5,2024
-
-5,4544
-
-Saturnus
-
-9,0626
-
-9,5697
-
-10,0768
-
-Uranus
-
-18,4817
-
-19,3030
-
-20,1342
-
-Neptunus
-
-29,9658
-
-30,2707
-
-30,5758
-
-Pluto
-
-29,6800
-
-39,6122
-
-49,5443
+---------------------------------------------------------------------------------------------------------------
+|   |   |
+|---|---| 
+**planeet**     |**gemiddelde afstand van de zon (a.e.)**  
+Mercurius	|0,3871
+Venus           |0,7233
+Aarde           |1,0000
+Mars            |1,5236
+Jupiter         |5,2024
+Saturnus        |9,5697
+Uranus          |19,3030
+Neptunus        |30,2707
+Pluto           |39,6122
+		|
+		
+---------------------------------------------------------------------------------------------------------------
 
 De afstanden tot de sterren zijn helemaal onvoorstelbaar groot. De ster
-die het dichtst bij de zon staat heet [Proxima
-Centauri](proxima.html){.two}.
+die het dichtst bij de zon staat heet Proxima
+Centauri.
 
 Het is een zwak sterretje in het sterren beeld Centaurus. Met het blote
 oog is Proxima Centauri niet te zien. Het sterretje maakt deel uit van
@@ -155,47 +90,49 @@ seconden. In één jaar legt het licht dus een afstand af van 31« miljoen
 x 300.000 kilo meter. Dat is iets minder dan 10 biljoen kilometer. Dat
 kunnen we ook schrijven als 10.000.000.000.000 kilometer! De ster die
 het dichtst bij de zon staat, dat was Proxima Centauri weet je nog wel,
-staat op zo\'n 42 biljoen kilometer. Dat is dus ongeveer 4,3 lichtjaar.
+staat op zo'n 42 biljoen kilometer. Dat is dus ongeveer 4,3 lichtjaar.
 
 Verderop vind je de sterren die het dichtst bij de zon staan. Behalve de
-afstand in lichtjaar geven we ook de [schijnbare
-magnitude](magnitud.html){.two} van deze sterren. Dat is de helderheid
+afstand in lichtjaar geven we ook de schijnbare
+magnitude van deze sterren. Dat is de helderheid
 zoals we ze aan de hemel zien staan. De meeste sterren zijn niet met het
 blote oog te zien. Hieraan kun je zien dat de meeste sterren minder
 licht uitstralen dan de zon.
 
-  ---------------------- -------------------------- ---------------------------
-  **Naam van de ster**   **Schijnbare magnitude**   **Afstand in lichtjaren**
-  Proxima Centauri       10,7                       4,27
-  Alfa Centauri A        0,0                        4,3
-  Alfa Centauri B        1,7                        4,3
-  Ster van Barnard       9,5                        5,8
-  Wolf 359               13,5                       7,6
-  Lalande 21185          7,5                        8,1
-  Sirius A               \- 1,4                     8,7
-  Sirius B               8,5                        8,7
-  UV Ceti A              12,5                       8,9
-  UV Ceti B              13,0                       8,9
-  Ross 154               10,6                       9,5
-  Ross 248               12,2                       10,3
-  Epsilon Eridani        3,8                        10,7
-  Ross 128               11,1                       10,8
-  Luyten 789-6           11,3                       10,8
-  61 Cygni A             5,2                        11,2
-  61 Cygni B             6,0                        11,2
-  Epsilon Indi           4,7                        11,2
-  ---------------------- -------------------------- ---------------------------
+  ----------------------------------------------------------------------------------------------
+  |   |   |   |   |
+  |---|---|---|---|
+  **Ster**|**Schijnbare magnitude**             |**afstand in lichtjaar**
+  Proxima Centauri       |10,7                     |  4,27
+  Alfa Centauri A        |0,0                      |  4,3
+  Alfa Centauri B        |1,7                      |  4,3
+  Ster van Barnard       |9,5                      |  5,8
+  Wolf 359               |13,5                     |  7,6
+  Lalande 21185          |7,5                      |  8,1
+  Sirius A               |1,4                      |  8,7
+  Sirius B               |8,5                      |  8,7
+  UV Ceti A              |12,5                     |  8,9
+  UV Ceti B              |13,0                     |  8,9
+  Ross 154               |10,6                     |  9,5
+  Ross 248               |12,2                     |  10,3
+  Epsilon Eridani        |3,8                      |  10,7
+  Ross 128               |11,1                     |  10,8
+  Luyten 789-6           |11,3                     |  10,8
+  61 Cygni A             |5,2                      |  11,2
+  61 Cygni B             |6,0                      |  11,2
+  Epsilon Indi           |4,7                      |  11,2
+  ---------------------------------------------------------------------------------------------------
 
 Alle andere sterren staan verder weg. De meeste sterren die wij van het
 sterrenbeeld Orion kunnen zien staan op afstanden van meer dan duizend
 lichtjaar. Astronomisch gezien is dat nog steeds niet ver weg. De
 sterren van de melkweg staan veel verder weg. Bedenk bovendien dat alle
 sterren die wij aan de hemel kunnen zien allemaal tot ons
-[Melkwegstelsel](melkwegs.html){.two} behoren. Het melkwegstelsel heeft
+[Melkwegstelsel](/encyclopedie/melkwegstelsel) behoren. Het melkwegstelsel heeft
 een door snede van maar liefst 100.000 lichtjaar.
 
 In het heelal bevinden zich miljarden van deze sterren stelsels. Een
-bekend sterrenstelsel is de [Andromedanevel](andromedanevel.html){.two}.
+bekend sterrenstelsel is de [Andromedanevel](/encyclopedie/andromedanevel).
 
 Onder gunstige omstandigheden is dit sterrenstelsel als een wazig vlekje
 met het blote oog zichtbaar. Het is één van de dichtstbijzijnde
@@ -224,7 +161,7 @@ lijkt de ster in de loop van een jaar een klein cirkeltje aan de hemel
 te beschrijven. De *straal* (dat is de halve middellijn) van van dat
 cirkeltje is vreselijk klein. Altijd kleiner dan één *boogseconde*. En
 hoe verder de ster van ons af staat, hoe kleiner het cirkeltje is. De
-straal van dat cirkeltje noemen we de [parallax](parallax.html){.two}
+straal van dat cirkeltje noemen we de [parallax](/encyclopedie/parallax)
 van de ster.
 
 Het is de afstand waarop we vanaf die ster de afstand aarde - zon zouden
@@ -265,112 +202,26 @@ Als een ster een schijnbare magnitude (m) heeft van 6 en zijn absolute
 magnitude (M) bedraagt 5, dan is de afstands modulus 6½ - 5 = 1½. In de
 tabel zie je dan dat de afstand 20 parsec bedraagt. Dat is 65 lichtjaar.
 
-m - M
+----------------------------------------------------------------------------------------------
+|   |   |   |
+|---|---|---|
+**m - M** |**afstand in parsec** |**in lichtjaar**
+-5,0      |1,0                   |3,3
+-3,5      |2,0                   |6,5
+-2,4      |3,3                   |10,8
+-1,5      |5,0                   |16,4
+0,0       |10                    |32,6
+1,5       |20                    |65  
+3,5       |50                    |164  
+5,0       |100                   |326  
+6,5       |200                   |652  
+8,5       |500                   |1.640  
+10,0      |1.000                 |3.260  
+13,5      |5.000                 |16.400  
+15,0      |10.000                |32.600  
+20,0      |100.000               |326.000  
+25,0      |1.000.000             |3.260.000  
+30,0      |10.000.000            |32.600.000  
+35,0      |100.000.000           |326.000.000  
 
-afstand
-
-in parsec
-
-in lichtjaar
-
-\- 5,0
-
-1,0
-
-3,3
-
-\- 3,5
-
-2,0
-
-6,5
-
-\- 2,4
-
-3,3
-
-10,8
-
-\- 1,5
-
-5,0
-
-16,4
-
-0,0
-
-10  
-
-32,6
-
-1,5
-
-20  
-
-65  
-
-3,5
-
-50  
-
-164  
-
-5,0
-
-100  
-
-326  
-
-6,5
-
-200  
-
-652  
-
-8,5
-
-500  
-
-1.640  
-
-10,0
-
-1.000  
-
-3.260  
-
-13,5
-
-5.000  
-
-16.400  
-
-15,0
-
-10.000  
-
-32.600  
-
-20,0
-
-100.000  
-
-326.000  
-
-25,0
-
-1.000.000  
-
-3.260.000  
-
-30,0
-
-10.000.000  
-
-32.600.000  
-
-35,0
-
-100.000.000  
-
-326.000.000  
+----------------------------------------------------------------------------------------------

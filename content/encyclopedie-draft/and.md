@@ -4,21 +4,21 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
+---------------------------------------------------------------------------------------------------
 Het sterrenbeeld Andromeda kun je in het najaar hoog in het zuiden aan
 de hemel vinden. De meest linker ster van het sterrenbeeld heet Alamak.
-Dit is een prachtige [dubbelster](dubbelst.html){.two}.
+Dit is een prachtige [dubbelster](/encyclopedie/dubbelst).
 
 Reeds in een kleine sterrenkijker is het kleurverschil tussen beide
 sterren goed te zien. Alamak zelf heeft een schijn bare magnitude van
 2,28 en is oranje van kleur. De begeleider heeft een schijnbare
 magnitude van 5,08 en is blauw. De afstand tussen beide sterren bedraagt
-ongeveer 10 [boogseconden](hoeken.html){.two}.
+ongeveer 10 [boogseconden](/encyclopedie/hoeken).
 
 Het sterrenbeeld Andromeda is vooral bekend door de beroemde
-[Andromedanevel](andromedanevel.html){.two}. Dit is een
-[sterrenstelsel](sterrenstelsel.html){.two} dat onder gunstige
+[Andromedanevel](/encyclopedie/andromedanevel). Dit is een
+[sterrenstelsel](/encyclopedie/sterrenstelsel) dat onder gunstige
 waarnemingsomstandigheden zelfs zonder kijker zichtbaar is.
 
 De Andromedanevel staat op een afstand van 2,2 miljoen lichtjaar en is
@@ -41,16 +41,18 @@ met Andromeda trouwen.
 Hieronder vind je wat gegevens over de drie helderste sterren van het
 sterrenbeeld Andromeda. In de eerste kolom vind je de Griekse
 letteraanduiding, dan de naam, de afstand in
-[lichtjaar](lichtjaar.html){.two} en het
-[spectraaltype](spectraa.html){.two}. Tenslotte vind je de [schijnbare
-magnitude](magnitud.html){.two} en de [absolute
-magnitude](absolute.html){.two}.
+[lichtjaar](/encyclopedie/lichtjaar) en het
+[spectraaltype](/encyclopedie/spectraa). Tenslotte vind je de [schijnbare magnitude](magnitude.) 
+en de [absolute magnitude](absolute).
 
   ----------- -------- -------- ----- ------ ------
-  alfa And    Sirrah   105 lj   B8    2,15   -0,4
-  beta And    Mirach   82 lj    gM0   2,37   0,4
-  gamma And   Alamak   160 lj   gK2   2,28   -1,2
-  delta And            125 lj   gK3   3,49   0,6
+  |   |   |   |   |   |   |
+  |---|---|---|---|---|---|
+  **Grieks aanduiding** |**Naam** |**Afstand** |**Spectraaltype** |**Schijnbare magnitude** |**absolute magnitude**
+  alfa And              |Sirrah   |105 lj      |B8                |2,15                     |-0,4
+  beta And              |Mirach   |82 lj       |gM0               |2,37                     |0,4
+  gamma And             |Alamak   |160 lj      |gK2               |2,28                     |-1,2
+  delta And             |Sadiradra|125 lj      |gK3               |3,49                     |0,6
   ----------- -------- -------- ----- ------ ------
 
 De kleine letter g bij het spectraaltype betekent dat we met een
@@ -62,5 +64,7 @@ Als we het hebben over de ster alfa (a) van het sterrenbeeld Andromeda
 zeggen we a Andromedae of a And, want de officiële afkorting van het
 sterrenbeeld is And.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+------------------------------------------------------------------------------------------------------------------

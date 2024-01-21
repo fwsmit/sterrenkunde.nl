@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+------------------------------------------------------------------------------
 Maat voor het terugkaatsingsvermogen van licht. Zoals je weet kaatst een
 spiegel meer licht terug dan een zwart stuk papier. Het albedo van een
 spiegel is dan ook veel hoger dan het albedo van zwart papier. Het
@@ -22,46 +21,22 @@ planeet erg donker is.
 De planeet Venus heeft juist een hoog albedo. Dat komt door het
 wolkendek van de planeet. Dat kaatst een groot deel van het licht terug.
 
-Hieronder geven we de albedo\'s van alle planeten. Zoals je kunt zien
+Hieronder geven we de albedo's van alle planeten. Zoals je kunt zien
 heeft onze aarde een albedo van 0,30. Dertig procent van het licht dat
 op onze planeet valt wordt dus teruggekaatst.
 
-planeet
+-----------------------------------------------------------------
+|   |   |
+|---|---|
+**planeet** | **albedo**
+Mercurius   |0,056
+Venus       |0,72
+Aarde       |0,30
+Mars        |0,16
+Jupiter     |0,34
+Saturnus    |0,34
+Uranus      |0,30
+Neptunus    |0,31
+Pluto       |0,55
 
-albedo
-
-Mercurius
-
-0,056
-
-Venus
-
-0,72
-
-Aarde
-
-0,30
-
-Mars
-
-0,16
-
-Jupiter
-
-0,34
-
-Saturnus
-
-0,34
-
-Uranus
-
-0,30
-
-Neptunus
-
-0,31
-
-Pluto
-
-0,55
+---------------------------------------------------------------------------------------

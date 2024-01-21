@@ -4,12 +4,11 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---------------------------------------------------------------------------------
 Op 25 mei 1961 begon het Apollo-project met de belofte van president
 John F. Kennedy aan het Congres dat vóór 1970 er een mens op de maan zou
 landen. Deze uitspraak was natuurlijk heel gedurfd omdat op dat moment
-niet te overzien was of in zo\'n korte tijd een bemande reis naar de
+niet te overzien was of in zo'n korte tijd een bemande reis naar de
 maan inderdaad kon worden gemaakt.
 
 De beslissing van Kennedy werd met gejuich begroet. Geld speelde geen
@@ -40,7 +39,7 @@ raketten naar het lanceerplatform moesten vervoeren. Deze crawler was
 indrukwekkend groot en zwaar: 39,9 meter lang, 34,7 meter breed en 7,9
 meter hoog. Hij woog maar liefst 2721 ton!! De *Saturnus-V* raket was
 door specialisten onder leiding van *Wernher von Braun* voor de reizen
-naar de maan ont wikkeld. Het was een drietraps-raket met daarop de
+naar de maan ontwikkeld. Het was een drietraps-raket met daarop de
 Apollo capsule en de ontsnappingstoren. De hoogte van het hele gevaarte
 bedroeg 110,6 meter. Ongeveer even hoog als de Dom-toren in Utrecht.
 Leeg woog de raket 182.000 kg en gevuld met brandstof maar liefst
@@ -268,12 +267,12 @@ licht wagentje op twee wielen.
 Bij de laatste drie maanvluchten van Apollo-15, -16 en -17 werd gebruik
 gemaakt van een maanauto, waardoor opeens veel grotere afstanden op de
 maan konden worden afgelegd. De ontwikkeling en de bouw van deze
-maanauto\'s kostte 75 miljoen gulden.
+maanauto's kostte 75 miljoen gulden.
 
 De laatste drie vluchten hadden in meer opzichten een grotere
 capaciteit: ze duurden langer en maakten gebruik van een deel van het
 bedieningscompartinent (SM) voor onderzoek van de maan. In het SM zaten
-onder meer camera\'s die de maan systematisch fotografeerden. Dit
+onder meer camera's die de maan systematisch fotografeerden. Dit
 gebeurde terwijl de Apollo-capsule en de SM met één astronaut om de maan
 bleef draaien; ondertussen daalden twee astronauten met de maanlander
 naar het maanoppervlak af.
@@ -372,3 +371,5 @@ Tot slot hieronder nog een kort overzicht van alle Apollo vluchten:
     Apollo-17     Eugene Cernan        07-12-1972  12 dg 13 u 52 m 
                   Ronald Evans 
                   Harrison Schmidt 
+                  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------

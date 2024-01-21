@@ -13,7 +13,7 @@ licht wordt als het ware door het stof opgeslorpt.
 De ruimte tussen de sterren is niet leeg. Tussen de sterren bevinden
 zich vaak grote gas- en stofwolken.
 
-Dit gas en stof wordt [interstellaire materie](/encyclopedie-draft/interste){.two}
+Dit gas en stof wordt [interstellaire materie](/encyclopedie/interste)
 genoemd.
 
 Interstellair betekent: tussen de sterren. Het licht van de sterren
