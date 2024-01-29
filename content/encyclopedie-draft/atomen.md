@@ -4,12 +4,12 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-
+----------------------------------------------------------------------------
 Atomen zijn hele kleine deeltjes, waaruit alles bestaat.
 
 ![Rutherford model](/Atom_Model2.png)
 
-(figuur 1) Atoom model 
+**Figuur 1: koolstofatoom model** 
 
 
 
@@ -53,7 +53,7 @@ zuurstof.
 
 Waterstof en zuurstof zijn zelf geen verbindingen. Ze zijn namelijk niet
 uit verschillende stoffen opgebouwd. Stoffen, die géén verbindingen zijn
-noemen we [elementen](elemente.html){.two}. Waterstof is een element,
+noemen we [elementen](/encyclopedie/elementen). Waterstof is een element,
 evenals zuurstof. Ze lijken niet veel op elkaar.
 
 De waterstofdeeltjes en de zuurstofdeeltjes leken immers ook niet op
@@ -96,7 +96,7 @@ stelt de zon voor.
 
 De elektronen de planeten. En net zoals de zon aan de planeten trekt,
 trekt de kern aan de elektronen. In het zonnestelsel noemen we die
-kracht de [zwaartekracht](zwaartekracht.html){.two}. In het atoom is het
+kracht de [zwaartekracht](/encyclopedie/zwaartekracht). In het atoom is het
 de *elektrische aantrekkingskracht*.
 
 Positieve en negatieve elektrische ladingen trekken elkaar aan. De
@@ -206,3 +206,5 @@ dan immers meer protonen dan elektronen. Zo kunnen we een atoom ook
 extra elektronen geven. Het atoom is dan negatief elektrisch geladen.
 Een geladen atoom noemen we een *ion*. We zeggen, dat het
 oorspronkelijke atoom *geïoniseerd* is.
+
+---------------------------------------------------------------------------------------------------

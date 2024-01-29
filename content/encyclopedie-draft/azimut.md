@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+--------------------------------------------------------------------------------
 Het azimut van een hemellichaam is de afstand in graden vanaf het
 noordpunt tot het punt recht onder dat hemellichaam.
 
@@ -67,3 +66,5 @@ Azimut en hoogte van een hemellichaam kunnen soms erg handig zijn. Ze
 vertellen ons precies naar welk gedeelte van de hemel we moeten kijken
 om het object te zien. We kunnen zo nagaan of er misschien huizen of
 bomen in de weg staan.
+
+---------------------------------------------------------------------------------------

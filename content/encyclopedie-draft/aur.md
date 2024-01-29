@@ -4,9 +4,8 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-In de [melkweg](melkweg.html){.two} staat het gemakkelijk te herkennen
+---------------------------------------------------------------------------------------------
+In de [melkweg](/encyclopedie/melkweg) staat het gemakkelijk te herkennen
 sterren beeld Voerman (ook wel Wagenmenner genoemd). In de winter vind
 je het bijna altijd recht boven je hoofd tussen Perseus en de
 Tweelingen. De helderste ster heet Capella, dat betekent geit. Vlak
@@ -17,21 +16,21 @@ als Jupiter en Saturnus). Capella ligt dan ook in de melkweg! Er zijn
 een heleboel beroemde wagenmenners op wie dit sterrenbeeld kan slaan,
 maar wie het nu precies is weten we niet.
 
-In het sterrenbeeld Voerman bevinden zich een aantal [open\
-sterrenhopen](openster.html){.two}. Je kunt eens proberen er een in een
+In het sterrenbeeld Voerman bevinden zich een aantal [opensterrenhopen](/encyclopedie/sterrenh). Je kunt eens proberen er een in een
 verrekijker te vinden.
 
 In de onderstaande tabel geven we wat gegevens over de twee helderste
 sterren van dit sterrenbeeld. Achtereenvolgens vind je de Griekse
 letteraanduiding, de naam, de afstand in
-[lichtjaar](lichtjaa.html){.two}, het
-[spectraaltype](spectraa.html){.two}, de [schijnbare
-magnitude](magnitud.html){.two} en de [absolute
-magnitude](absolute.html){.two}.
+[lichtjaar](/encyclopedie/lichtjaar), het
+[spectraaltype](/encyclopedie/spectraa) de [schijnbare magnitude](/encyclopedie/magnitude) en de [absolute magnitude](/encyclopedie/absolute).
 
   ------ ----- ------------ ------- ----- ------ ------
-  alfa   Aur   Capella      45 lj   gG5   0.08   -0.6
-  beta   Aur   Menkalinan   65 lj   A2    1.95   0.5
+  |   |   |   |   |   |   |
+  |---|---|---|---|---|---|
+  Griekse aanduiding| naam| afstand | spectraaltype| schijnbare magnitude| absolute magnitude
+  alfa   |Aur     Capella      |45 lj   |gG5   |0.08   |-0.6
+  beta   |Aur     Menkalinan   |65 lj   |A2    |1.95   |0.5
   ------ ----- ------------ ------- ----- ------ ------
 
 De kleine letter g voor het spectraaltype geeft aan dat we met een
@@ -45,5 +44,7 @@ Als we het over de ster alfa (a) van het sterrenbeeld hebben zeggen we a
 Aurigae of a Aur, want Aur is de officiële af korting van het
 sterrenbeeld Voerman.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+-----------------------------------------------------------------------------------------------
