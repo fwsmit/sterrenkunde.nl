@@ -4,7 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
+----------------------------------------------------------------------------------------
 
 Astronomie is een ander woord voor *sterrenkunde*. Het is een van de
 oudste en tegelijk een van de modernste wetenschappen.
@@ -136,3 +136,5 @@ waarnemingen.\
 \
 *Ruimteonderzoek*: sterrenkundig onderzoek vanaf satellieten buiten de
 aarde.
+
+---------------------------------------------------------------------------------------------

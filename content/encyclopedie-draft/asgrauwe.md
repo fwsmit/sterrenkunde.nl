@@ -4,12 +4,12 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
   -----------------------------------------------------------------------
-  ![Het asgrauwe licht van de maan](plaatjes/asgrauw.jpg){vspace="0"
-  hspace="0"}\
-  **De aarde vanuit de ruimte**
+  ![Het asgrauwe licht van de maan](/asgrauw.jpg)
+  
+  
+  **Figuur 1: De aarde vanuit de ruimte**
 
   -----------------------------------------------------------------------
 
@@ -18,4 +18,6 @@ verlichte sikkel. Maar het overige deel is niet helemaal donker. Het is
 vaak flauw verlicht. Dat noemen we het asgrauwe licht of het asgrauwe
 schijnsel. Het wordt veroorzaakt doordat het licht van de aarde voor een
 deel naar de maan wordt weerkaatst. Vanaf de maan gezien is de aarde dan
-namelijk bijna \'vol\'.
+namelijk bijna 'vol'.
+
+---------------------------------------------------------------------------------

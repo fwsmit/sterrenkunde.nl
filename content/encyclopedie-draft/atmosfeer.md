@@ -4,11 +4,14 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
+
+----------------------------------------------------------------------------------------------------------------------------
+  **Bron: Hans Cools**
   -------------------------------------------------------------------------------------------------------------
-  [![De atmosfeer van de aarde](plaatjes/atmosfeer.png){vspace="5" hspace="5"}](plaatjes/atmosfeer_groot.png)
+  [![De atmosfeer van de aarde](/atmosfeer.png)
   -------------------------------------------------------------------------------------------------------------
 
-  : *Afbeelding: Hans Cools*
+  **Figuur 1: Atmosfeer representatie**
 
 De lucht die je inademt is een deel van de atmosfeer van de aarde. Een
 andere naam is *dampkring*.
@@ -122,8 +125,8 @@ Engelse zender kunnen ontvangen. De Engelse radiogolven komen helemaal
 tot in de ionosfeer. Daar worden ze in alle richtingen teruggekaatst.
 
 Er gebeurt nog veel meer in de ionosfeer. Alle
-[meteoren](meteoren.html){.two}die je aan de sterrenhemel ziet,
-verschijnen in de ionosfeer. Ook het [poollicht](poollicht.html){.two}
+[meteoren](/enycloped/meteoren) die je aan de sterrenhemel ziet,
+verschijnen in de ionosfeer. Ook het [poollicht](/enyclopedie/poollicht)
 ontstaat in deze laag. Het poollicht is een heel mooi verschijnsel. Het
 lijkt, alsof er gordijnen van licht in de lucht hangen. Het poollicht
 verandert voortdurend van kleur, vorm en helderheid. Vooral in de buurt
@@ -190,24 +193,26 @@ stoffen, zoals neon, helium, methaan, enzovoorts, is er maar een heel
 klein beetje. Dat kun je ook goed zien in het lijstje hieronder waarin
 we nog even de belangrijkste bestandsdelen van onze dampkring geven:
 
-\
 
-  ------------------------- ----------
-  stikstof                  78,084 %
-  zuurstof                  20,946 %
-  argon                     0,934 %
-  koolstofdioxide (CO~2~)   0,032 %
-  neon                      0,0018 %
-  helium                    0,0005 %
-  methaan                   0,0002 %
-  krypton                   0,0001 %
-  waterstof                 0,00005%
-  ------------------------- ----------
+  |   |   |
+  |---|---|
+  stikstof                  |78,084 %
+  zuurstof                  |20,946 %
+  argon                     |0,934 %
+  koolstofdioxide (CO~2~)   |0,032 %
+  neon                      |0,0018 %
+  helium                    |0,0005 %
+  methaan                   |0,0002 %
+  krypton                   |0,0001 %
+  waterstof                 |0,00005%
+  
 
-\
+
 
 Zonder de dampkring zou er op aarde geen leven mogelijk zijn. Natuurlijk
 hebben we lucht nodig om te ademen. Maar alle schadelijke straling wordt
 ook door de atmosfeer tegengehouden. We hebben al gezien, dat de
 ozonlaag de ultraviolette straling tegenhoudt. Ook röntgenstraling en
 gammastraling wordt door de atmosfeer haast niet doorgelaten.
+
+----------------------------------------------------------------------------------------------

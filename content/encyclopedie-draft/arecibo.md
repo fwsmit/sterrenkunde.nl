@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---------------------------------------------------------------------------------------------
 De grootste radar- en radiotelescoop ter wereld is te vinden in Arecibo
 op Puerto Rico. De schotel, die uit 38.800 afzon derlijke aluminium
 panelen bestaat, is in 1963 gebouwd door de Amerikaanse luchtmacht en is
@@ -52,3 +51,5 @@ Het radarsysteem, waarmee bijvoorbeeld dichtbij komende kometen en
 planetoïden onderzocht worden, is nu twintig keer zo gevoelig als
 voorheen. Theoretisch kan men nu een stalen golfbal op de afstand van de
 maan detecteren.
+
+----------------------------------------------------------------------------------------

@@ -337,7 +337,7 @@ van het bemande maanonderzoek gesymboliseerd.
 
 Tot slot hieronder nog een kort overzicht van alle Apollo vluchten:
 
-    Naam capsule  Astronauten          lanceerdatum  duur vlucht 
+    Naam capsule  Astronauten              lanceerdatum  duur vlucht 
     Apollo-7      Walter Schirra       11-10-1968    10 dg 20 u  9 m 
                   Donn Eisele 
                   Walter Cunningham 
@@ -368,7 +368,7 @@ Tot slot hieronder nog een kort overzicht van alle Apollo vluchten:
     Apollo-16     John Young           16-04-1972  11 dg  1 u 51 m 
                   Thomas Mattingly 
                   Charles Duke 
-    Apollo-17     Eugene Cernan        07-12-1972  12 dg 13 u 52 m 
+    Apollo-17     Eugene Cernan        07-12-1972  12 dg 13 u 52 m
                   Ronald Evans 
                   Harrison Schmidt 
                   

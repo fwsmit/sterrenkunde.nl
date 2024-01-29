@@ -4,9 +4,11 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-![De arizonakrater](plaatjes/arizona_krater.jpg){vspace="5" hspace="5"
-align="right"}
+-------------------------------------------------------------------------------
+![De arizonakrater](/arizonakrater.jpg)
+
+**Figuur 1: Arizona krater**
+
 
 Dit is een van de bekendste meteorenkraters die we kennen.
 
@@ -44,4 +46,6 @@ Ooggetuigen zagen een grote vuurbol met een lange staart die uit de
 hemel viel.
 
 Ook in ons land zijn in het verleden meteorieten neerge komen. Dat kun
-je lezen bij het trefwoord [meteoren](meteoren.html){.two}.
+je lezen bij het trefwoord [meteoren](/encyclopedie/meteoren).
+
+----------------------------------------------------------------------------------
