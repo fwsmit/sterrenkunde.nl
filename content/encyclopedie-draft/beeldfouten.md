@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+--------------------------------------------------------------------------------
 Beeldfouten zijn er de oorzaak van, dat sterren niet meer vol komen
 scherp worden waargenomen. Hoe sterker je je kijker laat vergroten, hoe
 meer last je er van hebt.
@@ -48,10 +47,10 @@ sterren lijken net kleine komeetjes.
 
 Vandaar de naam coma. Bij lenzen is er iets aan te doen. Ze worden dan
 wel duurder. Bij spiegelkijkers is coma bijna altijd onvermijdelijk. Op
-foto\'s die met grote spiegelkijkers zijn gemaakt, kun je dat soms zien.
+foto's die met grote spiegelkijkers zijn gemaakt, kun je dat soms zien.
 Bovendien heb je bij het fotograferen door de kijker eerder last van
 coma dan bij visueel waarnemen. Visueel waarnemen is kijken door de
-kijker in plaats van foto\'s maken. Het beeldveld is groter wanneer je
+kijker in plaats van foto's maken. Het beeldveld is groter wanneer je
 de sterren fotografeert. En hoe groter het beeld veld is, hoe erger deze
 fout wordt.
 
@@ -61,15 +60,15 @@ Net zoals bij coma is de fout aan de rand van het beeldveld groter dan
 in het midden. Ook bij astigmatisme geldt: hoe groter het beeldveld, hoe
 erger de fout.
 
-4\. *Beeldveldkromming*. Als je door de kijker kijkt (dus bij visueel
+4. *Beeldveldkromming*. Als je door de kijker kijkt (dus bij visueel
 waarnemen), heb je hier bijna nooit last van. Bij fotograferen is het
 hinderlijk. Niet het hele kijkerbeeld komt scherp op de foto. Om er geen
 last van te hebben zou de film een beetje bol moeten worden gemaakt. Op
 grote sterren wachten wordt dit soms gedaan.
 
-5\. *Vertekening*. Bij vertekening worden de sterren niet precies op de
+5. *Vertekening*. Bij vertekening worden de sterren niet precies op de
 juiste plaats afgebeeld. In sommige gevallen kan het hinderlijk zijn.
-Zoals bij het nauwkeurig uitmeten van foto\'s.
+Zoals bij het nauwkeurig uitmeten van foto's.
 
 Bij visueel waarnemen zul je er nooit iets van merken. Ook het oculair
 is nog wel eens de oorzaak van vertekening. Het objectief is niet altijd
@@ -83,7 +82,7 @@ is *kleurfouten*. Hierdoor zie je kleine gekleurde randjes rond de
 sterren. Deze beeldfout wordt vaak chromatische aberratie genoemd. Een
 spiegel heeft er nooit last van. Dat is hét sterke punt van een
 spiegelkijker. Lenzen hebben altijd kleurfouten. Bij een *achromatische
-lens* zijn ze echter niet zo groot.\
+lens* zijn ze echter niet zo groot.
 Buigingsfouten zijn de laatste soort beeldfouten. Dit zijn fouten, waar
 de kijker nu eens helemaal geen schuld aan heeft. In de kijker zie je
 rond heldere sterren een aantal kringetjes. Die worden naar buiten toe
@@ -93,3 +92,5 @@ golfjes zijn ongeveer de helft van 1/1000ste millimeter lang. De golfjes
 zelf kunnen we natuurlijk nooit zien. Hoe kleiner de middellijn van het
 objectief is, hoe beter de buigingsringen te zien zijn. Wel moet de lens
 of de spiegel van goede kwaliteit zijn.
+
+----------------------------------------------------------------------------------

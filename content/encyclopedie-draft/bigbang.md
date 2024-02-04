@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Niemand weet precies hoe het heelal is ontstaan. Er zijn wel allerlei
 ideeën over. Als zo\'n idee wat beter is uitgewerkt, noemen we het een
 *theorie.* De bekendste theorie over het ontstaan van het heelal is die
@@ -17,7 +16,7 @@ ontzettend groot zijn geweest.
 Ongeveer 18 miljard jaar geleden ontplofte deze bol met een enorme klap.
 Waar die explosie door kwam, zullen we wel nooit te weten komen. Met een
 enorme snelheid werd de materie in alle richtingen wegge slingerd. Pas
-veel later ontstonden hieruit [Melkwegstelsels](melkwegs.html){.two} en
+veel later ontstonden hieruit [Melkwegstelsels](/encyclopedie/melkwegstelses) en
 afzonderlijke sterren.
 
 Hoe is men nu op deze theorie gekomen? Het was bekend, dat alle
@@ -40,3 +39,5 @@ is 3 Kelvin. Een andere naam voor de kosmische achtergrondstraling is
 daarom *3 Kelvin straling* (3 K-straling). Dit is als het ware de
 temperatuur van het heelal. Overgebleven van de oerknal. Het kan een
 bewijs zijn voor de juistheid van de big-bang-theorie.
+
+---

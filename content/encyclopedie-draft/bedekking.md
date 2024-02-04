@@ -4,15 +4,14 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-Deze groep [veranderlijke sterren](verander.html){.two} wordt
+--------------------------------------------------------------------------
+Deze groep [veranderlijke sterren](/encyclopedie/verander) wordt
 onderverdeeld in vier verschillende typen:
 
-a\) Algolsterren;\
-b) Bèta Lyrae-sterren;\
-c) W Ursae Majoris-sterren;\
-d) Röntgen-dubbelsterren.\
+a) Algolsterren.\
+b) Bèta Lyrae-sterren.\
+c) W Ursae Majoris-sterren.\
+d) Röntgen-dubbelsterren.
 
 *Algolsterren* zijn genoemd naar de ster Algol in het sterrenbeeld
 Perseus. Meer dan de helft van alle bedekkingsveranderlijke sterren zijn
@@ -24,7 +23,7 @@ een veel langere omloopstijd hebben. De *periode* van Algol is 2,87
 dagen.
 
 Dat is bijna 70 uur. In die tijd wisselt de helderheid van
-[magnitude](magnitud.html){.two} 2,3 tot 3,5. De lichtwisseling ontstaat
+[magnitude](/encyclopedie/magnitude) 2,3 tot 3,5. De lichtwisseling ontstaat
 doordat de twee sterren elkaar telkens bedekken.
 
 De grote helderheidsafname van Algol ontstaat als de heldere ster bedekt
@@ -96,3 +95,5 @@ Röntgenstraling kan vanaf het aardoppervlak niet worden waargenomen.
 Deze straling wordt door de dampkring tegen gehouden. Er zijn wel
 speciale kunstmanen in een baan om de aarde gebracht die röntgenstraling
 kunnen waarnemen.
+
+------------------------------------------------------------------------------------

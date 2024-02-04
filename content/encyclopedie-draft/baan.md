@@ -4,7 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
+----------------------------------------------------------------------------
 
 Weg die een hemellichaam beschrijft. Planeten staan niet stil in de
 ruimte. Ze draaien om de zon. Hun plaats tussen de sterren verandert
@@ -28,3 +28,5 @@ dat Mars *stationair* is. Kort daarna beweegt hij zelfs een tijdje van
 oost naar west. Dus precies de andere kant op. We noemen dat
 *retrograad*. Die retrograde beweging ontstaat doordat de aarde zelf ook
 rond de zon draait.
+
+-----------------------------------------------------------------------------

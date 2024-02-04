@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Een bolometer is een instrument waarmee straling van hemel lichamen
 wordt gemeten.
 
@@ -37,8 +36,8 @@ een ster, zoals we deze aan de hemel zien staan. Het verschil tussen
 visuele magnitude en bolometrische magnitude noemen we *bolometrische
 correctie*.
 
-\
-bolometrische correctie = visuele magn. - bolometrische magn.\
+
+bolometrische correctie = visuele magn. - bolometrische magn.
 
 Er is afgesproken dat de visuele magnitude van de zon gelijk is aan zijn
 bolometrische magnitude. De bolometrische correctie van de zon is dus
@@ -50,7 +49,7 @@ Dat lijstje ziet er als volgt uit:
     kleur van de ster        bolometrische correctie        
                            (verschil tussen visuele en      
                              bolometrische magnitude)       
-    ------------------------------------------------------- 
+   
            blauw                   ongeveer 3                
            blauw-wit               ongeveer 1,5              
            wit                     ongeveer 0,5              
@@ -68,4 +67,6 @@ helderheid was magnitude 5. De bolometrische magnitude wordt dan 5 - 1ġ
 = magnitude 3ġ.
 
 Magnitude 3ġ is helderder dan magnitude 5. Lees zonodig ook het verhaal
-bij [magnitude](magnitud.html){.two}.
+bij [magnitude](/encyclopedie/magnitude).
+
+---

@@ -4,13 +4,12 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+-------------------------------------------------------------------------------
 Baanelementen of baangegevens zijn gegevens die nodig zijn om de baan
 van een hemellichaam te beschrijven.
 
 Vaak willen we weten waar een planeet op een bepaald tijdstip staat. Dat
-kun je in de [sterrengids](koepel.html){.two} vinden. Zelf de baan
+kun je in de [sterrengids](/encyclopedie/koepel) vinden. Zelf de baan
 uitrekenen is erg moeilijk. Hoe dat moet zullen we dan ook niet
 behandelen. Wel noemen we de baanelementen die sterren kundigen
 gebruiken bij het berekenen van de baan. Wat denk je dat we allemaal van
@@ -90,9 +89,11 @@ i: inclinatie of baanhelling\
 Ω: lengte van de klimmende knoop, gemeten in de richting waarin het
 lentepunt ligt\
 ω: periheliumlengte, gemeten vanaf de klimmende knoop\
-T: tijdstip van periheliumdoorgang\
-\
+T: tijdstip van periheliumdoorgang3
+
 
 Als al deze baanelementen bekend zijn, kan men voor ieder tijdstip
 uitrekenen waar de planeet staat. Je begrijpt, dat dit ook geldt voor
 alle andere hemellichamen die om de zon bewegen.
+
+----------------------------------------------------------------------------------

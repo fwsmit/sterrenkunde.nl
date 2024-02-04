@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Een afwijking van de rechte weg van lichtstralen noemen we buiging. Het
 licht wordt gebogen aan de randen van voorwerpen.
 
@@ -40,9 +39,11 @@ vergroting.
 In de tabel op de volgende bladzijde zie je wat de maximale bruikbare
 vergroting is voor enkele kijkers. Je ziet dat deze ongeveer 1½ keer zo
 groot is als de middellijn van de lens in millimeters. De
-[JWG-kijker](jwgkijker.html){.two} heeft een lens met een middellijn van
+[JWG-kijker](/encyclopedie/jwgkijker) heeft een lens met een middellijn van
 60 millimeter. Deze kijker is daarom bij een vergroting van 90 keer (1½
 x 60) buigingsbegrensd.
 
 Bij een minder goede lens heb je veel meer last van andere beeldfouten.
 Van buiging merk je dan haast niets.
+
+---

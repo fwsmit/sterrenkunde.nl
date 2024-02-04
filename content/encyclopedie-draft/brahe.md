@@ -4,10 +4,10 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
-  -----------------------------------------------------------------------
-  ![Tycho Brahe](plaatjes/brahe.gif){vspace="0" hspace="0"}\
+  ----------------------------------------------------------------------
+  ![Tycho Brahe](/brahe.gif)
+  
   **Tycho Brahe**
 
   -----------------------------------------------------------------------
@@ -27,7 +27,7 @@ zonsverduistering keek. Twaalf jaar later had hij al een aantal
 instrumenten gemaakt waarmee hij nauwkeurig de plaats van de sterren aan
 de hemel kon be palen.
 
-In november 1572 ontdekte hij een [supernova](supernova.html){.two} in
+In november 1572 ontdekte hij een [supernova](/encyclopedie/supernova) in
 het sterren beeld Cassiopeia. De waarnemingen die Tycho Brahe aan deze
 supernova verrichtte, heeft hij in zijn boek «de Stella Nova»
 gepubliceerd. In 1575 voerde een volgende reis hem naar het hof van de
@@ -39,12 +39,9 @@ kilometers ten noorden van Kopenhagen. In deze sterren wachten,
 Uraniborg en Stjerneborg, stelde hij zijn instru menten op. De
 waarnemingen van Tycho Brahe waren verreweg de nauwkeurigste voor de
 uitvinding van de kijker. Hij wist de nauwkeurigheidsgrens van zijn
-metingen, die bij [Copernicus\
-](copernicus.html){.two}ongeveer 10 *boogminuten* bedroeg, te verlagen
-tot 2 boogminuten Door het gebruik dat [Johannes
-Kepler](kepler.html){.two} van zijn waarnemingen maakte, heeft Tycho
-Brahe indirect in hoge mate tot de over winning van het [heliocentrische
-wereldbeeld](heliocentrisch.html){.two} bijgedragen.
+metingen, die bij [Copernicus](/encyclopedie/copernicus) ongeveer 10 *boogminuten* bedroeg, te verlagen
+tot 2 boogminuten Door het gebruik dat [Johannes Kepler](/encyclopedie/kepler) van zijn waarnemingen maakte, heeft Tycho
+Brahe indirect in hoge mate tot de over winning van het [heliocentrische wereldbeeld](/encyclopedie/heliocentrisch) bijgedragen.
 
 Johannes Kepler kon er namelijk de werkelijke beweging van de planeten
 uit afleiden.
@@ -62,3 +59,5 @@ Daar was hem echter als keizerlijk astronoom en wiskundige nog maar een
 korte tijd gegund. Hij haalde de Duitse astro noom Johannes Kepler als
 medewerker naar Praag en liet deze zijn wetenschappelijk werk na toen
 hij op 24 oktober 1601 in Praag overleed.
+
+---
