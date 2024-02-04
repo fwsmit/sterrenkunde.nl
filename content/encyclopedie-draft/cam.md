@@ -4,7 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
+---
 
 Tussen het sterrenbeeld Voerman en de Poolster bevindt zich een gapende
 leegte. Slechts weinig sterren zijn in dit gebied zichtbaar. In het jaar
@@ -13,12 +13,14 @@ enkele tekening valt waar te nemen, tot Giraffe. Omdat de
 sterrenkundigen niet graag eenmaal ingeburgerde namen van sterrenbeelden
 veranderen, behield dit sterrenbeeld tot op de huidige dag deze naam. Er
 zijn slechts twee sterren van dit sterrenbeeld met het blote oog goed
-zicht baar. En dan alleen nog onder goede waarnemingsomstandig heden.\
+zicht baar. En dan alleen nog onder goede waarnemingsomstandig heden.
 De Latijnse naam van het sterrenbeeld Giraffe is *Camelopar dalis*. Ook
 bij gebruik van de tweede naamval (genitief) blijft deze naam
 onveranderd. Als we het over de ster alfa (a) van dit sterrenbeeld
 hebben zeggen we a Camelopardalis of a Cam, want de officiële afkorting
 van het sterrenbeeld Giraffe is Cam.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

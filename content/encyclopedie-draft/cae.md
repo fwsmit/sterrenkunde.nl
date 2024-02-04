@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 In het midden van de 18de eeuw benoemde de geestelijke en sterrenkundige
 Nicolas-Louis de la Caille een aantal ster renbeelden aan de zuidelijke
 sterrenhemel. Eén ervan is het sterrenbeeld Graveerstift. De vier zwakke
@@ -21,5 +20,7 @@ over de ster alfa (a) van het sterrenbeeld hebben zeggen we a Caeli of a
 Cae, want Cae is de officiële afkorting van het sterrenbeeld
 Graveerstift.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

@@ -4,11 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-  -----------------------------------------------------------------------
-  ![Giovanni Dominico Cassini](plaatjes/cassini.jpg){vspace="0"
-  hspace="0"}\
+---
+  ![Giovanni Dominico Cassini](/cassini-modified.png)
+  
   **Giovanni Dominico Cassini**
 
   -----------------------------------------------------------------------
@@ -40,3 +38,5 @@ zoon opgevolgd. Dat was Jacques Dominique Cassini (1747-1845).
 
 Vanaf de opening in 1671 tot het jaar 1845 is dus een Cassini directeur
 van de sterrenwacht van Parijs geweest.
+
+---
