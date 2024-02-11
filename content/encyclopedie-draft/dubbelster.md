@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Dubbelsterren zijn stelsels van twee sterren, die om elkaar heen
 bewegen.
 
@@ -126,9 +125,9 @@ nodig om zich een halve graad aan de hemel te verplaatsen. Een halve
 graad komt overeen met de schijnbare middellijn van de Volle Maan.
 Alleen met hele grote kijkers merken we iets van die verplaatsing.
 
-Er worden door zo\'n kijker meerdere foto\'s gemaakt van zo\'n ster.
+Er worden door zo'n kijker meerdere foto's gemaakt van zo'n ster.
 Natuurlijk niet in dezelfde nacht. Liefst een flink aantal jaren uit
-elkaar. Als we de foto\'s dan nauwkeurig vergelijken, zien we dat de
+elkaar. Als we de foto's dan nauwkeurig vergelijken, zien we dat de
 ster iets van plaats is verandert.
 
 Sommige van deze snel bewegende sterren verplaatsen zich echter niet
@@ -137,7 +136,7 @@ het dubbelsterren zijn. De begeleider kunnen we niet zien. Hij is niet
 helder genoeg. We noemen hem een *donkere begeleider*. Door hun
 onderlinge aantrekkingskracht draaien de twee sterren om elkaar heen.
 Hierdoor ontstaat de slingerende beweging van de hoofdster. De donkere
-begeleider maakt ook zo\'n slingerende beweging, al zien we dat niet.
+begeleider maakt ook zo'n slingerende beweging, al zien we dat niet.
 Pas als we de positie van de heldere ster nauwkeurig meten, merken we
 dat het een dubbelster is. Zulke dubbelsterren noemen we *astrometrische
 dubbelsterren.* De *röntgendubbelsterren* vormen een aparte groep. Het
@@ -145,7 +144,7 @@ bijzondere van deze dubbelsterren is, dat we er röntgen straling van
 ontvangen. Dat is erg krachtige straling.
 
 De hoofdster van een röntgen-dubbelster is meestal een *blauwe
-superreus*. Zo\'n ster is erg heet en bijzonder groot. De begeleider is
+superreus*. Zo'n ster is erg heet en bijzonder groot. De begeleider is
 bijna altijd een *neutronenster.* Die kunnen we vanaf de aarde niet
 zien. Neutronensterren zijn hele bijzondere sterren. Ze zijn ontzettend
 klein.
@@ -154,7 +153,7 @@ De middellijn bedraagt slechts ongeveer twintig kilometer.
 
 Toch zijn ze vaak twee of drie keer zo zwaar als onze zon.
 
-Eén kubieke centimeter van zo\'n ster zou op aarde meer wegen dan alle
+Eén kubieke centimeter van zo'n ster zou op aarde meer wegen dan alle
 mensen bij elkaar! Neutronensterren hebben dan ook een enorme
 aantrekkingskracht. Vooral op kleine afstanden.
 
@@ -169,3 +168,5 @@ Ook bij röntgen-dubbelsterren kunnen bedekkingen voorkomen.
 Als de superreus voor de neutronenster staat, ontvangen we geen
 röntgenstraling. Staat de neutronenster voor de superreus, dan merken we
 daar nauwelijks iets van.
+
+---

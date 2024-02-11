@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De aarde draait om zijn as. Hierdoor lijkt het alsof alle sterren
 bewegen. Ze komen in het oosten op. In het zuiden bereiken ze hun
 hoogste stand. In het westen verdwijnen ze weer onder de horizon. We
@@ -64,3 +63,5 @@ middelbare zon niet echt! Het verschil tussen ware zonnetijd en
 middelbare zonnetijd heet *tijdsvereffening*. Die bedraagt nooit meer
 dan ongeveer 16 minuten. De middelbare zonnedag duurt even lang als het
 *burgerlijk etmaal*. Dat is de dag, die we in het dagelijks
+
+---

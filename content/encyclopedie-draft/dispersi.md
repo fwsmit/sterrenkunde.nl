@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Met dispersie of *kleurschifting* bedoelen we de spreiding van de
-verschillende kleuren van wit licht bij [breking](breking.html){.two}.
+verschillende kleuren van wit licht bij [breking](/encyclopedie/breking).
 
 Wit licht bestaat uit verschillende kleuren: rood, oranje, geel, groen,
 blauw en violet. Deze kleuren kunnen we zien als licht gebroken wordt.
@@ -18,3 +17,5 @@ prachtig voorbeeld van. Het witte zonlicht wordt gebroken in
 waterdruppeltjes. Licht wordt ook gebroken in een stuk geslepen glas.
 Bijvoorbeeld in een *prisma*. Dus ook hiermee kunnen we wit licht
 uiteenrafelen in verschillende kleuren.
+
+---

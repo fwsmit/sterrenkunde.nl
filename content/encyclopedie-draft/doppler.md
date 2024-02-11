@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Het Doppler-effect noemen we de verandering van de golflengte van geluid
 of licht. Deze verandering wordt veroorzaakt doordat de afstand tot de
 bron groter of kleiner wordt.
@@ -90,4 +89,6 @@ In zijn geboortestad Salzburg bevindt zich nu nog het Doppler Museum ter
 nagedachtenis aan een wetenschapper, die in zijn eigen tijd relatief
 onbekend was.
 
-Lees ook het verhaal bij het trefwoord [straling](straling.html){.two}.
+Lees ook het verhaal bij het trefwoord [straling](/encyclopedie/straling)
+
+---

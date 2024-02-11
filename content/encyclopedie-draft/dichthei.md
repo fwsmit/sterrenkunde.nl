@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De dichtheid is een maat voor de hoeveelheid materie die zich in een
 bepaalde ruimte bevindt. Met een formule is de dichtheid uit te rekenen.
 Deze formule is niet zo moeilijk:
@@ -46,9 +45,7 @@ liefst vier biljard (4.000.000.000.000.000) keer zo groot als water.
 Eén kubieke centimeter van deze ster weegt op aarde vier biljoen
 kilogram.
 
-Dat is tien keer zo veel als alle mensen op aarde bij elkaar wegen
-
-!
+Dat is tien keer zo veel als alle mensen op aarde bij elkaar wegen!
 
     planeet               dichtheid (in grammen)
                           per kubieke centimeter
@@ -67,3 +64,5 @@ Zoals je kunt zien is de gemiddelde dichtheid van de planeet Saturnus
 minder dan 1. Dus minder dan de ge middelde dichtheid van water. Zou er
 een zee zijn groot genoeg om Saturnus in te leggen, dan zou de planeet
 blijven drijven.
+
+---

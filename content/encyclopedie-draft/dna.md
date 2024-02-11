@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Hoewel de geleerden denken dat ze veel over het leven weten, hebben ze
 er geen algemeen bruikbare definitie van. Het is vrij eenvoudig om de
 eigenschappen van het leven op te sommen: organisatie, mogelijkheid om
@@ -220,7 +219,7 @@ zijn organismen gevonden die al geslachtelijke verschillen vertoonden.
 
 Er is wel geopperd dat het leven ontstond uit sporen of andere
 organismen die voorkwamen in interstellair of interplanetair stof en
-[meteorieten](meteoren.html){.two} die op aarde vielen.
+[meteorieten](/encyclopedie/meteoren) die op aarde vielen.
 
 Inderdaad bevatten verschillende bekende meteorieten, zoals die van
 Murray, Murchison en Orgueil, organische bestanddelen die iets
@@ -264,8 +263,8 @@ plotse ling zou verdwijnen, zou onze atmosfeer vrijwel alle vrije
 zuurstof verliezen en rijk worden aan koolzuur, zoals die van Venus en
 Mars. Het afstandsinterval tot de centrale ster waarbinnen op een
 planeet een optimaal klimaat voorkomt, noemt men een leefbare zone of
-[ecosfeer](ecosfeer.html){.two}. Voor sommige sterren, zoals de zon, is
-de breedte van zo\'n zone vrij groot; voor andere bestaat zo\'n zone
+[ecosfeer](/encyclopedie/ecosfeer). Voor sommige sterren, zoals de zon, is
+de breedte van zo'n zone vrij groot; voor andere bestaat zo\'n zone
 helemaal niet.
 
 Deze grenzen suggereren dat een planeet zich lang genoeg in een bepaalde
@@ -287,7 +286,7 @@ veiligheid en voedsel in bomen klom.
 
 Over de waarschijnlijkheid van leven elders in het zonne stelsel is door
 vele wetenschappers gedebatteerd, vooral in verband met de
-[Viking](mars.html){.two}-vluchten naar Mars, waarbij ver scheidene
+[Viking](/encyclopedie/mars)-vluchten naar Mars, waarbij ver scheidene
 experimenten werden uitgevoerd om het eventuele bestaan van leven daar
 te kunnen aantonen. Velen waren nogal optimistisch over de kans op leven
 op Mars, in de atmosfeer van Jupiter of op de Saturnusmaan Titan; dit
@@ -303,7 +302,7 @@ gebruik. De benedengrens voor de temperatuur wordt bepaald door het
 vriespunt van het vloeibare medium waarin organische mole culen zich
 kunnen vormen en bewegen. Interessant is dat de Russische chemofysicus
 *Goldanski* heeft aangetoond, dat zelfs bij zeer lage temperaturen, bij
-het [absolute nulpunt](absolute.html){.two}, nog meetbare, hoewel zeer
+het [absolute nulpunt](/encyclopedie/absolute), nog meetbare, hoewel zeer
 trage proteïnevorming plaatsvindt ten gevolge van een proces dat
 *tunneling* heet. Het is echter niet zeker of dit effect veel verandert
 aan de boven genoemde condities voor het ontstaan en behoud van leven.
@@ -365,7 +364,7 @@ zoals voorgesteld voor Venus.
 Zowel de atmosfeer van Jupiter als die van Saturnus heeft lagen met
 kamertemperaturen en beide zijn rijk aan gassen die bij elektrische
 ontladingen in laboratoria aminozuren en nucleotiden vormen. Toen met de
-beide [Voyagers](voyager.html){.two} op beide planeten sterke
+beide [Voyagers](/encyclopedie/voyager) op beide planeten sterke
 elektrische stormen ontdekt werden, specu leerde men opnieuw dat er
 mogelijk leven is. De grootste moeilijkheid is echter hoe de diverse
 organische moleculen zich kunnen binden om DNA en proteïnen te vormen
@@ -394,14 +393,14 @@ inwendige zijn; de buitenlagen van beide planeten vormen turbulente
 atmosferen, waarvoor dezelfde argumenten tegen leven gelden als bij
 Jupiter en Saturnus.
 
-Pluto\'s zeer lage temperaturen en, chemisch gesproken, arme oppervlak
+Pluto's zeer lage temperaturen en, chemisch gesproken, arme oppervlak
 sluiten elke vorm van leven uit.
 
 Zou er leven kunnen voorkomen op de manen van de planeten? De
 oppervlaktetemperatuur van onze maan varieert tussen zeer koud en zeer
 heet, zij bezit geen dampkring en heeft deze waarschijnlijk nooit gehad.
-De honderden kilo\'s maanmonster die de
-[Apollo](apollo.html){.two}-missies opleverden, tonen geen enkel teken
+De honderden kilo's maanmonster die de
+[Apollo](/encyclopedie/apollo)-missies opleverden, tonen geen enkel teken
 van vroeger leven op de maan. De suggestie dat er onder de ijs achtige
 korsten van de Jupitermaan Europa en van de Saturnus maan Enceladus
 mogelijk vloeibaar water voorkomt, gaf weer een sprankje hoop op leven
@@ -409,7 +408,7 @@ elders in het zonnestelsel. De argumenten hiervoor zijn echter
 allerminst overtuigend. Alle andere manen, met uitzondering van de
 opmerkelijke Saturnus maan Titan, missen een aanzienlijke atmosfeer, een
 voorwaarde voor leven. Dit geldt ook voor de
-[planeto‹den](planetoiden.html){.two}: zij zijn de klein om een
+[planeto‹den](/encyclopedie/planetoiden): zij zijn de klein om een
 atmosfeer vast te houden. Er is wel een kleine kans dat sommige ervan
 ijsachtige kernen hebben die deels vloeibaar worden gehouden door warmte
 van radioactief ver val en zo misschien een geschikte omgeving voor
@@ -439,3 +438,5 @@ tegen die tijd niet is uitgeroeid door oorlog of ongecontroleerde
 vervuiling, is er een kans dat de interplanetaire ruimtevaart zover is
 ontwikkeld dat het leven van de aarde kan worden overge bracht naar
 Mars.
+
+---

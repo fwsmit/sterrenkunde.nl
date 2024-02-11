@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Diffuse nevels zijn onregelmatige wolken van gas en stof, die als lichte
 nevels tussen de sterren zijn te zien. Er zijn twee soorten diffuse
 nevels: *reflectie* en *emissienevels.* Reflectie betekent
@@ -24,4 +23,6 @@ Emissienevels bestaan voor een groot deel uit waterstof.
 
 Heet waterstof straalt roodgekleurd licht uit. Hierdoor hebben
 emissienevels vaak een roodachtige kleur. Lees ook het verhaal bij het
-trefwoord [nevels](nevels.html){.two}.
+trefwoord [nevels](/encyclopedie/nevels).
+
+---

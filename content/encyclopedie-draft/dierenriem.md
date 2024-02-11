@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De dierenriem is een strook aan de sterrenhemel, waar zon, maan en
 planeten in te vinden zijn.
 
@@ -44,3 +43,5 @@ Elk stuk is 30 graden lang en heeft zijn eigen naam.
 
 Het zijn de namen van de sterrenbeelden van de dieren riem. Deze stukken
 heten de tekens van de dierenriem.
+
+---

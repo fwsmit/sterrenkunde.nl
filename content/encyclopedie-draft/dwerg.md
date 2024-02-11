@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Dwergsterren zijn sterren die erg weinig licht uitstralen.
 
 Er zijn twee soorten dwergsterren: hete en koele. De hete noemen we
@@ -15,7 +14,7 @@ Witte dwergen zijn sterren die het eind van hun leven naderen.
 
 Ze zijn erg klein. Ongeveer zo groot als de aarde. Maar ze zijn veel
 zwaarder. Vaak zelfs even zwaar als de zon. Witte dwergen zijn dus erg
-klein Šn erg zwaar. De [dichtheid](dichthei.html){.two} van zo\'n ster
+klein Šn erg zwaar. De [dichtheid](/encyclopedie/dichthei) van zo'n ster
 is daarom zeer groot. Eén kubieke centimeter van een witte dwerg zou op
 aarde wel duizend kilogram wegen! Een voorbeeld van een witte dwerg is
 de begeleider van de ster Sirius. Hij heet Sirius B. Hij is even zwaar
@@ -32,8 +31,7 @@ Rode dwergen zijn lang niet zo zwaar als de zon. Hun massa is vaak tien
 keer kleiner. Toch leven ze veel langer dan de zon. Dat komt doordat
 rode dwergen erg zuinig zijn met hun voorraad brandstof. Ze stralen
 namelijk duizend tot tien duizend keer zo weinig licht uit dan de zon.
-Een voorbeeld van een rode dwerg is de ster [Proxima
-Centauri](proxima.html){.two}. Het is de ster die het dichtst bij de zon
+Een voorbeeld van een rode dwerg is de ster [Proxima Centauri](/encyclopedie/proxima). Het is de ster die het dichtst bij de zon
 staat.
 
 De lichtste sterren die we kennen zijn de *bruine dwergen*.
@@ -47,8 +45,7 @@ Bruine dwergen zitten onder deze grens, rode dwergen er net boven.
 Bruine dwergen waren tot voor enkele jaren slechts theorie.
 
 In 1995 werd echter de eerste bruine dwerg ontdekt en twee jaar later
-waren er al tien bekend. Ook de [Hubble Space\
-Telescope](hst.html){.two} is er in geslaagd bruine dwergen te
+waren er al tien bekend. Ook de [Hubble Space Telescope](/encyclopedie/hst) is er in geslaagd bruine dwergen te
 fotograferen.
 
 Eén ervan is het sterretje Gliese 229B dat een massa heeft van ongeveer
@@ -57,7 +54,7 @@ kennen. Gliese 229B staat in het sterrenbeeld Haas en maakt deel uit van
 een dubbelstersysteem.
 
 De hoofdster is Gliese 229A. De begeleider draait op een afstand van 44
-[astronomische eenheden](astronom.html){.two} om de hoofdster. Dat is
+[astronomische eenheden](/encyclopedie/ae) om de hoofdster. Dat is
 iets verder dan de gemiddelde afstand van Pluto tot de zon die zo\'n 40
 astronomische eenheden bedraagt. De hoeveel heid licht die Gliese 229B
 uitstraalt komt overeen met het tweemiljoenste deel van de lichtkracht
@@ -77,3 +74,5 @@ waardoor de naam infrarode dwergen ge makkelijk tot verwarring zou
 kunnen leiden. En wat doet de naam er eigenlijk toe? Zolang we maar
 weten waar we het over hebben is de aanduiding bruine dwergen uitstekend
 te gebruiken.
+
+---

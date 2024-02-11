@@ -4,12 +4,11 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Als je door een dik pak sneeuw loopt, kun je er soms wel tot je enkels
 in wegzakken. Dat komt doordat de sneeuw je gewicht niet kan dragen.
-Maar als je op ski\'s zou staan, is er niets aan de hand. Je zakt dan
-nog maar nauwelijks weg. De ski\'s zijn namelijk groter dan je voeten.
+Maar als je op ski's zou staan, is er niets aan de hand. Je zakt dan
+nog maar nauwelijks weg. De ski's zijn namelijk groter dan je voeten.
 Je gewicht wordt nu over een groter oppervlak verdeeld. Iedere vierkante
 centimeter sneeuw heeft nu veel minder te dragen. Het gewicht per vier
 kante centimeter is kleiner. We zeggen dat de druk op de sneeuw kleiner
@@ -41,7 +40,7 @@ We hebben het nu gehad over de druk van een gas. Lucht is immers een
 gas. Zo heeft elk gas een bepaalde druk. Hoe sterker het gas is
 samengeperst, hoe groter de druk is. Denk maar aan de ballon.
 
-De [atmosfeer](atmosfeer.html){.two} van de aarde bestaat helemaal uit
+De [atmosfeer](/encyclopedie/atmosfeer) van de aarde bestaat helemaal uit
 lucht. Wat is hier eigenlijk de druk van? Denk nog eens aan het voor
 beeld van de ski\'s. Daar zagen we, dat het er om gaat hoe veel gewicht
 één vierkante centimter moet dragen. Op iedere vierkante centimeter van
@@ -57,3 +56,5 @@ Binnen in de zon is het gas heel sterk samengeperst. De druk is daar
 vreselijk hoog. Maar liefst 2 miljard atmosfeer.
 
 Dat is twee miljard keer zo hoog als de druk van onze damp kring!
+
+---

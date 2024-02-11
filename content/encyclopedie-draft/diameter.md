@@ -4,14 +4,13 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Diameter is een ander woord voor doorsnede of middellijn.
 
 Vaak kom je de woorden *schijnbare diameter* of *ware diameter* tegen.
 De schijnbare diameter van een hemellichaam is de middellijn, zoals je
 die aan de hemel ziet. Deze schijnbare diameter is altijd een
-[hoek](hoeken.html){.two}. Hij wordt aangegeven in graden, (boog)minuten
+[hoek](/encyclopedie/hoeken). Hij wordt aangegeven in graden, (boog)minuten
 of (boog)seconden.
 
 De schijnbare middellijn van de maan is ongeveer een halve graad. Dat is
@@ -30,7 +29,7 @@ weten. De formule ziet er zo uit:
 
 ONTBREKENDE FORMULE
 
-De letters in de formule betekenen: Voorbeeld:\
+De letters in de formule betekenen: Voorbeeld:
 De schijnbare diameter van Mars is 14 boogseconden. De afstand van Mars
 bedraagt honderd miljoen kilometer. De ware diameter van Mars is nu:
 
@@ -39,7 +38,9 @@ bedraagt honderd miljoen kilometer. De ware diameter van Mars is nu:
                  206.265 
 
 Over het algemeen bedoelen we met ware diameter de middel lijn aan de
-[evenaar](evenaar.html){.two}. Een ander woord voor evenaar is
+[evenaar](/encyclopedie/evenaar). Een ander woord voor evenaar is
 *equator*. Vandaar dat wel gesproken wordt van *equatoriale diameter*.
 De middellijn van pool tot pool wordt natuurlijk de *polaire diameter*
 genoemd.
+
+---

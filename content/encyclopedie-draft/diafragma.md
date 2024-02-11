@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Het diafragma is een onderdeel van een fototoestel, waarmee de
 hoeveelheid licht die op de film valt, geregeld kan worden.
 
@@ -20,8 +19,10 @@ waargenomen hemellichaam wordt netjes doorgelaten.
 Als je in een lenzenkijker een diafragma vlak achter de lens ziet zitten
 heb je te maken met een erg slechte kijker.
 
-Het objectief is dan van zo\'n slechte kwaliteit dat het licht dat door
+Het objectief is dan van zo'n slechte kwaliteit dat het licht dat door
 het buitenste deel van het objectief valt moet worden tegengehouden. Een
 groot deel van het licht van het waargenomen hemellichaam ben je
 hierdoor kwijt! Zo\'n kijker moet je natuurlijk nooit kopen! Lees ook
-het verhaal bij het trefwoord [telescopen](telescop.html){.two}!
+het verhaal bij het trefwoord [telescopen](/encyclopedie/telescopen)!
+
+---

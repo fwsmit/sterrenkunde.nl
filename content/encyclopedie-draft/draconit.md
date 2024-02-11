@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Tijdsduur tussen twee opeenvolgende doorgangen van de maan door de
 klimmende knoop.
 
@@ -36,3 +35,5 @@ tegen de beweging van de maan in. Voordat de maan één keer rond is
 bewogen, staat hij dus al opnieuw in de klimmende knoop. De
 draconitische maand duurt gemiddeld 27 dagen, 5 uur, 5 minuten en 36
 seconden.
+
+---

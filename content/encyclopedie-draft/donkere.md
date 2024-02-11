@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De ruimte tussen de sterren is niet leeg. Er komen uitgestrekte wolken
 van gas en stof voor. Vaak zijn ze wel honderden lichtjaren groot. Deze
 donkere nevels geven zelf geen licht. Ook staan er geen heldere sterren
@@ -31,7 +30,8 @@ zullen er in die richtingen zeker net zoveel sterren staan als in de
 andere gebieden van de melkweg. Ze zijn alleen niet te zien. De donkere
 nevels houden het licht van deze sterren tegen.
 
-Een hele bekende donkere nevel is de [Paardekopnevel\
-](paardekopnevel.html){.two}in het sterrenbeeld Orion. De nevel lijkt
+Een hele bekende donkere nevel is de [Paardekopnevel](/encyclopedie/paardekopnevel)in het sterrenbeeld Orion. De nevel lijkt
 veel op de kop van een paard uit een schaakspel. De Paardekopnevel is
 helaas niet in een kleine kijker te zien.
+
+---
