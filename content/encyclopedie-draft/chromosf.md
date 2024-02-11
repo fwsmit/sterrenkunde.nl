@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De chromosfeer is de onderste laag van de atmosfeer van de zon. Vlak
 onder de chromosfeer ligt de *fotosfeer.* Dat is de laag die het meeste
 licht uitstraalt. Boven de chromosfeer ligt de *zonne-corona.* De
@@ -19,3 +18,5 @@ een totale zonsverduistering. Rond de donkere maanschijf is dan een
 dunne, rode rand zichtbaar.
 
 Lees ook het verhaal bij het trefwoord
+
+---

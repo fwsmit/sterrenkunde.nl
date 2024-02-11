@@ -22,7 +22,7 @@ licht uit dan een blauwe ster.
 
 Beide sterren draaien om elkaar heen. Hierbij bedekken ze elkaar
 regelmatig. Normaal heeft het Algol-stelsel een helder heid van
-[magnitude](/encyclopedie/magnitud) 2,2. Maar wanneer de grote rode ster
+[magnitude](/encyclopedie/magnitude) 2,2. Maar wanneer de grote rode ster
 vanaf de aarde gezien voor de kleinere blauwe schuift, neemt de
 gezamenlijke helderheid behoorlijk af. 4,9 uur na het begin van de
 bedekking is de kleine blauwe ster geheel door de grote bedekt. Nu wordt

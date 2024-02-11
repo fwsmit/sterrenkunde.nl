@@ -18,6 +18,6 @@ Dit proces heet *annihilatie*. De straling die vrijkomt bij de
 samensmelting van materie met anti-materie noemen we daarom
 *annihilatiestraling*.
 
-Lees ook het verhaal bij het trefwoord [atoom](/encyclopedie/atomen.html)!
+Lees ook het verhaal bij het trefwoord [atoom](/encyclopedie/atomen)!
 
 ---------------------------------------------------------------------------------------

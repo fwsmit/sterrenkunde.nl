@@ -16,7 +16,7 @@ ontzettend groot zijn geweest.
 Ongeveer 18 miljard jaar geleden ontplofte deze bol met een enorme klap.
 Waar die explosie door kwam, zullen we wel nooit te weten komen. Met een
 enorme snelheid werd de materie in alle richtingen wegge slingerd. Pas
-veel later ontstonden hieruit [Melkwegstelsels](/encyclopedie/melkwegstelses) en
+veel later ontstonden hieruit [Melkwegstelsels](/encyclopedie/melkwegstelsel) en
 afzonderlijke sterren.
 
 Hoe is men nu op deze theorie gekomen? Het was bekend, dat alle

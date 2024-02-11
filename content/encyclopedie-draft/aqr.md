@@ -58,7 +58,7 @@ officiële afkorting van het sterrenbeeld Water man.
 Behalve twee [bolvormige sterrenhopen](/encyclopedie/bolvormig) bevat het
 sterrenbeeld ook twee mooie [planetaire nevels](/encyclopedie/planetaire_nevel): de *Saturnusnevel* (
 [NGC](/encyclopedie/ngc.html) 7009), - zo genoemd vanwege de vorm - en de
-[Helixnevel](/encyclopedie/helixnev.html) (NGC 7293). De Helixnevel heeft
+[Helixnevel](/encyclopedie/helixnevel) (NGC 7293). De Helixnevel heeft
 vanwege zijn kleine afstand een grote schijn bare afmeting. Op zeer
 donkere nachten in de nevel met een lichtsterke verrekijker te zien als
 een grote, wazige ronde vlek.

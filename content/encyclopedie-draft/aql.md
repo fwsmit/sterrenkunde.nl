@@ -23,7 +23,7 @@ Hieronder vind je nog wat gegevens over de vier helderste sterren van
 het sterrenbeeld Arend. In de eerste kolom de Griekse letteraanduiding
 van de ster, vervolgens de naam, dan de afstand in
 [lichtjaar](/encyclopedie/lichtjaar), het
-[spectraaltype](/encyclopedie/spectraa), de [schijnbare magnitude](/encyclopedie/magnitude) en tenslotte de [absolute magnitude](/encyclopedie/absolute.html).
+[spectraaltype](/encyclopedie/spectraa), de [schijnbare magnitude](/encyclopedie/magnitude) en tenslotte de [absolute magnitude](/encyclopedie/absolute).
 
   ----------- ----------------- -------- ---- ------ -----
   |   |   |   |   |   |   |

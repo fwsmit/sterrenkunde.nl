@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-  -----------------------------------------------------------------------
-  ![Nicolaus Copernicus](plaatjes/copernicus.jpg){vspace="0" hspace="0"}\
+---
+  ![Nicolaus Copernicus](/copernicus.png)
+  
   **Nicolaus Copernicus**
 
   -----------------------------------------------------------------------
@@ -29,13 +28,12 @@ sterrenkunde. Hij was een verwoed lezer en zijn groeiende kennis bracht
 hem tot nadenken over het wereld beeld. In de tijd van Copernicus dacht
 iedereen, dat alle planeten om de aarde heen bewogen. Ook de zon. De
 aarde zou in het middelpunt van het heelal staan. Dit wereldbeeld was in
-de tweede eeuw na Christus opgesteld door [Claudius\
-Ptolemaeus](ptolemaeus.html){.two} (87-150). Het wordt het
+de tweede eeuw na Christus opgesteld door [Claudius Ptolemaeus](/encyclopedie/ptolemaeus) (87-150). Het wordt het
 *geocentrische wereldbeeld* genoemd.
 
 Copernicus dacht er anders over. In oude boeken had hij gelezen over de
 ideeën van *Aristarchus van Samos* (ca 310 250 vóór Christus). Deze
-Griekse sterrenkundige dacht zo\'n 1700 jaar eerder al, dat niet de
+Griekse sterrenkundige dacht zo'n 1700 jaar eerder al, dat niet de
 aarde, maar de zon in het middelpunt van het heelal stond. Dat werd toen
 door niemand geloofd. Maar Copernicus werkte de ideeën van Aristarchus
 voor zichzelf verder uit. Hij is daar een groot deel van zijn leven mee
@@ -62,3 +60,5 @@ te Basel in 1566 uitgegeven, een derde druk te Amsterdam in 1617.
 Copernicus verrichtte ook astronomische waarnemingen. Zijn nauwkeurige
 bepaling van de omlooptijden van zon en maan hebben ook als grondslag
 gediend voor de kalenderhervorming van paus Gregorius XIII.
+
+---

@@ -35,12 +35,12 @@ brandpuntsafstand en middellijn klein is. Die ver houding wordt vaak
 Er zijn verschillende geometrische beeldfouten. We zullen ze in het kort
 behandelen.
 
-1.*Sferische aberratie*. Door deze fout worden sterren in het midden van
+1. *Sferische aberratie*. Door deze fout worden sterren in het midden van
 het kijkerveld niet helemaal scherp afgebeeld.
 
 Bij een dure lens of spiegel hoort deze fout niet merkbaar te zijn.
 
-2.*Coma*. Door coma verschijnen de sterren als een stipje met een veegje
+2. *Coma*. Door coma verschijnen de sterren als een stipje met een veegje
 er aan. De veegjes zijn naar de rand van het beeld veld gericht. Van het
 middelpunt af. Hoe dichter bij de rand, hoe groter de veegjes. De
 sterren lijken net kleine komeetjes.
@@ -54,7 +54,7 @@ kijker in plaats van foto's maken. Het beeldveld is groter wanneer je
 de sterren fotografeert. En hoe groter het beeld veld is, hoe erger deze
 fout wordt.
 
-3.*Astigmatisme*. Hierbij zie je de sterren als een streepje.
+3. *Astigmatisme*. Hierbij zie je de sterren als een streepje.
 
 Net zoals bij coma is de fout aan de rand van het beeldveld groter dan
 in het midden. Ook bij astigmatisme geldt: hoe groter het beeldveld, hoe

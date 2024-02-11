@@ -8,7 +8,7 @@ draft = false
 
 Groepen van sterren die naar plaats en ouderdom bij elkaar horen noemen
 we bevolkingsgroepen of *associaties*. We verdelen de sterren van ons
-[Melkwegstelsel](/encyclopedie/melkwegstelses) vaak in twee groepen. Die groepen
+[Melkwegstelsel](/encyclopedie/melkwegstelsel) vaak in twee groepen. Die groepen
 noemen we bevolkingsgroep I en bevolkingsgroep II. Tot de eerste groep
 behoren de [interstellaire materie](/encyclopedie/interste) (gas en stof)
 en verder alle sterren van de spiraalarmen. De sterren van de bolvormige

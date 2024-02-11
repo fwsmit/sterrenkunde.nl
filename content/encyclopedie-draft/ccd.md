@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Sterrenkundige waarnemingen hebben de laatste jaren een ware revolutie
 doorgemaakt door de opkomst van «charge coupled devices» (CCD\'s) en
 andere soorten detectoren. Astronomen kunnen nu beelden en spectra
@@ -26,7 +25,7 @@ honderden, of duizenden individuele fotometers.
 Een silicium halfgeleider heeft de eigenschap dat er elektronen worden
 afgegeven wanneer het oppervlak wordt geraakt door licht. Het aantal
 elektronen dat wordt afgegeven is evenredig met de helderheid van het
-opvallende licht. Als tien keer meer [fotonen](straling.html){.two} een
+opvallende licht. Als tien keer meer [fotonen](/encyclopedie/straling) een
 oppervlakte-eenheid) (een beeldelement of pixel) raken, worden er tien
 keer meer elektronen opgewekt. In tegenstelling tot de ingewikkelde
 relatie tussen helderheid en zwarting van de fotografische plaat, is de
@@ -34,14 +33,14 @@ relatie tussen helderheid en hoeveelheid opgewekte lading op het
 oppervlak van een CCD lineair met een nauwkeurigheid van 0,1% over het
 grootste deel van zijn bereik.
 
-Enkele jaren terug hadden CCD\'s een omvang van 512 rijen bij 320
+Enkele jaren terug hadden CCD's een omvang van 512 rijen bij 320
 kolommen (163.840 pixels); moderne exemplaren hebben een omvang van 2048
 x 2048 (4.194.304) pixels en nog grotere maten zullen niet lang op zich
 laten wachten.
 
 De CCD is gevoelig voor fotonen uit een zeer groot golflengte gebied,
 van röntgenstraling tot nabij-infrarood. Geen enkele andere detector is
-bruikbaar in zo\'n groot deel van het spectrum. De mate waarin de
+bruikbaar in zo'n groot deel van het spectrum. De mate waarin de
 fotonen worden geregistreerd is hoger dan bij vrijwel elke andere
 detector. Alleen in het ultraviolet is de CCD relatief ongevoelig, maar
 dit is verbeterd in de nieuwere chips. Dit heeft men bereikt door het
@@ -89,3 +88,5 @@ hemel tijdens de schemering of van een verlicht wit paneeltje in de
 koepel. In deze zgn. «flats» zijn de kleine afwijkingen van de CCD
 zichtbaar en zo kan er tijdens het verwerken van de waarnemingen worden
 gecorrigeerd.
+
+---

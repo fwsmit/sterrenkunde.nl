@@ -8,7 +8,7 @@ draft = false
 In een sterrenkijker zou een ster eigenlijk als een puntje afgebeeld
 moeten worden. In werkelijkheid gebeurt dat nooit.
 
-Er treden allerlei [beeldfouten](/encyclopedie/beeldfourwn) op. Eén van die
+Er treden allerlei [beeldfouten](/encyclopedie/beeldfouten) op. Eén van die
 beeldfouten is astigmatisme. Het wordt veroorzaakt door de lens of de
 spiegel van een kijker. Door astigmatisme wordt een ster als een heel
 klein streepje afgebeeld. Je merkt het vooral bij sterke vergrotingen.

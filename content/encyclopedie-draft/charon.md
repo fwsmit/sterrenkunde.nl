@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Maantje van de planeet Pluto. Tot voor een aantal jaren was Pluto de
 enige buitenplaneet, waarbij nog geen enkel maantje was ontdekt. Niet
 dat iemand bij deze planeet een maantje verwachtte. Daarvoor is Pluto
@@ -41,9 +40,11 @@ over deze planeet.
 Aangenomen wordt dat het maantje een middellijn heeft van ongeveer
 tweeduizend kilometer. Dat is de helft van de doorsnede van Pluto.
 Charon straalt ongeveer vijf keer minder licht uit dan Pluto. Gemiddeld
-bedraagt de afstand tussen Pluto en Charon zo\'n 19.000 kilometer. Dat
+bedraagt de afstand tussen Pluto en Charon zo'n 19.000 kilometer. Dat
 is erg weinig. Bedenk maar dat de afstand aarde - maan gemiddeld 384.000
 kilometer bedraagt. Je begrijpt dan misschien dat een waarnemer op Pluto
 het maantje Charon erg groot aan de hemel ziet staan. Charon heeft vanaf
 Pluto een schijf van ruim van ruim 5,5 graad in doorsnede. Dat is meer
 dan 11 keer zo groot dan de Volle Maan gezien vanaf de aarde.
+
+---

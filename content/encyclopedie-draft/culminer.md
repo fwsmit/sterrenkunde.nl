@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Een hemellichaam culmineert als het op de *plaatselijke meridiaan*
 staat. De plaatselijke meridiaan is een denk beeldige lijn. Die loopt
 van het zuiden recht over je hoofd naar het noorden. Anders gezegd: het
@@ -51,8 +50,7 @@ Om ze te zien zou je ver naar het zuiden moeten reizen.
 
 Hóe hoog een ster boven de zuidelijke horizon kan komen te staan is niet
 zo moeilijk zelf uit te rekenen. Je moet dan wel de
-[declinatie](rk.html){.two} van de ster weten. En ook de [geografische\
-breedte](geografi.html){.two} van de plaats waar je staat. Voor Utrecht
+[declinatie](/encyclopedie/rechteklimming) van de ster weten. En ook de [geografische breedte](/encyclopedie/geografi) van de plaats waar je staat. Voor Utrecht
 is de geografische breedte ongeveer 52°. Voor Groningen is dat ongeveer
 53° en voor Maastricht 51°.
 
@@ -64,3 +62,5 @@ geografische breedte.
 
 Voor Aldebaran: culminatiehoogte = +16° + 90° - 52° = 54°. Hoger dan 54°
 boven de horizon kan Aldebaran in Utrecht nooit komen te staan.
+
+---

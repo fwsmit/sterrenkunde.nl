@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Bij een CCD-camera bevindt zich in het brandvlak geen fotografische
 film. In plaats daarvan zit er een chip.
 
@@ -26,6 +25,8 @@ krijg je, als je het beeld steeds groter uitvergroot, uiteindelijk een
 blokjespatroon te zien.
 
 Met normale fotografische technieken en grote telescopen kunnen sterren
-tot [magnitude](magnitud.html){.two} +24 vastgelegd worden. Met de
+tot [magnitude](/encyclopedie/magnitude) +24 vastgelegd worden. Met de
 CCD-techniek, waarbij de fotonen tien maal zo effectief worden
 opgevangen, ligt de grens bij magnitude +27!
+
+---

@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De Noorderkroon is een klein, maar gemakkelijk te herkennen sterrenbeeld
 tussen Hercules en Boötes. In het voorjaar kun je het sterrenbeeld hoog
 aan de hemel vinden. Het lijkt ook erg veel op een kroon.
@@ -35,18 +34,22 @@ van Athene kwam.
 Zijn vader Aegeus (spreek uit: Ee-guis) dacht dat Theseus gedood was en
 verdronk zichzelf in de zee, die nu nog naar hem heet: de Aegeïsche Zee.
 Ariadne kreeg van Dionysos een hele mooie kroon, en dat is de
-Noorderkroon.\
+Noorderkroon.
 Hieronder vind je nog wat gegevens over de drie helderste sterren van
 het sterrenbeeld Noorderkroon. In de eerste kolom vind je de Griekse
 letteraanduiding met daarachter de naam van de ster. Vervolgens geven we
-de afstand in [lichtjaar](lichtjaa.html){.two}, het
-[spectraaltype](spectraa.html){.two}, de [schijnbare\
-magnitude](schijnba.html){.two} en de [absolute
-magnitude](absolute.html){.two}.
+de afstand in [lichtjaar](/encyclopedie/ichtjaar), het
+[spectraaltype](/encyclopedie/spectraa.), de [schijnbare magnitude](/encyclopedie/magnitude) en de [absolute magnitude](/encyclopedie/absolute.html).
 
-    alfa CrB     Gemma      71 lj     A0     2,31     0,6 
-    beta CrB               102 lj     A8     3,72     1,2 
-    gamma CrB              142 lj     A0     3,93     0,7 
+---
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+**Letteraanduiding** |**Naam** |**Afstand** |**Spectraaltype** |**Schijnbare magnitude** |**Absolute magnitude**
+    alfa CrB     |Gemma        |71 lj       |A0                |2,31                     |0,6 
+    beta CrB     |N/A          |102 lj      |A8                |3,72                     |1,2 
+    gamma CrB    |N/A          |142 lj      |A0                |3,93                     |0,7 
+    
+---
 
 De Latijnse naam van het sterrenbeeld Noorderkroon is *Corona Borealis*.
 Bij gebruik van de tweede naamval (genitief) wordt dit Coronae Borealis.
@@ -54,5 +57,7 @@ Als we het hebben over de ster alfa (a) van het sterrenbeeld
 Noorderkroon zeggen we a Coronae Borealis of we schrijven a CrB, want de
 officiële afkorting van het sterrenbeeld Noorderkroon is CrB.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

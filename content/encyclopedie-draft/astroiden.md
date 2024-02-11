@@ -5,4 +5,4 @@ draft = false
 +++
 
 
-Zie [planetoïden](/encyclopedie/planetio).
+Zie [planetoïden](/encyclopedie/planetoiden).

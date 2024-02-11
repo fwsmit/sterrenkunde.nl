@@ -8,7 +8,7 @@ draft = false
 ---------------------------------------------------------------------------------------------------
 Het sterrenbeeld Andromeda kun je in het najaar hoog in het zuiden aan
 de hemel vinden. De meest linker ster van het sterrenbeeld heet Alamak.
-Dit is een prachtige [dubbelster](/encyclopedie/dubbelst).
+Dit is een prachtige [dubbelster](/encyclopedie/dubbelster).
 
 Reeds in een kleine sterrenkijker is het kleurverschil tussen beide
 sterren goed te zien. Alamak zelf heeft een schijn bare magnitude van
@@ -42,7 +42,7 @@ Hieronder vind je wat gegevens over de drie helderste sterren van het
 sterrenbeeld Andromeda. In de eerste kolom vind je de Griekse
 letteraanduiding, dan de naam, de afstand in
 [lichtjaar](/encyclopedie/lichtjaar) en het
-[spectraaltype](/encyclopedie/spectraa). Tenslotte vind je de [schijnbare magnitude](magnitude.) 
+[spectraaltype](/encyclopedie/spectraa). Tenslotte vind je de [schijnbare magnitude](magnitude) 
 en de [absolute magnitude](absolute).
 
   ----------- -------- -------- ----- ------ ------

@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Cepheïden zijn een bepaalde groep veranderlijke sterren.
 
 Ze zijn genoemd naar de ster Delta in het sterrenbeeld Cepheus. De
@@ -31,3 +30,5 @@ het minimum is de kleur meer geelachtig of oranje.
 Cepheïden zijn *superreuzen*. Dus heel erg groot. Zo heeft de ster Delta
 Cephei een middellijn van gemiddeld 47 miljoen kilometer. Omdat ze zo
 groot zijn stralen ze erg veel licht uit.
+
+---

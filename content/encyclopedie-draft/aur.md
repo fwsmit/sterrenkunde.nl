@@ -16,7 +16,7 @@ als Jupiter en Saturnus). Capella ligt dan ook in de melkweg! Er zijn
 een heleboel beroemde wagenmenners op wie dit sterrenbeeld kan slaan,
 maar wie het nu precies is weten we niet.
 
-In het sterrenbeeld Voerman bevinden zich een aantal [opensterrenhopen](/encyclopedie/sterrenh). Je kunt eens proberen er een in een
+In het sterrenbeeld Voerman bevinden zich een aantal [opensterrenhopen](/encyclopedie/sterrenhopen). Je kunt eens proberen er een in een
 verrekijker te vinden.
 
 In de onderstaande tabel geven we wat gegevens over de twee helderste

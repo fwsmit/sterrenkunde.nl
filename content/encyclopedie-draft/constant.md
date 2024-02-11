@@ -4,13 +4,12 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De Amerikaanse sterrenkundige *Edwin P. Hubble* (1889-1953) is de
 ontdekker van de uitdijing van het heelal. De afstanden tussen de
-[sterrenstelsels](sterrenstelsel.html){.two} worden in de loop van de
+[sterrenstelsels](/encyclopedie/sterrenstelsel) worden in de loop van de
 tijd steeds groter. Gezien vanuit ons eigen
-[Melkwegstelsel](melkwegs.html){.two} lijkt het alsof alle andere
+[Melkwegstelsel](/encyclopedie/melkwegstelsel) lijkt het alsof alle andere
 sterrenstelsels van ons wegvluchten.
 
 Hubble ontdekte dat er een recht evenredig verband is tussen de afstand
@@ -45,6 +44,8 @@ misschien zelfs niet ouder dan 8 miljard jaar.
 Andere sterrenkundigen houden vast aan een veel lagere waarde voor de
 Hubble-constante: 50 of hooguit 60 km/sec/Mpc. Zij baseren zich daarbij
 op andere afstandsbepalingsmethoden, die overigens voor een deel óók
-zijn uitgevoerd met de [Hubble Space Telescope](hst.html){.two}. Er kan
+zijn uitgevoerd met de [Hubble Space Telescope](/encyclopedie/hst). Er kan
 natuurlijk maar één waarde de juiste zijn; vermoedelijk ligt de waarheid
 ergens halver wege.
+
+---

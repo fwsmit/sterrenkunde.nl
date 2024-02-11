@@ -15,7 +15,7 @@ monding van de Nijl, die in de Oudheid berucht was wegens het losbandige
 leven van haar inwoners.
 
 Canopus behoort tot de helderste sterren aan de hemel. Al leen
-[Sirius](/encyclopedie/sirius) is helderder. De [schijnbare magnitude](magnitude.html) van Canopus bedraagt -0,86. De ster
+[Sirius](/encyclopedie/sirius) is helderder. De [schijnbare magnitude](magnitude) van Canopus bedraagt -0,86. De ster
 staat op een afstand van 365 [lichtjaar](/encyclopedie/lichtjaar). De
 helderheid op 10 *parsec* (= 32,6 lichtjaar) bedraagt maar liefst -6,1!
 Dat is dus de [absolute magnitude](/encyclopedie/absolute)van Canopus.
@@ -27,7 +27,7 @@ officiële afkortingen van deze sterrenbeelden zijn Car, Pup en Vel.
 Zoals zo vaak (maar lang niet altijd) wordt de afkorting gevormd door de
 eerste drie letters van de Latijnse benaming.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html) vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
 
 ---

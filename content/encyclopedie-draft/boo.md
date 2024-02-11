@@ -40,7 +40,7 @@ Als we het over de ster alfa (a) van het sterrenbeeld hebben zeggen we a
 Boötis of a Boo, want Boo is de officiële af korting van het
 sterrenbeeld.
 
-Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenb) vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
 
 ---
