@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Wat voor kleur heeft het zonlicht? Geel zul je zeggen.
 
 Inderdaad, de zon is een gele ster. Toch geeft de zon ook rood licht. En
@@ -77,3 +76,5 @@ Röntgen- en radiostraling en alle overige soorten straling bewegen door
 het heelal met behulp van elektriciteit en magnetisme. Het zijn allemaal
 bepaalde soorten elektro magnetische straling. Alle soorten straling bij
 elkaar noemen we het *elektromagnetische spectrum.*
+
+---

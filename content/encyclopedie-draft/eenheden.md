@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Een ijsje van 75, alsublieft, hoor je wel eens iemand zeggen.
 
 Niemand kijkt daar vreemd van op. Maar stel je eens voor, dat de ijsman
@@ -48,5 +47,17 @@ In de linkerkolom vind je de naam van de eenheid. In het midden de
 bijbehorende groot heden en rechts het symbool (de afkorting) van de
 eenheid.
 
-\
-ONTBREKENDE TABEL SI-EENHEDEN\
+---
+De zeven basiseenheden van het SI zijn:
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+**Grootheid** |**Naam** |**Symbool**
+tijd          |seconde  |s
+lengte        |meter    |m
+massa         |kilogram |kg
+elektrische stroom |ampère |A
+absolute temperatuur |kelvin |K
+hoeveelheid stof     |mol |mol
+lichtsterkte  |candela |cd
+
+---

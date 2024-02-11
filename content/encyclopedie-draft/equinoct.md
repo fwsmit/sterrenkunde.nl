@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Met equinoctium bedoelen we het tijdstip waarop het middel punt van de
 zon op de hemelevenaar staat. De aarde draait in één jaar om de zon. We
 zien de zon steeds in een andere richting tussen de sterren staan. In de
@@ -36,3 +35,5 @@ maar liefst 75« graad boven de horizon. Het punt waar de zon staat bij
 het begin van de winter heet het winterpunt. In dat punt bereikt de zon
 zijn grootste zuidelijke afstand tot de hemelevenaar. Als de zon nu in
 het zuiden staat bevindt hij zich slechts 28« graad boven de horizon.
+
+---

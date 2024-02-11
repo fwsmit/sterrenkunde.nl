@@ -4,9 +4,8 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-In het verhaal bij [veranderlijke sterren](verander.html){.two} heb je
+---
+In het verhaal bij [veranderlijke sterren](/encyclopedie/verander) heb je
 kunnen lezen dat er drie groepen veranderlijke sterren zijn, namelijk:
 Hier willen we het hebben over de tweede groep, de eruptieve sterren.
 Deze groep veranderlijke sterren wordt onderverdeeld in de volgende acht
@@ -14,32 +13,32 @@ typen: barstingen vertonen. Een ander woord voor uitbarsting is eruptie.
 Vandaar de naam. Vaak komen die uitbarstingen volkomen onverwacht. Maar
 soms zijn ze van te voren te voorspellen. Het kunnen vrij kleine
 uitbarstingen zijn, maar soms zijn ze ook zó hevig, dat er van de oor
-spronkelijke ster maar weinig overblijft.\
+spronkelijke ster maar weinig overblijft.
 We gaan de 8 verschillende typen eruptieve veranderlijke sterren hier
 één voor één bespreken. Alleen houden we de bespreking van novae en
-supernovae hier erg beperkt. Bij de trefwoorden [nova](nova.html){.two}
-en [supernova](supernova.html){.two} kun je hier veel meer over lezen.
+supernovae hier erg beperkt. Bij de trefwoorden [nova](/encyclopedie/nova)
+en [supernova](/encyclopedie/supernova) kun je hier veel meer over lezen.
 
 Een *nova* is een ster die een plotselinge uitbarsting vertoont. Hierbij
 blaast hij zijn buitenste gaslaag de de ruimte in. Door de uitbarsting
 wordt de helderheid van de ster 10.000 tot 100.000 keer zo groot. Dat is
-een toename van 10 tot 12 [magnitude](magnitud.html){.two} in
+een toename van 10 tot 12 [magnitude](/encyclopedie/magnitud) in
 helderheid. Hier door lijkt er plotseling een «nieuwe ster» aan de hemel
 te staan. Nova is een Latijns woord. Het betekent «nieuw».
 
 Het meervoud van nova is novae. Dat spreek je uit als «novee».
 Natuurlijk is het niet zo dat er echt een nieuwe ster aan de hemel is
 bijgekomen. Alleen was de ster vóór de uitbarsting zó zwak, dan we hem
-niet konden zien.\
+niet konden zien.
 Een *supernova* is een ster die een gigantische ontploffing ondergaat.
 Er blijft alleen een kleine, zeer zware kern over.
 
 Aan het einde van zijn levensloop heeft een zware ster alleen in zijn
 buitenste lagen nog waterstof. Meer naar binnen toe komen voornamelijk
-zwaardere [elementen](elemente.html){.two} voor, zoals helium, koolstof,
+zwaardere [elementen](/encyclopedie/elementen) voor, zoals helium, koolstof,
 magnesium, zuurstof en silicium.
 
-De kern van zo\'n ster bestaat zelfs voor een deel uit ijzer. Natuurlijk
+De kern van zo'n ster bestaat zelfs voor een deel uit ijzer. Natuurlijk
 niet in vaste vorm. Daar is de tempe ratuur binnen in de ster immers
 veel te hoog voor. Alle stoffen komen in sterren alleen maar in
 gasvormige toe stand voor. Nu kan het bij zulke zware sterren gebeuren
@@ -49,9 +48,9 @@ omgekeerde van een explosie. Bij een implosie van de kern komen
 geweldige hoeveelheden energie vrij. Daardoor vindt in de buitenlagen
 van de ster een geweldige uitbarsting plaats. Hierdoor worden de
 buitenlagen van de ster de ruimte ingeslingerd. Alleen de ineengestorte
-kern blijft over. Zo\'n uitbarsting noemen we een supernova. Ze zijn erg
+kern blijft over. Zo'n uitbarsting noemen we een supernova. Ze zijn erg
 zeldzaam. Waarschijnlijk komen er in ons
-[Melkwegstelsel](melkwegs.html){.two} maar enkele per eeuw voor.
+[Melkwegstelsel](/encyclopedie/melkwegstelsel) maar enkele per eeuw voor.
 
 *R Coronae Borealis-sterren* zijn allemaal *superreuzen*. Dat zijn
 geweldig grote sterren met middellijnen van soms wel honderden miljoenen
@@ -68,7 +67,7 @@ Noorderkroon. Corona Borealis is de Latijnse naam van dit sterrenbeeld.
 *RW Aurigae-sterren* zijn genoemd naar de ster RW in het sterrenbeeld
 Voerman. De Latijnse naam van dit sterren beeld is Auriga. Alle RW
 Aurigae-sterren vertonen regel matige veranderingen in helderheid. De
-[amplitude](amplitud.html){.two} (dat is het verschil tussen grootste en
+[amplitude](/encyclopedie/amplitude) (dat is het verschil tussen grootste en
 kleinste helderheid ligt tussen 1 en 4 magnituden. Vaak blijft de
 helderheid van RW Aurigae-sterren vele weken lang gelijk. Maar er kunnen
 ook snelle veranderingen voorkomen.
@@ -82,7 +81,7 @@ worden *T-associaties* genoemd. Associatie is een ander woord voor
 samenhangende groep. T Tauri-sterren zijn genoemd naar de ster T in het
 sterrenbeeld Taurus. De Nederlandse naam van dit sterrenbeeld is Stier.
 Een andere heel bekende ster van dit type is FU Orionis. In 1936 werd
-deze ster in zo\'n 120 dagen ongeveer 250 keer zo helder! Dat is een
+deze ster in zo'n 120 dagen ongeveer 250 keer zo helder! Dat is een
 stijging van zes magnituden. De ster V1057 Cygni gedroeg zich in 1969
 net zo! *U Geminorum-sterren* zijn genoemd naar de ster U in het
 sterrenbeeld Tweelingen. Gemini is de Latijnse naam van dit
@@ -92,7 +91,7 @@ het sterrenbeeld Zwaan. U Geminorum sterren worden daarom ook wel eens
 
 Het grootste deel van de tijd hebben U Geminorum-sterren een constante
 helderheid. Maar om de paar maanden vindt er een uitbarsting plaats.
-Zo\'n uitbarsting kan één tot vijf dagen duren. De ster wordt dan 2 tot
+Zo'n uitbarsting kan één tot vijf dagen duren. De ster wordt dan 2 tot
 6 magnituden helderder.
 
 Dat betekent een toename van 5 tot 250 keer in helderheid.
@@ -129,19 +128,19 @@ sterrenkundigen onderscheiden twee typen UV Ceti-sterren: de
 *vlamsterren* (flare stars) en *flits sterren* (flash stars). Alle UV
 Ceti-sterren zijn *rode dwergen*. Hun oppervlakte-temperatuur is meestal
 minder dan 3000°C. UV Ceti-sterren vertonen plotselinge uit barstingen.
-De sterrenkundige *Luyten* was de eerste die zo\'n uitbarsting opmerkte.
+De sterrenkundige *Luyten* was de eerste die zo'n uitbarsting opmerkte.
 Dat was in het jaar 1948 bij de ster UV Ceti zelf. Deze ster staat
-slechts 7,9 [lichtjaar](lichtjaa.html){.two} van de zon af.
+slechts 7,9 [lichtjaar](/encyclopedie/lichtjaar) van de zon af.
 
 UV Ceti-sterren zijn heel moeilijk te ontdekken. Dat komt doordat een
-uitbarsting van zo\'n ster in de meeste ge vallen maar enkele minuten
+uitbarsting van zo'n ster in de meeste ge vallen maar enkele minuten
 duurt. De kans is niet zo groot dat we net op het moment van de
 uitbarsting naar de ster kijken. De uitbarsting duurt niet altijd zo
 kort. Er zijn enkele UV Ceti-sterren bekend waarbij de uitbarsting een
 paar uur duurt. In totaal kennen we enkele tientallen sterren van dit
 type.
 
-Uit het [spectrum](spectrum.html){.two} van UV Ceti kan men afleiden dat
+Uit het [spectrum](/encyclopedie/spectrum) van UV Ceti kan men afleiden dat
 de temperatuur van deze ster tijdens een uitbarsting stijgt tot
 tienduizend graden. De ster zou dan ongeveer vijfhonderd keer zoveel
 licht uitstralen dan voor de uitbarsting. Maar UV Ceti-sterren worden
@@ -156,6 +155,7 @@ UV Ceti-sterren worden niet bij iedere uitbarsting even helder. De
 helderheid van deze sterren neemt tijdens de uitbarsting met 1 tot 6
 magnituden toe. De uitbarstingen duren niet zo lang en vinden erg
 onregelmatig plaats. Ze zijn beslist niet te voorspellen. De ster die
-het dichtst bij de zon staat is ook zo\'n vlamster. Het is [Proxima\
-Centauri](proximac.html){.two}. Zijn afstand bedraagt ongeveer 4,27
+het dichtst bij de zon staat is ook zo'n vlamster. Het is [Proxima Centauri](/encyclopedie/proxima). Zijn afstand bedraagt ongeveer 4,27
 lichtjaar.
+
+---

@@ -4,12 +4,11 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De aarde draait in één jaar tijd om de zon. Daardoor lijkt de zon in de
 loop van een jaar een complete rond gang tussen de sterren te maken. Hij
 reist daarbij door twaalf sterrenbeelden. Dat zijn de sterrenbeelden van
-de [dierenriem](dierenri.html){.two}. Het zijn Ram, Stier, Tweelingen,
+de [dierenriem](/encyclopedie/dierenriem). Het zijn Ram, Stier, Tweelingen,
 Kreeft, Leeuw, Maagd, Weegschaal, Schorpioen, Schutter, Steenbok
 Waterman en Vissen. De weg die de zon aan de hemel be schrijft is ieder
 jaar precies hetzelfde. Die schijnbare zonnebaan wordt de *ecliptica*
@@ -36,3 +35,5 @@ Er is afgesproken dat de lente begint wanneer de zon daar staat. De
 tweede keer gaat de zon van noord naar zuid over de hemelevenaar. Dat
 gebeurt op 23 september. Het punt waar de zon dan staat wordt
 *herfstpunt* genoemd.
+
+---

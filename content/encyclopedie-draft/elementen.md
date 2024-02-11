@@ -4,12 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  [![Het periodiek systeem der
-  elementen](plaatjes/elementen_small.jpg){vspace="0"
-  hspace="0"}](plaatjes/elementen_big.jpg){target="new"}\
+  ![Het periodiek systeem der elementen](/Elements.png)
+  
   **Het periodiek systeem der elementen**
 
   -----------------------------------------------------------------------
@@ -178,9 +175,24 @@ mens.
     101  Mendelevium   Md     trans-uranisch element 
     102  Nobelium      No     trans-uranisch element 
     103  Lawrencium    Lw     trans-uranisch element 
+    104  Rutherfordium Rf     trans-uranisch element
+    105  Dubnium       Dd     trans-uranisch element
+    106  Seaborgium    Sg     trans-uranisch element
+    107  Bohrium       Bh     trans-uranisch element
+    108  Hassium       Hs     trans-uranisch element
+    109  Meitnerium    Mt     trans-uranisch element
+    110  Darmstadtium  Ds     trans-uranisch element
+    111  Röntgenium    Rg     trans-uranisch element
+    112  Copernicium   Cn     trans-uranisch element
+    113  Nihonium      Nh     trans-uranisch element
+    114  Flerovium     Fl     trans-uranisch element
+    115  Moscovium     Mc     trans-uranisch element
+    116  Livermorium   Lv     trans-uranisch element
+    117  Tennesine     Ts     trans-uranisch element
+    118  Oganesson     Og     trans-uranisch element
 
 Behalve de elementen uit deze lijst zijn er nog een aantal nóg zwaardere
-elementen bekend.\
+elementen bekend.
 De allereerste kolom van de lijst geeft het *atoomnummer* van ieder
 element. Het wordt ook wel eens het *atoomgetal* genoemd. Het
 atoomnummer geeft aan hoeveel *protonen* er in de kern van het atoom
@@ -190,8 +202,8 @@ het atoom is. De zwaarste atomen staan dus achter in de lijst.
 
 Uranium noemen we bijvoorbeeld een zwaar element. Het heeft een hoog
 atoomnummer, namelijk 92. Behalve protonen zitten er in de atoomkern ook
-*neutronen*. Rond de kern bewegen *¿ : '*. Meer over protonen, neutronen
-en elektronen kun je lezen bij [atomen](atomen.html){.two}.
+*neutronen*. Rond de kern bewegen. Meer over protonen, neutronen
+en elektronen kun je lezen bij [atomen](/encyclopedie/atomen).
 
 In een atoom zijn evenveel elektronen als protonen. Dus aan het
 atoomnummer kun je ook zien hoeveel elektronen er zijn.
@@ -229,3 +241,5 @@ lichtere elementen. Weet je hoe zulke stoffen heten? We noemen ze
 *radio-actief*. De nieuw gevonden elementen komen in de natuur niet
 voor. Alleen in schei kundige laboratoria kunnen ze gedurende korte tijd
 gemaakt worden.
+
+---

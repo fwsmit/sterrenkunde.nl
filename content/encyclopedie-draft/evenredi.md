@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Hoe langer je fietst, hoe verder je komt. Dat weet natuurlijk iedereen.
 Als je met dezelfde snelheid twee keer zo lang fietst, kom je ook twee
 keer zo ver. De afstand die je aflegt is twee keer zo groot. Fiets je
@@ -34,3 +33,5 @@ snelheid) twee keer zo groot wordt.
 
 Ook van omgekeerd evenredige grootheden zijn veel voorbeelden te vinden.
 Probeer er zelf een paar te bedenken.
+
+---

@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De schijnbare afstand (in graden) van een planeet tot de zon noemen we
 elongatie. Een ander woord dat je soms tegen komt is *hoekafstand.*
 Staat een planeet ten westen van de zon, dan spreken we van *westelijke
@@ -22,3 +21,5 @@ het gunstigste moment om het maantje in je kijker te vinden. Nu hebben
 we immers het minste last van de veel grotere helderheid van de planeet.
 Zo kun je in een niet al te kleine kijker proberen enkele maantjes van
 Saturnus te vinden.
+
+---

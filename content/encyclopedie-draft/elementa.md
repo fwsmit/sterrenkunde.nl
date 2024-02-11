@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Zéér kleine deeltjes, waaruit alle materie is opgebouwd. Zo bestaat elk
 *atoom* uit een hoeveelheid protonen, neutronen en elektronen. Het zijn
 de drie bekendste elementaire deeltjes.
@@ -34,14 +33,14 @@ spel bij het uiteenvallen van radio-aktieve elementen. Ook de zwakke
 wisselwerkings kracht werkt alleen op zeer kleine afstanden.
 
 De laatste wisselwerking is de *gravitatie* of
-[zwaartekracht](zwaartekracht.html){.two}.
+[zwaartekracht](/encyclopedie/zwaartekracht).
 
 Het is de zwakste van de vier wisselwerkingen. Hoe komt het dat je er in
 het dagelijks leven het meest van merkt? Wel, gravitatie kan op flink
 grote afstanden werken. En omdat er dan zeer veel deeltjes in het spel
 zijn, is de uiteindelijke kracht behoorlijk groot.
 
-Bij zo\'n wisselwerking, zo\'n interaktie, kunnen andere deel jes
+Bij zo'n wisselwerking, zo'n interaktie, kunnen andere deel jes
 ontstaan. Dat gaat natuurlijk niet zo maar. Er moet aan bepaalde
 voorwaarden worden voldaan. Veel eigenschappen van deeltjes mogen niet
 veranderen. De totale hoeveelheid elek trische lading moet bijvoorbeeld
@@ -102,7 +101,7 @@ Behalve de elektrische lading zijn er nog wel enkele andere verschillen
 tussen deeltjes en anti-deeltjes.
 
 Er zijn twee elementaire deeltjes die hun eigen anti-deeltje zijn. Eén
-daarvan is het [foton](straling.html){.two}. Fotonen zijn lichtdeeltjes.
+daarvan is het [foton](/encyclopedie/straling). Fotonen zijn lichtdeeltjes.
 
 Ze hebben geen elektrische lading. De fotonen vormen eigen lijk een heel
 aparte groep. Ze horen niet bij de hadronen, maar ook niet bij de
@@ -115,7 +114,7 @@ deeltjes uit drie soorten nóg kleinere deeltjes zijn opgebouwd. Die
 deeltjes worden *quarks* genoemd. Niemand heeft er ooit een gezien. We
 kunnen alleen theoretisch afleiden dat ze bestaan. Je begrijpt dat
 
-    ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ» 
+     
     º         e l e m e n t a i r e   d e e l t j e s         º 
     º---------------------------------------------------------º 
     º     LEPTONEN         ³             HADRONEN             º 
@@ -131,7 +130,7 @@ kunnen alleen theoretisch afleiden dat ze bestaan. Je begrijpt dat
     º Voorbeelden:         ³                ³ Voorbeelden:    º 
     º     elektron         ³                ³     proton      º 
     º     neutrino         ³                ³     neutron     º 
-    ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+    
 
 de natuurkundigen in hun nopjes waren. Als alle elementaire deeltjes uit
 drie soorten quarks bestonden, waren de quarks natuurlijk de echte
@@ -145,4 +144,6 @@ Omdat quarks niet «alleen» kunnen bestaan, maar altijd in groepjes
 voorkomen, kunnen we ze niet echt elementaire deeltjes noemen. Het
 onderzoek op dit gebied is nog lang niet afgesloten.
 
+---
 Opmerking: lees zo nodig ook het verhaal bij ONTBREKENDE LINK/TEKST
+---

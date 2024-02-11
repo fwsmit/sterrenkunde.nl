@@ -4,17 +4,17 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
   -----------------------------------------------------------------------
-  ![Albert Einstein](plaatjes/einstein.jpg){vspace="0" hspace="0"}\
+  ![Albert Einstein](/Unmod-Modified.png)
+  
   **Albert Einstein**
 
   -----------------------------------------------------------------------
 
 Albert Einstein was een Amerikaans wis- en natuurkundige van Duitse
 afkomst. Einstein is vooral bekend geworden door het opstellen van de
-[relativiteitstheorie](relativi.html){.two}. Hij ontving in 1921 de
+[relativiteitstheorie](/encyclopedie/relativi). Hij ontving in 1921 de
 Nobelprijs voor natuurkunde.
 
 Albert Einstein werd op 14 maart 1879 geboren in Ulm. Dat is een stad in
@@ -50,3 +50,5 @@ niet buitengewoon. Wat wél buiten gewoon was, was zijn nieuwsgierigheid
 en zijn vindingrijk heid. Het baanbrekende natuurkundig werk dat hij
 heeft verricht is meer te danken aan die nieuwsgierigheid en
 vindingrijkheid dan aan zijn natuurkundig inzicht.
+
+---

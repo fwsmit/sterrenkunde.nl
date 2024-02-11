@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Friese wolkammer en amateur-sterrenkundige. Eise Eisinga is vooral
 bekend geworden door zijn zelfgebouwd *planetarium* in Franeker.
 
@@ -38,10 +37,10 @@ dat er van de schijnbare samen standen van planeten helemaal niets is te
 vrezen.
 
 Zeven jaar lang is Eise aan het bouwen geweest. Het resultaat is er dan
-ook naar. Nu, zo\'n twee eeuwen na de bouw, werkt het planetarium nog
+ook naar. Nu, zo'n twee eeuwen na de bouw, werkt het planetarium nog
 steeds feilloos. Behalve het bewegende zonnestelselmodel zijn er nog
 vele andere wijzers en klokken in het planetarium te bewonderen. Op
-zolder van Eisinga\'s huis is het enorme raderwerk te zien.
+zolder van Eisinga's huis is het enorme raderwerk te zien.
 
 Op 27 augustus 1828 stierf Eisinga op 84-jarige leeftijd.
 
@@ -52,12 +51,12 @@ Als je eens in Friesland bent moet je zeker eens een bezoek aan dit
 planetarium brengen. Dat is zeker de moeite waard.
 
 \
-Het adres is:\
-Eise Eisinga Planetarium\
-E. Eisingastraat 3\
-8801 KE Franeker\
-telefoon 0517-393070\
-\
+Het adres is:
+Eise Eisinga Planetarium
+E. Eisingastraat 3
+8801 KE Franeker
+telefoon 0517-393070
+
 
 Ook het zeker de moeite waard een bezoek te brengen aan het
 projectieplanetarium in Amsterdam. Dat bevindt zich in de dierentuin
@@ -69,3 +68,5 @@ plane tarium biedt nog tal van andere mogelijkheden. Ook in het
 *Omniversum* in Den Haag bevindt zich een projectie-planetarium dat een
 bezoek zeker waard is. Het adres van het Omniversum is President
 Kennedylaan 5, 2517 JK Den Haag, tel. 070 3545454.
+
+---

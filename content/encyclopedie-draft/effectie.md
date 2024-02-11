@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De verschillende lagen van de zon hebben niet allemaal de zelfde
 temperatuur. Hoe dieper we in de zon komen, hoe heter het is. In het
 centrum van de zon bedraagt de temperatuur wel 15 miljoen graden. Het is
@@ -22,3 +21,5 @@ zon mee vergelijken, moet aan nóg een voorwaarde voldoen.
 
 Hij mag geen opvallende straling terugkaatsen. De effectieve temperatuur
 van de zon is 5512 °C.
+
+---

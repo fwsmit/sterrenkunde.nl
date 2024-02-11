@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Een elektron is een zéér klein, negatief geladen deeltje.
 
 De massa is slechts 0,000 000 000 000 000 000 000 000 000 913 gram. Het
@@ -67,4 +66,6 @@ Het waterstofatoom zendt dan straling uit. Zo kunnen atomen licht
 opnemen (absorberen) of uitstralen (emitteren).
 
 Kijk voor meer informatie ook eens bij het trefwoord
-[atomen](atomen.html){.two}!
+[atomen](/encyclopedie/atomen)!
+
+---

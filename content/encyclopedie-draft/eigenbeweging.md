@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De sterren in de ruimte staan niet stil. Ze bewegen met reusachtige
 snelheden ten opzichte van elkaar. Zo beweegt onze zon zelf met een
 snelheid van ongeveer twintig kilometer per seconde ten opzichte van de
@@ -41,7 +40,7 @@ verschoven waren ten opzichte van hun plaats zoals ze in oude
 steratlassen vermeld stonden.
 
 Tegenwoordig zijn er ruim zestig sterren bekend die een eigenbeweging
-hebben van meer dan 2 [boogseconden](hoeken.html){.two} per jaar.
+hebben van meer dan 2 [boogseconden](/encyclopedie/hoeken) per jaar.
 
 Hiervan zijn er slechts enkele zó helder dat we ze met het blote oog
 kunnen zien.
@@ -54,8 +53,7 @@ had hij pas gemaakt en de andere was in 1894 genomen. Dus 22 jaar
 eerder. Hij merkte een sterretje op dat duidelijk van plaats was
 verschoven.
 
-Ter ere van Barnard werd dit sterretje later de [Ster van\
-Barnard](ster%20van.html){.two} genoemd. Het is een zwak rood sterretje
+Ter ere van Barnard werd dit sterretje later de [Ster van Barnard](barnard.html) genoemd. Het is een zwak rood sterretje
 dat zich jaarlijks over een afstand van 10,31 boogseconden verplaatst.
 
 In 180 jaar legt hij een schijnbare afstand van een halve graad af. Dat
@@ -67,21 +65,22 @@ zijn tot maar liefst ruim 25 boogseconden per jaar! In de tabel
 hieronder geven we de tien sterren met de grootste eigenbeweging. In de
 eerste kolom vind je de naam van de ster met daarachter het sterrenbeeld
 waarin de ster staat en de eigenbeweging. In de vierde kolom staat de
-[schijnbare magnitude](magnitud.html){.two} en in de vijfde de
-[spectraalklasse.\
-](spectraa.html){.two}In de laatste kolom vind je het aantal jaren dat
+[schijnbare magnitude](/encyclopedie/magnitude) en in de vijfde de
+[spectraalklasse.](/encyclopedie/spectraa)In de laatste kolom vind je het aantal jaren dat
 de ster nodig heeft om één graad aan de hemel af te leggen!
 
   ------------------ --------------- ------ ------ ---- -----
-  Ster van Kapteyn   Schildersezel   8,70   10,0   M0   410
-  Groombridge 1830   Grote Beer      7,04   7,0    G5   510
-  Lacaille 9352      Zuidervis       6,90   8,6    M2   520
-  Cordoba 32416      Beeldhouwer     6,11   10,0   M3   590
-  Ross 619           Kreeft          5,40   14,2   M6   670
-  61 Cygni A         Zwaan           5,22   6,2    K5   690
-  61 Cygni B         Zwaan           5,22   7,2    K7   690
-  Lalande 21185      Grote Beer      4,78   8,9    M2   750
-  Wolf 359           Leeuw           4,71   15,7   M6   760
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+**Naam** |**Sterrenbeeld** |**Eigenbeweging** |**Schijnbare magnitude** |**Spectraalklasse** |**Jaar per graad**
+  Ster van Kapteyn   |Schildersezel   |8,70   |10,0   |M0   |410
+  Groombridge 1830   |Grote Beer      |7,04   |7,0    |G5   |510
+  Lacaille 9352      |Zuidervis       |6,90   |8,6    |M2   |520
+  Cordoba 32416      |Beeldhouwer     |6,11   |10,0   |M3   |590
+  Ross 619           |Zwaan           |5,22   |6,2    |K5   |690
+  61 Cygni B         |Zwaan           |5,22   |7,2    |K7   |690
+  Lalande 21185      |Grote Beer      |4,78   |8,9    |M2   |750
+  Wolf 359           |Leeuw           |4,71   |15,7   |M6   |760
   ------------------ --------------- ------ ------ ---- -----
 
 Aan de schijnbare magnitude van deze sterren kun je zien dat geen van de
@@ -100,3 +99,5 @@ eigenbeweging dat er hele nauwkeurige instrumenten nodig zijn om die te
 meten. Vandaar dat we mogen zeggen dat de sterrenhemel niet verandert
 door de eigenbeweging van de sterren. Tenminste niet in een mensenleven.
 Op de lange duur zal de sterrenhemel hierdoor wel veranderen.
+
+---
