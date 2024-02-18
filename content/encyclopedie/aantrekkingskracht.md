@@ -1,6 +1,8 @@
 +++
-title = 'Aantrekkingskracht'
-date = 2023-11-17T19:39:09+01:00
-draft = true
+title = "Aantrekkingskracht"
+date = 2023-11-17T19:54:58+01:00
+draft = false
 +++
-zie [zwaartekracht](/encyclopedie/zwaartekracht).
+
+
+Zie [zwaartekracht](/encyclopedie/zwaartekracht).
