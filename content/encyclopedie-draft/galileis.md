@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Zo worden de vier grote manen van Jupiter wel genoemd, omdat ze voor het
 eerst door Galileo Galileï zijn waargenomen.
 
@@ -69,14 +68,19 @@ hieronder. In dit lijstje hebben we de kortste afstand aangegeven die de
 ruimtevoertuigen Voyager 1 en 2 tot Jupiter en vijf van zijn maantjes
 bereikten.
 
+---
+|    |    |    |    |    |    |
+|---|---|---|---|---|---|
+kortste afstand tot:  |Voyager 1       |Voyager 2 
+Jupiter            |349.000 km       |722.000 km 
+Amalthea           |317.000 km       |558.000 km 
+Io                 |21.000 km        |1.130.000 km 
+Europa             |734.000 km       |206.000 km 
+Ganymedes          |115.000 km       |62.000 km 
+Callisto           |126.000 km       |215.000 km
+       
 
-    kortste afstand tot:  Voyager 1       Voyager 2 
-       Jupiter            349.000 km       722.000 km 
-       Amalthea           317.000 km       558.000 km 
-       Io                  21.000 km     1.130.000 km 
-       Europa             734.000 km       206.000 km 
-       Ganymedes          115.000 km        62.000 km 
-       Callisto           126.000 km       215.000 km
+---
 
 Misschien is Europa wel de gladste maan van het zonne stelsel.
 Hoogteverschillen groter dan één kilometer komen er niet voor. Het
@@ -138,19 +142,25 @@ geven we aan hoeveel iemand, die op aarde 42 kg weegt, op het maantje
 weegt. Je kunt hierbij bedenken dat iemand van 42 kilogram op onze maan
 7 kilogram weegt.
 
-    maan       middellijn    gemiddelde    gewicht aan oppervlak 
-                             dichtheid        (op aarde 42 kg) 
-    Io          3.632 km       3,56               6,8 kg 
-    Europa      3.126 km       3,05               5,6 kg 
-    Ganymedes   5.276 km       1,94               6,3 kg
-    Callisto    4.820 kg       1,82               4,4 kg
+---
+|    |    |    |    |    |    |
+|---|---|---|---|---|---|
+    maan       |middellijn    |gemiddelde    |gewicht aan oppervlak                               
+    Io          |3.632 km     |3,56               |6,8 kg 
+    Europa      |3.126 km     |3,05               |5,6 kg 
+    Ganymedes   |5.276 km     |1,94               |6,3 kg
+    Callisto    |4.820 kg     |1,82               |4,4 kg
+    
+---
 
 ONTBREKENDE ZIN langs Europa. Er werd door de sonde een gebied van 30
 bij 40 kilometer gefotografeerd dat sterk lijkt op aardse
-satellietfoto\'s van een bevroren oceaan. Kilometers grote ijsschotsen
+satellietfoto's van een bevroren oceaan. Kilometers grote ijsschotsen
 zijn verschoven en afgebroken op een manier die volgens deskundigen
 bewijst dat eronder water stroomt. Dit water moet van onderaf door
 vulkanen zijn ontdooid, omdat de zon daar op die afstand te zwak voor
 is. Het zijn de eerste duidelijke aanwijzigngen dat buiten de aarde
 vloei baar water voorkomt, wat noodzakelijk is voor het ontstaan van
-leven.\
+leven.
+
+---

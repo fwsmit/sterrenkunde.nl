@@ -4,10 +4,10 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
+---
 
-  -----------------------------------------------------------------------
-  ![Galileo Galileï](plaatjes/galilei.jpg){vspace="0" hspace="0"}\
+  ![Galileo Galileï](/galilei-modified.png)
+  
   **Galileo Galileï**
 
   -----------------------------------------------------------------------
@@ -22,9 +22,7 @@ planeet Jupiter die daarom wel de *Galileïsche manen* worden genoemd.
 Ook ontdekte hij met zijn kijker de schijngestalten van Venus en de
 zonnevlekken.
 
-Hoewel Galileï reeds vroeg overtuigd was van het [heliocentrische
-wereldbeeld](heliocentrisch.html){.two} van [Nicolaus
-Copernicus](copernicus.html){.two}, waarin deze de zon in het middelpunt
+Hoewel Galileï reeds vroeg overtuigd was van het [heliocentrische wereldbeeld](/encyclopedie/heliocentrisch.) van [Nicolaus Copernicus](/encyclopedie/copernicus), waarin deze de zon in het middelpunt
 van het zonnestelsel plaatste, sprak Galileï zich eerst in 1610 daarvoor
 uit in zijn boek « *Sidereus Nuncius*», waarin hij bovengenoemde
 ontdekkingen beschreef. Dit gaf aanleiding tot de veroordeling van dit
@@ -42,3 +40,5 @@ uitgegeven. Een belangrijke ontdekking van Galileï is verder, dat de
 slingertijd van een slinger af hankelijk is van de amplitude (de mate
 waarin de slinger uitslaat). Galileï heeft veel invloed gehad op de
 ontwikke ling van de natuurwetenschappen, voornamelijk in de 19de eeuw.
+
+---

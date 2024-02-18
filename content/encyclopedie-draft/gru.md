@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Gaat men van het sterrenbeeld Zuidervis en de heldere ster Fomalhaut in
 de richting van de zuidelijke hemelpool, dan passeert men de sterren
 behorend tot het sterrenbeeld Kraanvogel. Het is niet zeker wie de naam
@@ -21,5 +20,7 @@ hebben over de ster alfa (a) van het sterrenbeeld Kraanvogel zeggen we a
 Gruis of we schrijven a Gru, want de officiële afkorting van het
 sterrenbeeld Kraanvogel is Gru.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

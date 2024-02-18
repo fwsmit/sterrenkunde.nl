@@ -4,17 +4,16 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 *Eb* en *vloed* (laag- en hoogwater aan zee) zijn een gevolg van de
 getijdenwerking van de maan. Dit gaat als volgt in zijn werk: De
 watermassa in de zeeën en oceanen op aarde moet je zien als een zachte
-schil rondom de \'onbuigzame\' korst van de aarde. De aardkorst noemen
+schil rondom de 'onbuigzame' korst van de aarde. De aardkorst noemen
 we in dit geval onbuig zaam, omdat ze niet toegeeft aan het verschil in
 aantrek kingskracht van de maan tussen het punt op aarde dat het verst
 verwijderd is van de maan en het daar tegenover liggend punt van de
 aardbol, waar de aantrekkingskracht van de maan juist het sterkst
-gevoeld wordt. De \'zachte\' schil van water geeft wel toe aan dit
+gevoeld wordt. De 'zachte' schil van water geeft wel toe aan dit
 verschil: op het naar de maan toegekeerde punt geeft de schil mee en
 komt omhoog, namelijk naar de maan toe. Het is vloed. Op het punt daar
 tegenover op aarde is de aantrekkingskracht van de maan juist kleiner.
@@ -49,3 +48,5 @@ Bij Eerste- en Laatste Kwartier (Halve Maan) werken de
 aantrekkingskrachten van zon en maan elkaar tegen. Dit noemen we
 *doodtij*. Bij de hoogte van de vloed speelt ook de windrichting en de
 windkracht een rol.
+
+---

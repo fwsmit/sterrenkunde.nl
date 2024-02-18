@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Geofysica is de wetenschap die zich bezig houdt met de fysische
 (natuurkundige) verschijnselen van de aarde, de aardoppervlakte en de
 dampkring. Geofysische verschijnselen in het inwendige van de aarde zijn
@@ -18,6 +17,11 @@ water, boven, op en onder het aardoppervlak en met hun natuurlijke samen
 hangen), klimatologie en meteorologie. Het vulkanisme behoort deels tot
 de geologische, deels tot de geofysische verschijnselen. De bestudering
 van de dampkring behoort tot de taak van de meteorologie. Het onderzoek
-van de hoogste luchtlagen valt onder de *ONTBREKENDE
-LETTERS??abronomie*. De bestudering van de *magnetosfeer* is sterk
+van de hoogste luchtlagen valt onder de 
+
+*ONTBREKENDE LETTERS?? 
+
+abronomie*. De bestudering van de *magnetosfeer* is sterk
 gestimuleerd door het ruimte onderzoek.
+
+---
