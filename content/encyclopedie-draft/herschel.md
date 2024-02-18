@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![William Herschel](plaatjes/herschel.jpg){vspace="0" hspace="0"}\
+  ![William Herschel](/herschel-modified.png)
+ 
   **William Herschel**
 
   -----------------------------------------------------------------------
@@ -199,14 +198,13 @@ toevalligheid te kunnen beschouwen. Dit bracht zijn
 basisveronderstelling aan het wankelen dat een dicht bij elkaar gelegen
 sterren paar, waarvan een heldere en een zwakke, zich op verschil lende
 afstanden zou bevinden en daarom bruikbaar zou zijn voor de bestudering
-van de [parallax](parallax.html){.two}. De sterren moesten in feite ook
+van de [parallax](/encyclopedie/parallax). De sterren moesten in feite ook
 in de ruimte met elkaar verbonden zijn. Ander zijds waren er toen reeds
 enkele aanwijzingen, dat bij sommige dubbelsterren de beide sterren om
 elkaar bewogen.
 
 Bij zijn onderzoek van de nevels werd Herschel aangespoord door een
-lijst van nevelachtige objecten die door de Fransman [Charles
-Messier](charles%20.html){.two} (1730-1817) in Parijs was ge publiceerd.
+lijst van nevelachtige objecten die door de Fransman [Charles Messier](/encyclopedie/messier) (1730-1817) in Parijs was ge publiceerd.
 Messier was een sterrenkundige, die met enorm enthousiasme nieuwe
 kometen probeerde te ontdekken. Bij haar eerste verschijning is een
 verre komeet slechts als een wazig vlekje tussen de sterren te
@@ -372,7 +370,7 @@ Catalogue of Nebulae» verschijnen waarin 5079 objecten vermeld staan.
 Hiervan werden er maar liefst 4630 door zijn vader en hemzelf ontdekt.
 Deze grote catalogus werd in 1888 door *John L.E. Dreyer* (1852-1926)
 uitgebreid tot 7840 objecten. Bijna alle heldere sterren stelsels staan
-in deze « *New General Catagolue*» ( [NGC](ngc.html){.two}) ver meld.
+in deze « *New General Catagolue*» ( [NGC](/encyclopedie/ngc)) ver meld.
 
 In 1816 werd William Herschel in de adelstand verheven. Hij overleed op
 83-jarige leeftijd op 25 augustus 1822 in Slough. Zijn reeds genoemde
@@ -400,3 +398,5 @@ van de Royal Astronomical Society gekozen en in 1850 tot koninklijk
 muntmeester. In 1831 werd hij in de adelstand verheven. Hij overleed op
 11 mei 1871 op 79 jarige leeftijd in Collingwood in het Engelse
 graafschap Kent.
+
+---

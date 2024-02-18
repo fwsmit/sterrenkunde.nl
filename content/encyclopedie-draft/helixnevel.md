@@ -4,17 +4,15 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De Helixnevel, ook wel aangeduid als NGC 7293 (dat wil zeggen nummer
-7293 uit de *N*ew *G*eneral *C*atalogue) is een [planetaire
-nevel](planetaire_nevel.html){.two} in het sterrenbeeld Waterman. Van
+7293 uit de *N*ew *G*eneral *C*atalogue) is een [planetaire nevel](/encyclopedie/planetaire_nevel) in het sterrenbeeld Waterman. Van
 alle planetaire nevels heeft deze de grootste schijnbare afmetingen: 12
-bij 12 [boogminuten](hoeken.html){.two}. Dat is ongeveer de helft van de
+bij 12 [boogminuten](/encyclopedie/hoeken). Dat is ongeveer de helft van de
 schijnbare middellijn van de maan. Hoe groter de schijnbare afmeting van
 een planetaire nevel is, hoe geringer ook zijn oppervlakte-helderheid.
 De schijnbare helderheid van de Helixnevel is
-[magnitude](magnitud.html){.two} 6«.
+[magnitude](/encyclopedie/magnitude) 6«.
 
 Daarmee lijkt het een gemakkelijk object voor een verre kijker. Dat valt
 echter zwaar tegen. De schijnbare magnitude van een nevel geeft de
@@ -25,7 +23,7 @@ Hoe groter de nevel is, hoe zwakker deze lijkt. Daar komt nog bij dat de
 Helixnevel in ons land nooit erg hoog boven de horizon komt te staan.
 Maximaal slechts 17 graden! De grote schijnbare afmeting van de
 Helixnevel geeft al aan dat de nevel niet al te ver weg staat. Zijn
-afstand wordt geschat op ongeveer 450 [lichtjaar](lichtjaa.html){.two}.
+afstand wordt geschat op ongeveer 450 [lichtjaar](/encyclopedie/lichtjaar).
 Daarmee is de Helixnevel de dichtstbijzijnde planetaire nevel. De ware
 diameter bedraagt ongeveer 1,75 lichtjaar. De massa is ongeveer 0,1 keer
 de massa van de zon.
@@ -33,11 +31,10 @@ de massa van de zon.
 Zoals in alle planetaire nevels is de centrale ster een blauwachtige
 dwerg. Zijn middellijn is vijftig keer kleiner dan de middellijn van de
 zon. Maar de oppervlakte temperatuur is 100.000 graden. De ster heeft
-een schijn bare helderheid van magnitude 13,3. De [absolute magnitude\
-](absolute.html){.two}bedraagt ongeveer 7«.
+een schijn bare helderheid van magnitude 13,3. De [absolute magnitude](/encyclopedie/absolute)bedraagt ongeveer 7«.
 
-De [Hubble Space Telescope](hst.html){.two} heeft ook van de Helixnevel
-schitterende opnamen gemaakt. Op deze foto\'s zijn aan de binnenrand van
+De [Hubble Space Telescope](/encyclopedie/hst) heeft ook van de Helixnevel
+schitterende opnamen gemaakt. Op deze foto's zijn aan de binnenrand van
 de nevel duizenden komeetachtige objecten te zien die door hun vorm de
 naam «kikkervisjes» hebben gekregen. Met kometen hebben deze
 kikkervisjes natuurlijk niets te maken. De objecten bevinden zich op een
@@ -66,4 +63,6 @@ bewegen en tot het einde der tijden door de inter stellaire ruimte
 blijven zwerven.
 
 Meer over allerlei nevels in het algemeen kun je lezen bij het trefwoord
-[nevels](nevels.html){.two}.
+[nevels](/encyclopedie/nevels).
+
+---

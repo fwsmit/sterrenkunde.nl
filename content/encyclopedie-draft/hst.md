@@ -4,19 +4,17 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 ![Hubble Space
 Telescope](plaatjes/hubble_space_telescope.jpg){vspace="5" hspace="5"
 align="right"} De Hubble Space Telescope (*HST*) is op 24 april 1990 met
-succes gelanceerd aan boord van de [Space Shuttle](spaceshu.html){.two}
+succes gelanceerd aan boord van de [Space Shuttle](/encyclopedie/spaceshu)
 Discovery en een dag later in de ruimte uitgezet in een vrijwel
 cirkelvormige baan op 613 tot 615 kilometer hoogte.
 
 Op 26 juni 1990 bereikte de astronomische gemeenschap de
-onheilsboodschap dat de hoofdspiegel lijdt aan [sferische\
-aberratie](sferisch.html){.two}. In plaats dat 70% van het sterlicht in
-een beeldje van 0,2 [boogseconde](hoeken.html){.two} wordt
+onheilsboodschap dat de hoofdspiegel lijdt aan sferische aberratie. In plaats dat 70% van het sterlicht in
+een beeldje van 0,2 [boogseconde](/encyclopedie/hoeken) wordt
 geconcentreerd, bevat dit gebiedje nu slechts 15% van het sterlicht en
 wordt het beeld als geheel uitgesmeerd tot 1,4 boogseconden.
 
@@ -35,7 +33,7 @@ geen last heeft van turbulentie in de atmosfeer. Het beeld in het
 brandvlak van de telescoop kan worden bekeken met vijf ver schillende
 wetenschappelijke instrumenten. Twee van deze instrumenten, de «Wide
 Field Planetary Camera» (WFPC) en de «Faint Object Camera» (FOC) zijn in
-feite geavanceerde televisiecamera\'s. Ze kunnen directe afbeeldingen
+feite geavanceerde televisiecamera's. Ze kunnen directe afbeeldingen
 maken van het waargenomen object. De WFPC bestrijkt een groter deel van
 de hemel dan de FOC en is meer gevoelig voor rode golflengten. De WFPC
 wordt gebruikt voor gedetailleerde waarnemingen van verre planeten,
@@ -59,7 +57,7 @@ graafjes, die het licht van sterke lichtbronnen kunnen afschermen.
 Hierdoor kan de FOC ook objecten fotograferen die normaal gesproken niet
 goed zichtbaar zouden zijn.
 
-Theoretisch ligt de [grensmagnitude](telescop.html){.two} van de FOC
+Theoretisch ligt de [grensmagnitude](/encyclopedie/telescopen) van de FOC
 overigens bij magnitude 30 (in blauw licht), zij het dat hiervoor een
 belichtingstijd van 10 uur noodzakelijk is.
 
@@ -69,7 +67,7 @@ zal voornamelijk gebruikt worden om het licht van sterren in ons
 melkwegstelsel te bestuderen.
 
 De Faint Object Spectrograph is ontworpen om spectra te verkrijgen van
-verder weg gelegen objecten zoals [quasars](quasar.html){.two}.
+verder weg gelegen objecten zoals [quasars](/encyclopedie/quasar).
 
 Het vijfde instrument van de HST is de High Speed Photometer: een
 instrument om de lichtsterkte (en de mogelijke variaties daarin) van
@@ -189,3 +187,5 @@ zichtbare heelal bevat waarschijnlijk enkele duizenden miljarden
 sterrenstelsels of meer. En als elk sterrenstelsel gemiddeld tien
 miljard sterren bevat moet het aantal sterren in het heelal dus boven de
 10ýý (10.000.000.000.000.000.000.000) liggen.
+
+---

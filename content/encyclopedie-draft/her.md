@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Tussen de sterrenbeelden Lier en Noorderkroon kun je het sterrenbeeld
 Hercules aan de hemel vinden. Het sterrenbeeld is erg uitgestrekt en
 niet zo makkelijk aan de hemel te herkennen.
@@ -43,7 +42,7 @@ De derde opdracht was het vangen van een hert met een gouden gewei, dat
 erg schuw was. Pas na een jaar kon Hercules het te pakken krijgen. De
 vierde opdracht was het vangen van het grootste everzwijn op aarde. In
 de vijfde opdracht moest hij de stal van koning Augius schoonmaken. Het
-was daar zo\'n ontzettende troep, dat het Hercules pas lukte, toen hij
+was daar zo'n ontzettende troep, dat het Hercules pas lukte, toen hij
 twee rivieren door de stallen heen liet stromen.
 
 Er waren in een moeras een aantal vogels met ijzeren klauwen en ijzeren
@@ -84,9 +83,8 @@ wint.
 
 Omdat Hercules onsterfelijk is, is hij aan de hemel gezet toen hij hier
 van de aarde wegging. Hercules is dezelfde man als Herakles, alleen
-Herakles is Grieks.\
-In het sterrenbeeld Hercules bevinden zich twee [bolvormige\
-sterrenhopen](bolvormi.html){.two}: M 13 en M 92. Hiervan is M 13 de
+Herakles is Grieks.
+In het sterrenbeeld Hercules bevinden zich twee [bolvormige sterrenhopen](/encyclopedie/bolvormig): M 13 en M 92. Hiervan is M 13 de
 helderste.
 
 Het is zelfs de helderste bolvormige sterrenhoop die we vanuit Nederland
@@ -97,14 +95,12 @@ Hieronder vind je nog wat gegevens over enkele sterren van dit
 sterrenbeeld. In de eerste kolom vind je de Griekse letteraanduiding met
 daarachter de naam.
 
-Vervolgens geven we de afstand in [lichtjaar](lichtjaa.html){.two}, het
-[spectraaltype](spectraa.html){.two}, de [schijnbare
-magnitude](magnitud.html){.two} en tenslotte de [absolute
-magnitude](absolute.html){.two}.\
-alfa Her Ras Algethi 540 lj gM5 3.0-4.0 -3,1\--2,1 beta Her Rutilicus of
+Vervolgens geven we de afstand in [lichtjaar](/encyclopedie/lichtjaar), het
+[spectraaltype](/encyclopedie/spectraa), de [schijnbare magnitude](/encyclopedie/magnitudr) en tenslotte de [absolute magnitude](/encyclopedie/absolute).
+alfa Her Ras Algethi 540 lj gM5 3.0-4.0 -3,1--2,1 beta Her Rutilicus of
 Antilicus 125 lj gG8 2.81 -0,2 gamma Her 142 lj A6 3,79 0,6 delta Her
-105 lj A3 3,16 0,6\
-De ster Ras Algethi is een [veranderlijke ster](verander.html){.two}. De
+105 lj A3 3,16 0,6
+De ster Ras Algethi is een [veranderlijke ster](/encyclopedie/verander). De
 schijnbare helderheid schommelt tussen magnitude 3,0 en 4,0. De kleine
 letter g bij het spectraaltype geeft aan dat we met een reuzenster te
 maken hebben (giant is het Engelse woord voor reus).
@@ -115,5 +111,7 @@ dit Herculis. Als we het hebben over de ster delta (b) van het
 sterrenbeeld Hercules zeggen we ë Herculis of we schrijven ë Her, want
 de officiële afkorting van het sterrenbeeld Hercules is Her.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

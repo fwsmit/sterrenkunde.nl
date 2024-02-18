@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Het lijkt het beste te erkennen dat we nog niets afweten van de
 oorsprong van het heelal. Het ontstaan van de materie is een nog
 volkomen onbegrepen zaak. Het helpt evenmin te stellen dat er geen
@@ -37,5 +36,6 @@ die nodig zijn om de stelsels te vervangen die uit het zicht ont snappen
 ten gevolge van de uitdijing van het heelal. Deze theorie heeft echter
 nog maar weinig aanhangers.
 
-Als je meer wilt weten over het heelal moet je hierna bij « [ontstaan
-heelal](ontstaan.html){.two}» kijken.
+Als je meer wilt weten over het heelal moet je hierna bij « [ontstaan heelal](/encyclopedie/ontstaan)» kijken.
+
+---

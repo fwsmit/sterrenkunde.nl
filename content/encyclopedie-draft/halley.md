@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![Edmund Halley](plaatjes/halley.gif){vspace="0" hspace="0"}\
+  ![Edmund Halley](/halley-modified.png)
+  
   **Edmund Halley**
 
   -----------------------------------------------------------------------
@@ -32,10 +31,10 @@ zuiderbreedte. Dit 122 vierkante kilometer grote eiland was in die tijd
 de zuidelijkste Engelse kolonie in de Atlantische Oceaan. Halley
 verbleef bijna een jaar op Sint Helena. In die tijd bepaalde hij onder
 slechte weersomstan digheden met zijn meegenomen instrumenten de
-posities van 341 sterren en nam hij een [overgang](overgang.html){.two}
+posities van 341 sterren en nam hij een [overgang](/encyclopedie/overgang)
 van Mercurius voor de zonne schijf waar. Ook deed hij talrijke
 slingerwaarnemingen om de plaatselijke sterkte van de
-[zwaartekracht](zwaartekracht.html){.two} te meten. Halley\'s
+[zwaartekracht](/encyclopedie/zwaartekracht) te meten. Halley's
 sterrencatalogus verscheen in 1679 onder de naam «Catalogus stellarum
 Australium». Het was de eerste catalogus van met de telescoop bepaalde
 posities van sterren aan de zuide lijke hemel. Hiermee was zijn naam als
@@ -51,9 +50,9 @@ van «Master of Arts» behaalde. In dat jaar werd hij ook lid van de Royal
 Society, een beroemd wetenschappelijk genootschap, opgericht in 1660.
 Hiervan kon je alleen lid worden als je tot de beste wetenschappers
 behoorde. Overigens is het sterrenbeeld Karelseik later niet erkend door
-de [Internationale Astronomische Unie](iau.html){.two} (IAU).
+de [Internationale Astronomische Unie](/encyclopedie/iau) (IAU).
 
-Bij het trefwoord [komeet Halley](halleyko.html){.two} kun je lezen over
+Bij het trefwoord [komeet Halley](/encyclopedie/halleyko) kun je lezen over
 het onder zoek dat Halley aan kometen heeft verricht. Verder vind je
 daar veel informatie over deze beroemdste komeet aller tijden.
 
@@ -119,7 +118,7 @@ natuurkundige processen in het heelal beschrijven. Die omwenteling
 hebben we voor een belangrijk deel aan Edmond Halley te danken.
 
 Belangrijk werk heeft Halley ook verricht bij het bepalen van de lengte
-van de [astronomische eenheid](astronom.html){.two} (de gemiddelde
+van de [astronomische eenheid](/encyclopedie/ae) (de gemiddelde
 afstand aarde - zon, vaak afgekort tot ae of AE), de meest fundamentele
 grootheid in het zonnestelsel. Deze afstand is niet rechtstreeks te
 meten, maar kan via de derde wet van Kepler worden afgeleid uit de
@@ -179,8 +178,8 @@ de twee niet met elkaar overweg. Toen dezelfde leerstoel twaalf jaar
 later opnieuw vacant was, werd Halley echter wel gekozen.
 
 Het was hier, in Oxford, dat Halley in 1718 de
-[eigenbeweging](eigenbew.html){.two} van de sterren ontdekte. Hij was de
-toenmalige waarden voor de [declinaties](declinat.html){.two} van de
+[eigenbeweging](/encyclopedie/eigenbeweging) van de sterren ontdekte. Hij was de
+toenmalige waarden voor de declinaties van de
 sterren aan het ver gelijken met de ca. tweeduizend jaar oude opgaven
 van de Griekse astronomen Timocharis, Aristyllus en Hipparchus.
 
@@ -216,7 +215,7 @@ de beweging van de maan waarnemen. Deze beweging was een belangrijke
 toets voor de wet van de zwaartekracht en moest bovendien goed bekend
 zijn om de maan te kunnen gebruiken voor het bepalen van de lengte op
 zee. Halley wilde deze waarnemingen ruim 18 jaar volhouden, omdat in die
-periode (de [sarosperiode](saros.html){.two}) het baanvlak van de maan
+periode (de [sarosperiode](/encyclopedie/saros)) het baanvlak van de maan
 éénmaal is rondgedraaid. Dankzij zijn uitstekende gezondheid kon hij
 deze taak volbrengen.
 
@@ -231,3 +230,5 @@ Toen in de 19e eeuw de marmeren steen van de graftombe werd vernieuwd,
 werd de oude aan de sterrenwacht van Greenwich aangeboden. Deze bevindt
 zich nu in de muur van de oostelijke vleugel die uitziet op het
 binnenplein van de sterrenwacht.
+
+---

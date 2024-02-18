@@ -4,10 +4,8 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-Betrekkelijk dicht bij de [Grote Magelhaanse
-Wolk](grote%20ma.html){.two} ligt het sterrenbeeld Kleine Waterslang. De
+---
+Betrekkelijk dicht bij de Grote MagelhaanseWolk ligt het sterrenbeeld Kleine Waterslang. De
 Duitse sterrenkundige Johann Bayer gaf het sterrenbeeld in 1603 zijn
 naam. Hij wilde hiermee een tegenhanger scheppen van het sterrenbeeld
 Waterslang dat we in zuidelijke streken op het noordelijk halfrond
@@ -24,5 +22,7 @@ hebben over de ster alfa (a) van het sterrenbeeld Kleine Waterslang
 zeggen we a Hydri of we schrijven a Hyi, want de officiële afkorting van
 het sterren beeld Kleine Waterslang is Hyi.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

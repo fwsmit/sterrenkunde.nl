@@ -4,9 +4,8 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-De Engelse sterrenkundige Edmund [Halley](halley.html){.two} leefde van
+---
+De Engelse sterrenkundige Edmund [Halley](/encyclopedie/halley) leefde van
 1656 tot 1710. Hij is vooral beroemd geworden door zijn onderzoek naar
 bewegingen van kometen en zijn bemoeienissen met de publicatie van
 *Isaac Newton*s (1642-1727) beroemde werk « *Principia*».
@@ -28,7 +27,7 @@ berekenen van 24 kometen die sinds de 14e eeuw waren verschenen. Com
 puters waren er natuurlijk niet; alles moest met pen en en papier
 gebeuren. Gelukkig was al het werk niet tevergeefs, want na al het
 gereken deed hij zijn beroemde ontdekking: de kometen van 1531, 1607 en
-1682 volgden alle drie zo\'n beetje dezelfde baan in de ruimte. Zou het
+1682 volgden alle drie zo'n beetje dezelfde baan in de ruimte. Zou het
 telkens dezelfde komeet geweest kunnen zijn? Hij berekende daarop een
 elliptische baan die voor deze drie verschijningen zou moeten kloppen en
 vond toen dat waarschijnlijk ook de komeet uit 1456 erbij hoorde. De
@@ -458,3 +457,5 @@ aarde alleen op het zuidelijk halfrond zichtbaar zal zijn. Daar komt nog
 bij dat de dichtste nadering ongeveer rond Volle Maan zal plaatsvinden.
 Maar onze achter-achter-kleinkinderen zullen alle gelegenheid hebben
 zich uitgebreid voor te bereiden op dit sterrenkundig spektakel.
+
+---

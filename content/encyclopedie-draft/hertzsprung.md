@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![Ejnar Hertzsprung](plaatjes/hertzsprung.jpg){vspace="0" hspace="0"}\
+  ![Ejnar Hertzsprung](/hertzsprung-modified.png)
+  
   **Ejnar Hertzsprung**
 
   -----------------------------------------------------------------------
@@ -23,14 +22,16 @@ Sitter* (1872-1934) op als directeur van de Leidse sterrenwacht. Van af
 Hertzsprung was in de eerste plaats een waarnemer die door nieuwe en
 verbeterde methodes de uiterste nauwkeurigheid trachtte te bereiken. Hij
 deed veel onderzoekingen aan voornamelijk
-[cepheïden](cepheide.html){.two} en
-[dubbelsterren](dubbelst.html){.two}. Hij was de eerste die begreep dat
-de sterren van late [spectraaltypen](spectraa.html){.two} zijn te
+[cepheïden](/encyclopedie/cepheide) en
+[dubbelsterren](/encyclopedie/dubbelster). Hij was de eerste die begreep dat
+de sterren van late [spectraaltypen](/encyclopedie/spectraa) zijn te
 verdelen in «reuzen» en «dwergen». Onafhankelijk met de Amerikaanse
 astronoom *Henry N. Russell* (1877-1957) stelde hij het
-[Hertzsprung-Russell diagram](hrd.html){.two} (vaak kortweg
-[HRD](hrd.html){.two} ge noemd op. Deze kleur-helderheidsdiagrammen zijn
+[Hertzsprung-Russell diagram](/encyclopedie/hrd) (vaak kortweg
+[HRD](/encyclopedie/hrd) ge noemd op. Deze kleur-helderheidsdiagrammen zijn
 onder andere van groot belang gebleken voor het onderzoek van de
 levensloop van sterren. Hertzsprung was verder de eerste die de afstand
 van een object buiten ons Melkwegstelsel afleidde met behulp van
 cepheïden.
+
+---

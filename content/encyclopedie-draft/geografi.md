@@ -14,7 +14,7 @@ Utrecht 52° boven de evenaar ligt. Daarom kun je de
 vinden. De geografische breedte van de waarnemingsplaats komt namelijk
 overeen met de hoogte van de Poolster boven de noordelijke horizon. Ligt
 een plaats ten zuiden van de evenaar, dan spreken we van
-*zuiderbreedte*.
+*zuiderbreedte*. 	
 
 Alle cirkels die evenwijdig aan de evenaar lopen noemen we
 *breedtecirkels*. Maar er zijn ook *lengtecirkels*. Dat zijn de lijnen

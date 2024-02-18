@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![Edwin P. Hubble](plaatjes/hubble.jpg){vspace="0" hspace="0"}\
+  ![Edwin P. Hubble](/hubble-modified.png)
+  
   **Edwin P. Hubble**
 
   -----------------------------------------------------------------------
@@ -40,9 +39,9 @@ bestuderen van verafgelegen sterren stelsels. Hij leverde in 1923 het
 eerste echte bewijs dat sommige nevelachtige objecten afzonderlijke
 sterrenstelsels zijn, toen hij er met de 2« meter Hooker-telescoop als
 eerste in slaagde afzonderlijke sterren in de
-[Andromedanevel](andromedanevel.html){.two} en andere soortgelijke
+[Andromedanevel](/encyclopedie/andromedanevel) en andere soortgelijke
 nevels mee waar te nemen. Uit de perioden van de lichtwisseling van
-[cephe‹den](cepheide.html){.two} bepaalde hij de licht kracht van deze
+[cepheiden](/encyclopedie/cepheide) bepaalde hij de licht kracht van deze
 sterren.
 
 Cepheïden zijn superreuzen waarvan de helderheid voortdurend verandert.
@@ -50,7 +49,7 @@ Het helderheidsverloop van dit type veranderlijke ster is erg
 kenmerkend. In 1912 ontdekte de Amerikaanse sterrenkundige *Henriëtte S.
 Leavitt* (1868-1921) van de Harvard-sterrenwacht, een verband tussen de
 *periode* en de *absolute magnitude* van cepheïden. Dit verband is
-bekend als de [periodelichtkrachtwet](cepheide.html){.two}. De periode
+bekend als de [periodelichtkrachtwet](/encyclopedie/cepheide). De periode
 is de tijd die een veranderlijke ster nodig heeft om vanaf het moment
 van groot ste helderheid opnieuw in zijn maximum te komen. De absolute
 magnitude is een maat voor de werkelijke hoeveelheid licht die een ster
@@ -108,17 +107,17 @@ indeling is gebaseerd op de mate waarin de spiraalstelsels al dan niet
 strak om de kern zijn gewonden.
 
 De Amerikaanse sterrenkundige *Harlow Shapley* (1885-1972) en anderen
-hebben verfijningen aan Hubble\'s indeling van ster renstelsels
+hebben verfijningen aan Hubble's indeling van ster renstelsels
 aangebracht. Veel meer over deze «classificatie van Hubble» kun je lezen
-bij het trefwoord [sterrenstelsels](sterrenstelsel.html){.two}.
+bij het trefwoord [sterrenstelsels](/encyclopedie/sterrenstelsel).
 
 Hubble heeft niet alleen een indeling van de sterrenstelsels gemaakt en
 hun afstanden bepaald, maar hij heeft ook onder zocht waaruit de
 sterrenstelsels zijn samengesteld. Hier voor maakte hij gebruik van de
 donkere lijnen (absorptie lijnen) in het
-[spectrum](spectrum.html){.two}. Die geven aan uit welke elementen de
+[spectrum](/encyclopedie/spectrum). Die geven aan uit welke elementen de
 sterren bestonden. Door te meten in hoeverre de lijnen volgens het
-[Dopplereffect](doppler.html){.two} in de stelsels zijn verschoven kon
+[Dopplereffect](/encyclopedie/doppler) in de stelsels zijn verschoven kon
 hij bovendien onderzoeken met welke snelheid en in welke richting de
 sterrenstelsels zich bewogen. Hoe meer het licht was verschoven, hoe
 meer het licht moest zijn «samengedrukt» of «uiteengetrokken» en hoe
@@ -206,3 +205,5 @@ onderzoek naar verre sterren stelsels is nog steeds in volle gang.
 Daarbij speelt ook de naar Edwin P. Hubble genoemde ruimte-telescoop die
 op 24 april 1990 in een baan om de aarde is gebracht, een hele
 belangrijke rol.
+
+---

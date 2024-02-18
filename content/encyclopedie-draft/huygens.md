@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![Christiaan Huygens](plaatjes/huygens.jpg){vspace="0" hspace="0"}\
+  ![Christiaan Huygens](/huygens-modified.png)
+  
   **Christiaan Huygens**
 
   -----------------------------------------------------------------------
@@ -49,17 +48,17 @@ verre van ideaal. De gebroeders Huygens maakten lenzen met brandpunt
 afstanden tot 210 voet (63 meter!). Maar hoe moet je een dergelijke lens
 voorzien van een kijkerbuis en ermee werken? Huygens zag af van lange
 houten buizen. In het geval van zijn 123 voet telescoop hees hij het
-[objectief](telescop.html){.two}, dat gemonteerd was in een korte
+[objectief](/encyclopedie/telescopen), dat gemonteerd was in een korte
 metalen buis, omhoog aan een lange paal.
 
-Vanaf de grond kon de waarnemer met het [oculair](telescop.html){.two},
+Vanaf de grond kon de waarnemer met het [oculair](/encyclopedie/telescopen),
 dat met een draad aan het objectief was vastgemaakt, zijn waarnemingen
 doen. Je begrijpt dat een dergelijk instrument nogal wat ervaringen
 vereist van de waarnemer. Huygens kon goed met zijn instrument overweg,
 gezien zijn ontdekkingen. We noemden er reeds enkele, en daaraan zou de
 ontdekking van een aantal nevels zoals de
-[Orionnevel](orionnevel.html){.two} en een groot aantal
-[dubbelsterren](dubbelst.html){.two} nog toegevoegd moeten worden. Dat
+[Orionnevel](/encyclopedie/orionnevel.) en een groot aantal
+[dubbelsterren](/encyclopedie/dubbelster) nog toegevoegd moeten worden. Dat
 Huygens behalve Titan geen manen bij Saturnus kon onderscheiden, was een
 gevolg van de gebrekkige kwaliteit van het glas waarvan de lenzen
 gemaakt waren en de bouw van het oculair.
@@ -85,3 +84,5 @@ behandelde.
 Verder verbeterde hij de luchtpomp en probeerde een op buskruit lopende
 verbrandingsmotor te construeren. Hij overleed op 8 juni 1695 in Den
 Haag.
+
+---

@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Een *waterstofatoom* bestaat normaal uit twee deeltjes. Een *proton* in
 de kern en een *elektron* dat om de kern heen draait.
 
@@ -22,4 +21,6 @@ uit het waterstof atoom verdwenen. Wolken met geïoniseerd waterstofgas
 noemen we vaak *H II-gebieden*. Wolken met neutrale waterstof worden *H
 I-gebieden* genoemd.
 
-Lees ook het verhaal bij het trefwoord [atoom](atomen.html){.two}!
+Lees ook het verhaal bij het trefwoord [atoom](/encyclopedie/atomen)!
+
+---
