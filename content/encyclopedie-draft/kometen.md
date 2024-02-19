@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Af en toe kun je aan de hemel een bijzonder hemellichaam zien: een
 komeet. Evenals planeten draaien kometen in een baan om de zon. Maar de
 banen van kometen zijn meestal niet zo mooi rond als de banen van
@@ -147,14 +146,13 @@ dus wat van zijn massa.
 
 Meestel minder dan 1/100ste deel (1%). Maar dat is toch genoeg om er
 voor te zorgen dat de meeste kometen in een paar duizend jaar helemaal
-zijn \'opgelost\'. Maar wat dan? Zullen er dan geen kometen meer zijn?
+zijn 'opgelost'. Maar wat dan? Zullen er dan geen kometen meer zijn?
 Wees maar niet ongerust. Het aantal kometen zal dan nog steeds ongeveer
 hetzelfde zijn. Alleen zijn het allemaal andere! Nu zul je wel willen
 weten waar die kometen dan allemaal vandaan komen. Volgens de
 Nederlandse astronoom *Jan H. Oort* bestaat er een enorme wolk van
 komeetkernen. Ze bewegen op afstanden van 40.000 tot 150.000
-[astronomische eenheden\
-](astronom.html){.two}rond de zon. Deze wolk wordt wel de *circumsolaire
+[astronomische eenheden ](/encyclopedie/ae)rond de zon. Deze wolk wordt wel de *circumsolaire
 kometen wolk* genoemd. Sommige sterrenkundigen denken dat er in die wolk
 wel honderd miljard komeetkoppen zitten. Door storingen in hun banen
 kunnen er vanuit die wolk komeetkernen naar de zon toe vallen. Zulke
@@ -163,7 +161,7 @@ van de zon. Die kometen hebben dus enorm lange omlooptijden.
 Baanstoringen door de planeten zorgen er soms voor dat een komeet een
 kortere omlooptijd krijgt.
 
-In 1994 besloot de [Internationale Astronomische Unie](iau.html){.two}
+In 1994 besloot de [Internationale Astronomische Unie](/encyclopedie/iau)
 met ingang van 1995 de manier te wijzigen waarop kometen tot dan toe
 werden aangeduid. Tot dan toe kreeg een komeet eerst een voorlopige
 aanduiding met een jaartal gevolgd door een letter die het rangnummer
@@ -182,11 +180,10 @@ in de eerste helft van januari 1995 ontdekt is de aanduiding C/1995 A1
 
 De reden voor deze verandering komt voor een belangrijk deel omdat men
 bij ontdekking niet altijd weet of het object een komeet of planetoïde
-is. Zo is de planetoïde (?) [Chiron\
-](chiron.html){.two}aangeduid met 1990 UL3, 1990p en 1990 XVI. Als men
+is. Zo is de planetoïde (?) [Chiron](/encyclopedie/chiron)aangeduid met 1990 UL3, 1990p en 1990 XVI. Als men
 zeker weet om wat voor soort object het gaat kan de aanduiding (en/of
-naam) worden voorafgegaan met A/ (voor een planetoïde), C/ (voor een
-komeet) of P/ (voor een periodieke komeet).
+naam) worden voorafgegaan met A (voor een planetoïde), C (voor een
+komeet) of P (voor een periodieke komeet).
 
 Net als de planetoïden zullen periodieke kometen van een gewoon
 rangnummer worden voorzien zodra hun baan goed is vastgesteld. Dit
@@ -276,37 +273,38 @@ die kometen die de aarde deze eeuw dichter genaderd zijn dan 0,2
 astronomische eenheden (30 miljoen kilometer). Achter de naam vind je de
 kleinste afstand in astronomische eenheden en de datum waarop die korste
 afstand werd bereikt. Merk op dat de heldere komeet Hyakutake (1996 B2)
-op de vijfde plaats staat.\
+op de vijfde plaats staat.
 
-
-    1. IRAS-Araki-Alcock (1983 VII)      0,0313 AE   11 mei 1983 
-    2. 7P/Pons-Winnecke                  0,0394 AE   26 jun 1927 
-    3. 73P/Schwassmann-Wachmann 3        0,0617 AE   31 mei 1930 
-    4. Sugano-Saigusa-Fujikawa (1983 V)  0,0628 AE   12 jun 1983 
-    5. Hyakutake (1996 B2)               0,1017 AE   25 mrt 1996 
-     6. Seki (1961 VIII)                 0,1019 AE   15 nov 1961 
-     7. Suzuki-Saigusa-Mori (1975 X)     0,1040 AE   31 okt 1975 
-     8. 7P/Pons-Winnecke                 0,1073 AE    1 jul 1939 
-     9. Latyuchev-Wild-Burnham (1957 IX) 0,1297 AE   12 jun 1921 
-    10. 7P/Pons-Winnecke                 0,1412 AE   12 jun 1921 
-    11. 6P/d'Arrest                      0,1512 AE   13 aug 1976 
-    12. 1P/Halley                        0,1514 AE   20 mei 1910 
-    13. Friend-Reese-Honda (1941 II)     0,1516 AE   18 feb 1941 
-    14. P/Haneda-Campos (1978 XX)        0,1539 AE   10 okt 1978 
-    15. 26P/Grigg-Skjellerup             0,1593 AE   12 apr 1947 
-    16. Pajdusakova-Rotbart-Weber        0,1613 AE    1 jun 1946 
-    17. 45P/Honda-Mrkos-Pajdusakova      0,1689 AE    4 feb 1996 
-    18. Peltier (1936 II)                0,1720 AE    4 aug 1936 
-    19. 26P/Grigg-Skjellerup             0,1820 AE    2 apr 1977 
-    20. 32P/Encke                        0,1901 AE    4 jul 1997 
-    21. Ikeja (1964 VIII)                0,1939 AE   12 aug 1964 
-    22. Bradfield (1979 X)               0,1978 AE   25 jan 1980 
-    23. 23P/Brorsen-Metcalf              0,1987 AE   15 sep 1919
+---
+|   |   |   |
+|---|---|---|
+1 IRAS-Araki-Alcock (1983 VII)      |0,0313 AE   |11 mei 1983 
+2. 7P/Pons-Winnecke                  |0,0394 AE   |26 jun 1927 
+3. 73P/Schwassmann-Wachmann 3        |0,0617 AE   |31 mei 1930 
+4. Sugano-Saigusa-Fujikawa (1983 V)  |0,0628 AE   |12 jun 1983 
+5. Hyakutake (1996 B2)               |0,1017 AE   |25 mrt 1996 
+6. Seki (1961 VIII)                 |0,1019 AE   |15 nov 1961 
+7. Suzuki-Saigusa-Mori (1975 X)     |0,1040 AE   |31 okt 1975 
+8. 7P/Pons-Winnecke                 |0,1073 AE    |1 jul 1939 
+9. Latyuchev-Wild-Burnham (1957 IX) |0,1297 AE   |12 jun 1921 
+10. 7P/Pons-Winnecke                 |0,1412 AE   |12 jun 1921 
+11. 6P/d'Arrest                      |0,1512 AE   |13 aug 1976 
+12. 1P/Halley                        |0,1514 AE   |20 mei 1910 
+13. Friend-Reese-Honda (1941 II)     |0,1516 AE   |18 feb 1941 
+14. P/Haneda-Campos (1978 XX)        |0,1539 AE   |10 okt 1978 
+15. 26P/Grigg-Skjellerup             |0,1593 AE   |12 apr 1947 
+16. Pajdusakova-Rotbart-Weber        |0,1613 AE    |1 jun 1946 
+17. 45P/Honda-Mrkos-Pajdusakova      |0,1689 AE    |4 feb 1996 
+18. Peltier (1936 II)                |0,1720 AE    |4 aug 1936 
+19. 26P/Grigg-Skjellerup             |0,1820 AE    |2 apr 1977 
+20. 32P/Encke                        |0,1901 AE    |4 jul 1997 
+21. Ikeja (1964 VIII)                |0,1939 AE   |12 aug 1964 
+22. Bradfield (1979 X)               |0,1978 AE   |25 jan 1980 
+23. 23P/Brorsen-Metcalf              |0,1987 AE [gug])   |15 sep 1919
      
 
 De beroemdste van alle kometen is natuurlijk de komeet van Halley,
-genoemd naar de Engelse sterrenkundige [Edmund Halley\
-](halley.html){.two}(1656-1742). Halley ontdekte dat de kometen van
+genoemd naar de Engelse sterrenkundige [Edmund Halley](/encyclopedie/halley)(1656-1742). Halley ontdekte dat de kometen van
 1531, 1607 en 1682 alle drie zo\'n beetje dezelfde baan door het
 zonnestelsel volgden. Hij vermoedde dat het steeds om dezelfde komeet
 ging. Als dat zo was zou de komeet in 1758 opnieuw zichtbaar moeten zijn
@@ -317,4 +315,6 @@ komeet Halley.
 
 Over de komeet van Halley is zoveel te vertellen dat we van deze komeet
 een apart trefwoord hebben gemaakt. Als je dus meer over deze beroemde
-komeet wilt lezen, kijk dan bij [komeet Halley](halleyko.html){.two}.
+komeet wilt lezen, kijk dan bij [komeet Halley](/encyclopedie/halleyko).
+
+---

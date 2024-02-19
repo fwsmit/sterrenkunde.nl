@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![Johannes Kepler](plaatjes/kepler.gif){vspace="0" hspace="0"}\
+  ![Johannes Kepler](/kepler-modified.png)
+  
   **Johannes Kepler**
 
   -----------------------------------------------------------------------
@@ -32,7 +31,7 @@ doorgronden.
 
 Op verzoek van Tycho Brahe reisde hij in het jaar 1600 naar Praag om
 zijn assistent te worden. Om godsdienstige redenen was Tycho Brahe
-uitgeweken naar Praag. Niet lang na Keplers\' aankomst in Praag overleed
+uitgeweken naar Praag. Niet lang na Keplers' aankomst in Praag overleed
 Brahe in 1601. Na diens dood werd Kepler tot zijn opvolger en keizerlijk
 wiskundige benoemd en kreeg hij de zorg opgedragen voor de
 wetenschappelijke nalatenschap van Brahe.
@@ -44,7 +43,7 @@ Hij bewerkte Marswaarnemingen van Tycho, waarbij hij een nieuwe methode
 ontwikkelde die hem tot de eerste naar hem genoemde wetten voerde, te
 weten:
 
-1.  Een planeet beschrijft een [ellips](ellips.html){.two} om de zon,
+1.  Een planeet beschrijft een [ellips](/encyclopedie/ellips) om de zon,
     die zich in een der brandpunten van deze ellips bevindt.
 2.  De voerstraal (dat is een denkbeeldige lijn tussen het middelpunt
     van de zon en dat van een planeet) van de zon naar de planeet
@@ -64,7 +63,7 @@ uitgesproken:
 
 1.  De derde machten van de halve grote assen van de banen der planeten
     (wij zeggen gewoon de gemiddelde afstand van de aarde tot de zon in
-    [astronomische eenheden](astronom.html){.two} verhouden zich als de
+    [astronomische eenheden](/encyclopedie/ae) verhouden zich als de
     kwadraten van hun omlooptijden in jaren.
 
 In 1626 verhuisde Kepler naar Ulm waar hij zijn astronomische tafels
@@ -72,3 +71,5 @@ liet drukken die in 1627 verschenen onder de titel «Tabulae
 Rudolphinae». In 1630 reisde hij naar Regensburg om aan te dringen op
 betaling van zijn grote tegoeden op keizerlijke kas, doch hij overleed
 daar kort na zijn aan komst.
+
+---

@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![De Krabnevel (M1)](plaatjes/krabnevel.jpg){vspace="0" hspace="0"}\
+  ![De Krabnevel (M1)](/krabnevel-modified.png	)
+  
   **De Krabnevel (M1)**
 
   -----------------------------------------------------------------------
@@ -23,7 +22,7 @@ William Parsons dat de nevel vol was met onregelmatige slierten die hem
 deden denken aan de poten van een krab.
 
 De Krabnevel is het restant van een
-[supernova](supernova.html){.two}-explosie die op 4 juli 1054 verscheen.
+[supernova](/encyclopedie/supernova)-explosie die op 4 juli 1054 verscheen.
 Dat weten we zo precies omdat Chinese sterrenkundigen deze
 supernova-explosie in hun kronieken hebben vastgelegd. Behalve de
 precieze datum waarop de nova verscheen, weten we ook dat hij gedurende
@@ -31,5 +30,8 @@ precieze datum waarop de nova verscheen, weten we ook dat hij gedurende
 daaropvolgende jaar verdween de ster van de nachtelijke hemel. De
 grootste helderheid van de supernova moet ongeveer
 
-\
-ONTBREKENDE TEKST\
+***
+ONTBREKENDE TEKST
+***
+
+---

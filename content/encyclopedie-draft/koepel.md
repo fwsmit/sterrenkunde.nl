@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De Stichting de Koepel stelt zich ten doel de sterrenkunde, weerkunde,
 het ruimte-onderzoek en de ruimtevaart te popula riseren. Zij richt zich
 zowel op de belangstellende leek als op de beginnende en gevorderde
@@ -35,16 +34,16 @@ geïllustreerd. Het bevat artikelen over sterrenkunde, weerkunde,
 ruimtevaart, ruimte-onderzoek, telescoopbouw, astrofotografie, recente
 ontdekkingen en verschijnselen aan de sterrenhemel, en activiteiten van
 sterrenkundige amateurs. Zenit wordt uitgegeven door de Stichting de
-Koepel en kost Ÿ 95.\-- per jaar (1998). In deze prijs is begrepen ofwel
+Koepel en kost Ÿ 95.-- per jaar (1998). In deze prijs is begrepen ofwel
 het lidmaatschap van de NVWS, ofwel het donateursschap voor de Stichting
 de Koepel.
 
-Naast Zenit verschijnt 10 maal per jaar (circa 10 pagina\'s per
+Naast Zenit verschijnt 10 maal per jaar (circa 10 pagina's per
 aflevering) het *Informatieblad* van de Stichting de Koepel met zeer
 recente astronomische nieuwtjes en actuele berichten over de
 activiteiten van aangesloten organisaties.
 
-Een abonnement op het Informatieblad kost Ÿ 30.\-- per jaar (1998).
+Een abonnement op het Informatieblad kost Ÿ 30. -- per jaar (1998).
 Zowel Zenit als het Informatieblad zijn voor jeugdigen aan de moeilijke
 kant!\
 De Nederlandse Vereniging voor Weer- en Sterrenkunde is opgericht in
@@ -66,5 +65,7 @@ amateur, die zich bij zonder verdienstelijk heeft gemaakt. Juniorleden
 (van 8 tot 20 jaar) kunnen afzonderlijk lid worden van de *Jongeren
 werkgroep* (JWG) der NVWS. Deze Jongerenwerkgroep heeft tal van
 plaatselijke afdelingen met eigen activiteiten en een eigen
-tweemaandelijks blad, «Universum». Bij [JWG](jwg.html){.two} vind je
+tweemaandelijks blad, «Universum». Bij [JWG](/encyclopedie/jwg) vind je
 meer informatie over deze Jongerenwerkgroep.
+
+---

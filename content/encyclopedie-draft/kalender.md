@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Een kalender is een tijdrekenkundig stelsel dat bij een volk in gebruik
 is. Het is de benaming van een tabel waarop de ver deling van het jaar
 in dagen, weken en maanden is aangegeven.
@@ -234,3 +233,5 @@ hij op door in 1582 de 5e oktober te doen volgen door de 15e oktober. De
 Gregoriaanse kalender werd vrijwel dadelijk overal in het Westen
 gevolgd, doch in Engeland pas in 1752, in Rusland in 1917 en in enkele
 Balkanlanden pas in 1924.
+
+---
