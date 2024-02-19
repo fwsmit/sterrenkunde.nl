@@ -4,19 +4,18 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 *Sterrenstelsels* staan in het heelal vaak in groepen bij elkaar. Zo\'n
 groep van sterrenstelsels noemen we een *cluster*.
 
-Ook ons eigen Melkwegstelsel behoort tot zo\'n cluster. De cluster waar
+Ook ons eigen Melkwegstelsel behoort tot zo'n cluster. De cluster waar
 het Melkwegstelsel toe behoort noemen we de Lokale Groep. Deze Lokale
 Groep bestaat uit enkele tientallen sterrenstelsels. Het grootste
 stelsel van de Lokale Groep is de
-[Andromedanevel](andromedanevel.html){.two}. Dan volgt ons eigen
+[Andromedanevel](/encyclopedie/andromedanevel). Dan volgt ons eigen
 Melkwegstelsel met op de derde plaats M 33 in het sterrenbeeld Driehoek.
 Deze drie stelsels zijn de enige spiraalstelsels in de Lokale Groep die
-in totaal uit zo\'n dertig stelsels bestaat. De meeste daarvan zijn
+in totaal uit zo'n dertig stelsels bestaat. De meeste daarvan zijn
 ellipsvormig.
 
 Hieronder vind je een overzicht van de meeste leden van de Lokale Groep.
@@ -33,18 +32,34 @@ verschil van 10 magnituden zelfs een factor 100 x 100 = 10.000 keer! Zo
 straalt de Andromedanevel (M = -21,a) dus ruim 10.000 keer meer licht
 uit dan het Leo I-stelsel (M = -11).
 
+---
 *Naam of aanduiding type middellijn afstand Mv in kpc in kpc*
-Sagittarius-stelsel dE? 3 24,5 ? Grote Magellaense Wolk Irr I 7 52 -18,7
-Kleine Magellaense Wolk Irr I 3 53 -16,7 Draco-stelsel dE2 1 67 - 8,5
-Ursa Minor-stelsel dE4 2,4 67 - 9 Sculptor-stelsel dE3 2,4 85 -12 Ursa
-Major-stelsel dE 120? Fornax-stelsel dE3 1,6 170 -13,5 Leo I-stelsel dE4
-2 230 -11 Leo II-stelsel dE1 1,3 230 - 9,5 NGC 6822 Irr I 2,1 560 -15,6
-NGC 205 (begeleider M 31) dE5 4,2 640 -16,3 IC 1613 Irr I 3 700 -14,8 M
-32 (begeleider M 31) dE2 2 660 -16,3 NGC 147 (begeleider M 31) dE5 2,4
-660 -14,8 NGC 185 (begeleider M 31) dE3 2,8 660 -15,2 Andromedanevel (M
-31) Sb 50 650 -21,2 NGC 598 (M 33) Sc 14 720 -18,8 Wolf-Lundmarkstelsel
-Irr 5,5 870? -13,7 Sextant A Irr I 4,1 1000? -13 Leo A Irr 3,1 1100?
--18,1 IC 10 Irr I 1,3 1260? -17,3\
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+Sagittarius-stelsel |dE? |3 |24,5 |?
+Grote Magellaense Wolk Irr |I |7 |52 |-18,7
+Kleine Magellaense Wolk Irr |I |3 |53 |-16,7
+Draco-stelsel |dE2 |1 |67 |-8,5
+Ursa Minor-stelsel |dE4 |2,4 |67 |-9
+Sculptor-stelsel |dE3 |2,4 |85 |-12
+Ursa Major-stelsel |dE |1 |20 |?
+Fornax-stelsel |dE3 |1,6 |170 |-13,5
+Leo I-stelsel |dE4 |2 |230 |-11 
+Leo II-stelsel |dE1 |1,3 |230 |-9,5
+NGC 6822 Irr |I |2,1 |560 |-15,6
+NGC 205 (begeleider M 31) |dE5 |4,2 |640 |-16,3
+IC 1613 Irr |I |3 |700 |-14,8 
+M32 (begeleider M 31) |dE2 |2 |660 |-16,3
+NGC 147 (begeleider M 31) |dE5 |2,4 |660 |-14,8
+NGC 185 (begeleider M 31) |dE3 |2,8 |660 |-15,2
+Andromedanevel (M31) |Sb |50 |650 |-21,2
+NGC 598 (M 33) |Sc |14 |720 |-18,8
+Wolf-Lundmarkstelsel Irr |N/A |5,5 |870 |-13,7
+Sextant A Irr |I |4,1 |1000 |-13 
+Leo A Irr |N/A |3,1 |1100  |-18,1 
+IC 10 Irr |I |1,3 |1260 |-17,3
+
+---
 Van enkele stelsels, zoals de laatste drie, is het nog niet zeker of ze
 inderdaad tot de Lokale Groep behoren. Daarnaast zijn enkele
 dwergstelsels niet in de lijst opgenomen die misschien wel tot de Lokale
@@ -66,4 +81,6 @@ stelsel pas zo laat is ontdekt komt doordat het van ons uit gezien
 vrijwel precies in de richting van het melkwegcentrum ligt en daardoor
 aan het zicht wordt onttrokken.
 
-Lees ook het verhaal bij [sterrenstelsels](sterrenstelsel.html){.two}!
+Lees ook het verhaal bij [sterrenstelsels](/encyclopedie/sterrenstelsel)!
+
+---

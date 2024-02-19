@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Het sterrenbeeld Lier kun je in de zomer ongeveer recht boven je hoofd
 aan de hemel vinden tussen de Zwaan en Hercules. Het sterrenbeeld is
 heel klein, en er staat maar één goed zichtbare ster in. Maar die ster
@@ -32,14 +31,14 @@ bedroefd, dat hij nooit meer op zijn lier wilde spelen. Daarom heeft
 Apollo de lier aan de hemel gezet.
 
 Zoals gezegd behoort de heldere ster Wega tot een van de helderste
-sterren aan de hemel. De [schijnbare magnitude](magnitud.html){.two} van
-de ster bedraagt 0,03, de [absolute magnitude](absolute.html){.two} 0,5.
-De ster staat op een afstand van 26 [lichtjaar](lichtjaa.html){.two} en
-heeft [spectraaltype](spectraa.html){.two} A1. Dat wil zeggen dat het
+sterren aan de hemel. De [schijnbare magnitude](/encyclopedie/magnitude) van
+de ster bedraagt 0,03, de [absolute magnitude](/encyclopedie/absolute) 0,5.
+De ster staat op een afstand van 26 [lichtjaar](/encyclopedie/lichtjaar) en
+heeft [spectraaltype](spectraa) A1. Dat wil zeggen dat het
 een witte ster is met een oppervlakte-temperatuur van ruim 10.000°.
 
 In het sterrenbeeld Lier staat ook een hele beroemde plane taire nevel.
-Dat is de [Ringnevel](ringnevel.html){.two}.
+Dat is de [Ringnevel](/encyclopedie/ringnevel).
 
 De Latijnse naam van het sterrenbeeld Lier is *Lyra*. Bij gebruik van de
 tweede naamval (genitief) wordt dit Lyrae.
@@ -48,5 +47,7 @@ Als we het hebben over de ster alfa (a) van het sterren beeld Lier
 zeggen we a Lyrae of we schrijven a Lyr want de officiële afkorting van
 het sterrenbeeld Lier is Lyr.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

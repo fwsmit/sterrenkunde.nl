@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Eén lichtjaar is de afstand die het licht in één jaar aflegt. Je wilt
 zeker ook wel weten hoeveel kilometer een lichtjaar is. Wel, het licht
 heeft een snelheid van 300.000 km/sec. In één seconde legt het licht dus
@@ -21,8 +20,8 @@ miljoen keer heen en terug naar de maan. Of nog haast 1000 keer heen en
 terug naar Pluto! De dichtstbijzijnde ster, [Proxima
 Centauri](proxima.html){.two}, staat op een af stand van 4,3 lichtjaar.
 Het licht heeft dus meer dan vier jaar nodig om van die ster naar de
-aarde te komen! De [Andromedanevel](andromedanevel.html){.two}, een
-naaste buur van ons [melkwegstelsel](melkwegs.html){.two}, staat op 2,2
+aarde te komen! De [Andromedanevel](/encyclopedie/andromedanevel), een
+naaste buur van ons [melkwegstelsel](/encyclopedie/melkwegstelsel), staat op 2,2
 miljoen lichtjaar afstand; het licht dat we van dat stelsel ontvangen,
 vertrok dus 2,2 miljoen jaar geleden.
 
@@ -42,5 +41,7 @@ megaparsec opgegeven. Een kiloparsec wordt vaak afgekort tot *kpc* en
 een megaparsec tot *Mpc*. Zoals eerder vermeld staat de Andromedanevel
 op een afstand van 675.000 parsec. Dat is 675 kpc ofwel 0,675 Mpc.
 
-Bij het trefwoord [parallax](parallax.html){.two} kun je lezen waar het
+Bij het trefwoord [parallax](/encyclopedie/parallax) kun je lezen waar het
 woord parsec vandaan komt.
+
+---

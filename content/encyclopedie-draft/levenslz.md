@@ -4,13 +4,12 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 *Sterevolutie* beschrijft de levensloop van sterren. Sterren schijnen
 het eeuwige leven te hebben. In de loop van een mensenleven lijkt de
 sterrenhemel immers niet te veranderen.
 
-Maar alle sterren die je \'s nachts aan de hemel ziet, zijn ooit een
+Maar alle sterren die je 's nachts aan de hemel ziet, zijn ooit een
 keer geboren. En ze zullen ook allemaal een keer sterven. Sterren leven
 dus toch niet eeuwig! Geboren worden en doodgaan zijn wat vreemde
 woorden om bij sterren te gebruiken. Toch zul je ze nog wel eens
@@ -26,7 +25,7 @@ Natuurlijk beginnen we bij de geboorte van de sterren.
 Sterren worden vaak in groepjes geboren. Dat gaat niet zó maar. Sterren
 zijn grote bollen van gloeiend gas. Dat gas moet ergens vandaan komen.
 Wel, in het heelal is ontzettend veel gas aanwezig. Een mooi voorbeeld
-is de [Orionnevel](orionnevel.html){.two}. Maar er zijn duizenden
+is de [Orionnevel](/encyclopedie/orionnevel). Maar er zijn duizenden
 nevels. Meestal niet zo mooi als de Orion nevel, maar toch bestaan ze
 uit grote hoeveelheden gas. Vaak zit er ook stof tussen het gas. Zo\'n
 gas- en stofwolk is heel ijl. Alle deeltjes zitten ver bij elkaar
@@ -51,7 +50,7 @@ Maar op de duur is de wolk lang niet zo ijl meer. Er zijn verdichtingen
 in ontstaan. En de lichtdruk gaat gewoon door.
 
 In die verdichtingen gaat nu ook de
-[zwaartekracht](zwaartekracht.html){.two} een rol spelen. De deeltjes
+[zwaartekracht](/encyclopedie/zwaartekracht) een rol spelen. De deeltjes
 trekken elkaar aan. De zwaartekracht zorgt er dus voor dat de wolk
 kleiner wordt. Nu zijn er twee oorzaken waardoor de verdichtingen verder
 inkrimpen: de lichtdruk van sterren in de buurt en de zwaartekracht
@@ -104,7 +103,7 @@ wordt een echte ster geboren! Als de wolk alleen nog maar infrarode
 straling geeft, noemen we hem een *proto-ster*. Dat betekent ongeveer
 «ster in wording».
 
-Een tijd lang lijkt er niets te gebeuren. Maar dan\... lang zaam maar
+Een tijd lang lijkt er niets te gebeuren. Maar dan... lang zaam maar
 zeker begint de proto-ster licht uit te stralen.
 
 Eerst nog maar heel weinig. Maar iedere dag wordt het meer.
@@ -157,11 +156,11 @@ het sterren Orion. Aldebaran is de helderste ster van het sterrenbeeld
 Stier. De heldere ster Rigel in Orion is duidelijk blauw.
 
 De helderste ster van het sterrenbeeld Voerman, Capella, is een gele
-ster. Al deze sterren kun je in de winter \'s avonds hoog in het zuiden
+ster. Al deze sterren kun je in de winter 's avonds hoog in het zuiden
 vinden.
 
 In plaats van de kleur of de temperatuur gebruiken de sterrenkundigen
-vaak het [spectraaltype](spectraa.html){.two} van de sterren.
+vaak het [spectraaltype](/encyclopedie/spectraa) van de sterren.
 
 De spectraalklassen worden aangegeven met verschillende letters. De
 volgorde is O, B, A, F, G, K en M. Sterren van spectraalklasse O zijn
@@ -182,11 +181,13 @@ Je hoeft alleen maar het volgende zinnetje uit je hoofd te leren: *O*nze
 *B*uurman *A*antjes *F*otografeert *G*raag *K*leine *M*eisjes. Je ziet,
 dat valt nogal mee!
 
+---
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+blauw  |blauw-wit   |wit     |geel-wit   |geel    |oranje   |rood 
+O      |B           |A       |F          |G       |K        |M
 
-    ---------------------------------------------------------
-    blauw  blauw-wit   wit   geel-wit   geel   oranje    rood 
-    ---------------------------------------------------------
-      O        B        A       F        G       K        M
+---
 
 \
 ONTBREKENDE TEKST\
@@ -223,18 +224,6 @@ ze bovenin het diagram, dan zijn ze erg helder. De sterren onderin
 hebben juist een lage lichtkracht. Links staan de hete blauwe sterren.
 Dus van spectraaltype 0. Rechts vind je de koele, rode M-sterren.
 
-ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ» º
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿ ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿ º º ³
-helder ³ ³heet koel³ ³heet, koel,³ º º ³ ³ ³ ³ ³helder helder³ º º ³ ³ ³
-³ ³ ³ º º ³ ³ ³ ³ ³ ³ º º ³ ³ ³ ³ ³heet, koel,³ º º ³ zwak ³ ³bl. wit
-gl. or. rd³ ³zwak zwak³ º º ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ º º Heldere sterren staan bovenin;³ Hete, blauwe
-sterren staan º º zwakke sterren onderin. ³ links; koele, rode sterren º
-º ³ rechts. º º º
-ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼ Omdat
-dit diagram de kleur en de helderheid van de sterren aangeeft, wordt het
-ook wel het kleur-helderheids-diagram (KHD) genoemd.
-
 Hertzsprung en Russell zetten zo veel mogelijk sterren in hun diagram.
 Toen ze er mee klaar waren, zagen ze iets heel opvallends. Verreweg de
 meeste sterren liggen op een lange rij. Die loopt van linksboven naar
@@ -258,8 +247,8 @@ Ze worden *witte dwergen* genoemd. Je hebt nu al veel geleerd over het
 HR-diagram. We herhalen het nog eens in het kort.
 
   -----------------------------------------------------------------------
-  ![Het Hertzsprung-Russell Diagram](plaatjes/HRdiagram.gif){vspace="0"
-  hspace="0"}\
+  ![Het Hertzsprung-Russell Diagram](/HRdiagram-modified(1).png)
+  
   **Het Hertzsprung-Russell-diagram met de hoofdreeks. Linksonder vind je
   de witte dwergen en rechtsboven de rode reuzen.**
 
@@ -510,4 +499,6 @@ heliumkern wordt waterstof omgezet in helium.
 
 Deze waterstofverbranding noemen we nu *schilverbranding*. De
 schilverbranding ontstaat doordat de hete kern van helium hoofdreeks
-af!\
+af!
+
+---
