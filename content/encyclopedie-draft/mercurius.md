@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![De planeet Mercurius](plaatjes/mercurius.gif){vspace="0" hspace="0"}\
+  ![De planeet Mercurius](/mercurius-modified.png)
+  
   **De planeet Mercurius**
 
   -----------------------------------------------------------------------
@@ -37,8 +36,8 @@ al miljarden jaren onveranderd. We denken dat Mercurius, evenals de rest
 van het zonnestelsel, ruim 4 miljard jaar oud is.
 
   -----------------------------------------------------------------------
-  ![Een doorsnede van
-  Mercurius](plaatjes/mercurius_doorsnede.jpg){vspace="0" hspace="0"}\
+  ![Een doorsnede van Mercurius](/mercurius_doorsnede-modified.png)
+  
   **Een doorsnede van Mercurius**
 
   -----------------------------------------------------------------------
@@ -80,7 +79,7 @@ planeten draait Mercurius ook om zijn as. Maar daar doet de planeet wel
 erg lang over. Maar liefst 59 dagen! En dat, terwijl de planeet slechts
 88 dagen nodig heeft om éénmaal om de zon te draaien. Dit betekent dat
 een «dag» op Mercurius 176 aardse dagen duurt. Dat is tweemaal zo lang
-als een Mercuriusjaar\.....
+als een Mercuriusjaar....
 
 De Italiaanse sterrenkundige *Giovanni Schiaparelli* was de eerste die
 een kaart van Mercurius samenstelde. Hij deed dat aan het eind van de
@@ -96,11 +95,13 @@ de hemel. Hier onder een overzichtje van de Mercuriusovergangen tussen
 de jaren 1990 en 2090:
 
   ------------- ------------- -------------
-  6 nov 1993    11 nov 2019   10 mei 2062
-  15 nov 1999   13 nov 2032   11 nov 2065
-  7 mei 2003    7 nov 2039    14 nov 2078
-  8 nov 2006    7 mei 2049    7 nov 2085
-  9 mei 2016    9 nov 2052    8 mei 2095
+  |   |   |   |
+  |---|---|---|
+  6 nov 1993    |11 nov 2019   |10 mei 2062
+  15 nov 1999   |13 nov 2032   |11 nov 2065
+  7 mei 2003    |7 nov 2039    |14 nov 2078
+  8 nov 2006    |7 mei 2049    |7 nov 2085
+  9 mei 2016    |9 nov 2052    |8 mei 2095
   ------------- ------------- -------------
 
 Hieronder vind je tenslotte nog een aantal numerieke gegevens over
@@ -123,7 +124,7 @@ albedo 5,6%\
 absolute magnitude: -0,36\
 \
 De *siderische omlooptijd* is de tijd waarin de planeet de gehele
-[dierenriem](dierenri.html){.two} doorloopt en op dezelfde plaats
+[dierenriem](/encyclopedie/dierenriem) doorloopt en op dezelfde plaats
 terugkomt ten opzichte van dezelfde ster, gezien vanaf de zon.
 
 De *synodische periode* is de tijdsduur die een planeet nodig heeft om,
@@ -134,5 +135,7 @@ De *siderische rotatieduur* van de planeet is de tijd waarin de planeet
 éénmaal om haar as draait ten opzichte van de sterren.
 
 De *absolute magnitude* van een planeet is de helderheid van de planeet
-als zij op één [astronomische eenheid](astronom.html){.two} (AE) van de
+als zij op één [astronomische eenheid](/encyclopedie/ae) (AE) van de
 zon Šn tegelijk op 1 astronomische eenheid van de waarnemer staat.
+
+---

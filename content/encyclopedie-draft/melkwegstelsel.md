@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![Melkwegstelsel](plaatjes/melkwegstelsel.jpg){vspace="0" hspace="0"}\
+  ![Melkwegstelsel](/melkwegstelsel-modified.png)
+  
   **Melkwegstelsel**
 
   -----------------------------------------------------------------------
@@ -20,7 +19,7 @@ Je moet je ons Melkwegstelsel voorstellen als een platte schijf. De
 verhouding tussen dikte en diameter komt globaal overeen met die van een
 langspeelplaat. Wel is gebleken dat de dikte van de schijf van het
 Melkwegstelsel langzaam naar het centrum toeneemt. De schijf heeft een
-middellijn van ongeveer 100.000 [lichtjaar](lichtjaar.html){.two}. Dit
+middellijn van ongeveer 100.000 [lichtjaar](/encyclopedie/lichtjaar). Dit
 betekent dat een lichtstraal 100.000 jaar nodig heeft om van de ene kant
 van ons Melkwegstelsel naar de andere kant te komen. De dikte van de
 schijf bedraagt bij de buitenste delen minder dan 500 lichtjaar. Naar
@@ -50,8 +49,8 @@ behoren.
 
 Je denkt nu misschien dat ons Melkwegstelsel wemelt van de sterren. Het
 is daarom goed te beseffen dat het Melkweg stelsel eigenlijk zo goed als
-leeg is! De ster die het dichtst bij de zon staat is [Proxima
-Centauri](proxima.html){.two}. Toch bedraagt deze afstand al meer dan 4
+leeg is! De ster die het dichtst bij de zon staat is [Proxima Centauri](/encyclopedie/proxima).\ 
+Toch bedraagt deze afstand al meer dan 4
 lichtjaar. Die afstand is gelijk aan ongeveer 30 miljoen
 zonsmiddellijnen. Als we ons de zon voorstellen als een bal met een
 doorsnede van dertig centi meter, dan staat Proxima Centauri al op een
@@ -142,7 +141,7 @@ Soms met snelheden van meer dan honderd kilometer per seconde. Niet
 alleen binnen het melkwegvlak worden objecten aangetroffen die zich met
 grote snelheid van de kern verwijderen. Ook buiten het melkwegvlak
 vinden we een aantal van dergelijke objecten. Al deze wolken tezamen
-bevatten wel een miljoen zonsmassa\'s aan materie.
+bevatten wel een miljoen zonsmassa's aan materie.
 
 Dankzij radiowaarnemingen werd nog een andere vreemde ontdekking gedaan.
 Binnen een straal van 700 parsec (= 2300 lichtjaar) rondom de kern,
@@ -152,9 +151,9 @@ verstoord te worden door de naar buiten gerichte bewegingen. Uit de
 waargenomen rotatiesnelheden konden de sterrenkundigen de verdeling van
 de massa in het centrale deel van het sterren stelsel berekenen. Binnen
 een afstand van duizend parsec van het galactische centrum moet ongeveer
-150 miljoen zonsmassa\'s aan materie aanwezig zijn. Binnen een afstand
+150 miljoen zonsmassa's aan materie aanwezig zijn. Binnen een afstand
 van 100 parsec vanaf het galactisch middelpunt is dit acht miljoen
-zonsmassa\'s.
+zonsmassa's.
 
 Verreweg de meeste massa van het Melkwegstelsel bevindt zich in de
 platte schijf. De sterren van de melkweg die we kunnen zien, bevinden
@@ -167,8 +166,8 @@ meeste binnen een afstand van ongeveer driehonderd lichtjaar.
 Het centrale gebied van het Melkwegstelsel bevat voornamelijk oude
 sterren. De spiraalarmen bevatten jonge en oude sterren (waaronder de
 zon), open sterrenhopen en nevels. Uit deze nevels kunnen nieuwe sterren
-ontstaan. Het aantal [open sterrenhopen](openster.html){.two} in ons
-Melkwegstelsel wordt geschat op zo\'n 18.000.
+ontstaan. Het aantal [open sterrenhopen](/encyclopedie/sterrenhopen) in ons
+Melkwegstelsel wordt geschat op zo'n 18.000.
 
 Gemiddeld bevatten ze ongeveer honderd sterren. De meeste open
 sterrenhopen kunnen we echter niet zien. Dat komt door de interstellaire
@@ -179,7 +178,7 @@ grote bolvormige ruimte rondom het centrum van het Melkwegstelsel. Deze
 bolvormige ruimte noemen we de *halo* van het Melkwegstelsel. Deze halo
 heeft een middellijn van zo\'n 120.000 lichtjaar. Sterren die zich in
 deze bolvormige ruimte bevinden staan in grote groepen bijeen. Het zijn
-de [bolvormige sterrenhopen](bolvormi.html){.two}. Deze bolvormige
+de [bolvormige sterrenhopen](/encyclopedie/bolvormig). Deze bolvormige
 sterrenhopen behoren tot de oudste objecten in ons Melkwegstelsel. Het
 aantal bolvormige sterrenhopen bedraagt ongeveer vijfhonderd. Gemiddeld
 hebben ze een massa die overeen komt met een miljoen zonsmassa\'s.
@@ -216,9 +215,9 @@ Ons Melkwegstelsel met zijn sterren, nevels en sterren hopen, is niet
 het enige sterrenstelsel in het heelal. Er zijn vele miljoenen van zulke
 sterrenstelsels ontdekt. In het hele heelal zijn er vele miljarden
 sterrenstelsels. Omdat ze buiten ons eigen Melkwegstelsel staan noemen
-we ze *extra¿ : ' galactische stelsels*. Veel van deze extra-galactische
+we: galactische stelsels*. Veel van deze extra-galactische
 stelsels zien er ongeveer net zo uit als ons eigen stelsel. Een mooi
-voorbeeld is de [Andromedanevel](andromedanevel.html){.two}. Dit
+voorbeeld is de [Andromedanevel](/encyclopedie/andromedanevel). Dit
 sterrenstelsel in het sterrenbeeld Andromeda is op heldere avonden in
 het najaar als een wazig vlekje met het blote oog te zien. De Andromeda
 nevel is ook een groot schijfvormig sterrenstelsels met mooie
@@ -235,4 +234,6 @@ dan ons Melkwegstelsel.
 
 De Lokale Groep maakt weer deel uit van een grote groep sterrenstelsels.
 Kijk voor meer informatie hierover bij het trefwoord
-[supercluster](superclu.html){.two}.
+[supercluster](/encyclopedie/supercluster).
+
+---

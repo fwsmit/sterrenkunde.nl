@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Alle sterren die wij aan de hemel kunnen zien, maken deel uit van een
-groot [sterrenstelsel](sterrenstelsel.html){.two}. Omdat wij er zelf
+groot [sterrenstelsel](/encyclopedie/sterrenstelsel). Omdat wij er zelf
 midden in zitten, is het erg moeilijk om dat stelsel goed te zien.
 
 Het stelsel is een hele grote, platte schijf van sterren.
@@ -39,10 +38,12 @@ lichtende band gezien te worden. Deze lichtende band werd al lang
 geleden de melkweg genoemd. Niemand wist toen nog wat de melkweg
 eigenlijk was. Sinds we weten dat het eigenlijk een groot sterrenstelsel
 is waar we naar kijken noemen we dat stelsel het
-[Melkwegstelsel](melkwegs.html){.two}.
+[Melkwegstelsel](/encyclopedie/melkwegstelsel).
 
 De melkweg is het beste te zien in het najaar. Hij is het helderst in de
 richting van het sterrenbeeld Schutter. In die richting ligt dan ook het
 centrum van ons Melkweg stelsel. Dit centrum is vanuit Nederland nooit
 goed te zien. Dat komt doordat het sterrenbeeld Schutter bij ons nooit
 hoog boven de horizon staat.
+
+---

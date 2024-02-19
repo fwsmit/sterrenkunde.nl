@@ -4,13 +4,12 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![Maansverduistering](plaatjes/maansverduistering.jpg){vspace="0"
-  hspace="0"}\
-  **Maansverduistering\
-  Foto: Jelmer Siekmans**
+  ![Maansverduistering](/maansverduistering-modified.png)
+  
+  **Maansverduistering**
+  
+  **Foto: Jelmer Siekmans**
 
   -----------------------------------------------------------------------
 
@@ -28,10 +27,9 @@ zon in het westen ondergaat, komt de Volle Maan in het oosten
 tevoorschijn.
 
   ------------------------------------------------------------------------
-  ![Ontstaan van een
-  maansverduistering](plaatjes/maansverduistering_schema.gif){vspace="0"
-  hspace="0"}\
-  **Ontstaan van een maansverduistering**
+  ![Ontstaan van een maansverduistering](/maansverduistering_schema-modified.png)
+  
+  **een maansverduistering schema**
 
   ------------------------------------------------------------------------
 
@@ -44,3 +42,5 @@ Vooral het rode en oranje licht worden afgeboden, zodat de kleur van de
 maan tijdens de totaliteit meestal roodachtig van kleur is. De
 helderheid en de kleur van de totaal verduisterde maan hangen af van de
 hoeveelheid stof in onze dampkring.
+
+---

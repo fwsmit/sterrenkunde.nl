@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![De planeet Mars](plaatjes/mars.jpg){vspace="0" hspace="0"}\
+  ![De planeet Mars](/mars-modified.png)
+  
   **De planeet Mars**
 
   -----------------------------------------------------------------------
@@ -81,25 +80,27 @@ in miljoenen kilometers en tenslotte de schijnbare middellijn van de
 planeet in boogseconden.
 
   ---------------- ---------------------------------------------------- ---------------------------------------------- ---------------------------------------
-  oppositiedatum   datum kortste afstand tot de aarde in miljoenen km   kortste afstand tot de aarde in miljoenen km   schijnbare middellijn in boogseconden
-  24 apr 1999      1 mei 1999                                           86,54                                          16,18
-  13 jun 2001      21 jun 2001                                          67,34                                          20,79
-  28 aug 2003      27 aug 2003                                          55,76                                          25,11
-  7 nov 2005       30 okt 2005                                          69,42                                          20,17
-  24 dec 2007      18 dec 2007                                          88,17                                          15,88
-  29 jan 2010      27 jan 2010                                          99,33                                          14,10
-  3 mrt 2012       5 mrt 2012                                           100,78                                         13,89
-  8 apr 2014       14 apr 2014                                          92,39                                          15,16
-  22 mei 2016      30 mei 2016                                          75,28                                          18,60
-  27 jul 2018      31 jul 2018                                          57,59                                          24,31
-  13 okt 2020      6 okt 2020                                           62,07                                          22,56
-  8 dec 2022       1 dec 2022                                           81,45                                          17,19
-  16 jan 2025      12 jan 2025                                          96,08                                          14,57
-  19 feb 2027      20 feb 2027                                          101,42                                         13,81
-  25 mrt 2029      29 mrt 2029                                          96,82                                          14,46
-  4 mei 2031       12 mei 2031                                          82,78                                          16,91
-  28 jun 2033      5 jul 2033                                           63,28                                          22,13
-  15 sep 2035      11 sep 2035                                          56,91                                          24,61
+  |   |   |   |   |   |
+  |---|---|---|---|---|
+  oppositiedatum   |datum van oppositie                                               |kortste afstand tot de aarde in miljoenen km   |schijnbare magnitude
+  24 apr 1999      |1 mei 1999                                           |86,54                                          |16,18
+  13 jun 2001      |21 jun 2001                                          |67,34                                          |20,79
+  28 aug 2003      |27 aug 2003                                          |55,76                                          |25,11
+  7 nov 2005       |30 okt 2005                                          |69,42                                          |20,17
+  24 dec 2007      |18 dec 2007                                          |88,17                                          |15,88
+  29 jan 2010      |27 jan 2010                                          |99,33                                          |14,10
+  3 mrt 2012       |5 mrt 2012                                           |100,78                                         |13,89
+  8 apr 2014       |14 apr 2014                                          |92,39                                          |15,16
+  22 mei 2016      |30 mei 2016                                          |75,28                                          |18,60
+  27 jul 2018      |31 jul 2018                                          |57,59                                          |24,31
+  13 okt 2020      |6 okt 2020                                           |62,07                                          |22,56
+  8 dec 2022       |1 dec 2022                                           |81,45                                          |17,19
+  16 jan 2025      |12 jan 2025                                          |96,08                                          |14,57
+  19 feb 2027      |20 feb 2027                                          |101,42                                         |13,81
+  25 mrt 2029      |29 mrt 2029                                          |96,82                                          |14,46
+  4 mei 2031       |12 mei 2031                                          |82,78                                          |16,91
+  28 jun 2033      |5 jul 2033                                           |63,28                                          |22,13
+  15 sep 2035      |11 sep 2035                                          |56,91                                          |24,61
   ---------------- ---------------------------------------------------- ---------------------------------------------- ---------------------------------------
 
 Vóór 1965 dachten veel sterrenkundigen dat Mars een zacht glooiend
@@ -274,12 +275,6 @@ meter boven de zeebodem en aan de voet «maar» 200 kilometer in doorsnee.
 Lange tijd heeft men gedacht dat de Olympus Mons de grootste vulkaan op
 Mars was. Dat is echter niet zo.
 
-  -----------------------------------------------------------------------
-  ![Een doorsnede van de planeet
-  Mars](plaatjes/mars_doorsnede.jpg){vspace="0" hspace="0"}\
-  **Een doorsnede van de planeet Mars**
-
-  -----------------------------------------------------------------------
 
 De vulkaan Ascraeus Mons is nog 860 meter hoger en reikt tot maar liefst
 23.944 meter! Waarom zijn de Olympus Mons en een aantal andere vulkanen
@@ -324,12 +319,12 @@ kilometer. Doordat Phobos zo dicht bij Mars staat, draait het maantje in
 korte tijd om de rode planeet. Eén omloop om Mars duurt slechts 7 uur en
 39 minuten.
 
-Op foto\'s die door de Viking Orbiter 1 zijn genomen is te zien dat het
+Op foto's die door de Viking Orbiter 1 zijn genomen is te zien dat het
 maantje bezaaid is met kraters. De grootste krater heet *Stickey*. De
 doorsnede van deze krater bedraagt ongeveer acht kilometer. Dat lijkt
 misschien niet groot, maar vergelijk het maar eens met de afmetingen van
 het maantje! De kraters op de Marsmaantjes zijn allemaal ontstaan door
-de inslag van [meteorieten](meteoren.html){.two}. Ook komen op het
+de inslag van [meteorieten](/encyclopedie/meteoren). Ook komen op het
 Phobos-oppervlak breuken voor. Sommige zijn 200 meter breed en ongeveer
 tien meter diep. Waarschijnlijk zijn deze breuken in de korst ontstaan
 door de geweldige inslag van de meteoriet die ook de krater Stickey
@@ -384,12 +379,12 @@ duurt het 2« dag voordat hij in het westen achter de horizon verdwijnt.
 
 Maansverduisteringen komen op Mars erg vaak voor. Het ge beurt zelfs
 regelmatig dat Phobos in één etmaal twee keer wordt verduisterd. Eénmaal
-\'s avonds en daarna \'s ochtends vroeg nog een keer.
+'s avonds en daarna 's ochtends vroeg nog een keer.
 
 Doordat de maantjes zo klein zijn hebben ze ook weinig
 aantrekkingskracht. Iemand die op aarde 60 kilogram weegt zou op Phobos
-niet meer wegen dan\.... 30 gram! Men heeft wel gedacht dat de beide
-Marsmaantjes vroeger [planeto‹den](planetoiden.html){.two} zijn geweest.
+niet meer wegen dan.... 30 gram! Men heeft wel gedacht dat de beide
+Marsmaantjes vroeger [planeto‹den](/encyclopedie/planetoiden) zijn geweest.
 Door de aantrekkingskracht van de planeet zouden ze door de planeet
 «gevangen» zijn. De onregelmatige vorm van de maantjes lijkt ook wel wat
 op die van een planetoïde. Maar vreemd is dan wel de bijna cirkelvormige
@@ -419,11 +414,11 @@ gemiddelde dichtheid: 3,934 gr per kubieke cm\
 zwaartekracht aan het oppervlak: 0,37889 (aarde = 1)\
 gemiddelde temperatuur: 210K (-63°C)\
 albedo: 16%\
-absolute magnitude: -1,52\
-\
+absolute magnitude: -1,52
+
 
 De *siderische omlooptijd* is de tijd waarin de planeet de gehele
-[dierenriem](dierenri.html){.two} doorloopt en op dezelfde plaats
+[dierenriem](/encyclopedie/dierenriem) doorloopt en op dezelfde plaats
 terugkomt ten opzichte van dezelfde ster, gezien vanaf de zon.
 
 De *synodische periode* is de tijdsduur die een planeet nodig heeft om,
@@ -434,5 +429,7 @@ De *siderische rotatieduur* van een planeet is de tijd waarin de planeet
 éénmaal om zijn as draait ten opzichte van de sterren.
 
 De *absolute magnitude* van een planeet is de helderheid van de planeet
-als zij op één [astronomische eenheid](astronom.html){.two} (AE) van de
+als zij op één [astronomische eenheid](/encyclopedie/ae) (AE) van de
 zon én tegelijk op één astronomische eenheid van de waar nemer staat.
+
+---

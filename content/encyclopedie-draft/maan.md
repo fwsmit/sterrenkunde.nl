@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![Onze maan](plaatjes/maan.jpg){vspace="0" hspace="0"}\
+  ![Onze maan](/maan-modified.png)
+  
   **Onze maan**
 
   -----------------------------------------------------------------------
@@ -46,7 +45,7 @@ aarde het grootst is bedraagt deze 406.697 kilometer.
 
 De ene keer zien we de maan helemaal. Soms is slechts een sikkel te
 zien. Dan weer is de maan half zichtbaar. Hoe dat komt kun je bij
-[schijngestalten](schijngestalten.html){.two} lezen.
+[schijngestalten](/encyclopedie/schijngestalten) lezen.
 
 Onze maan is het enige hemellichaam waarop we zonder veel moeite met het
 blote oog details kunnen zien. Bij Volle Maan lijkt de maan wel wat op
@@ -66,7 +65,7 @@ zeeën tegen. Daarom zie je hieronder een lijst met zowel de Nederlandse
 als de Latijnse namen van de belangrijkste vlakten op de maan.
 
 Behalve vlakten komen er op de maan ook gebergten voor. Zo wordt de neus
-van het gezicht van de maan gevormd door zo\'n gebergte. Het zijn de
+van het gezicht van de maan gevormd door zo'n gebergte. Het zijn de
 Apenijnen. Veel gebergten op de maan zijn genoemd naar gebergten in
 Europa. De Apenijnen op de maan zijn maar liefst duizend kilometer lang.
 Sommige toppen hebben een hoogte van 6500 meter. De Maanalpen komen
@@ -79,7 +78,7 @@ zelfs een hoogte bereiken van 11 kilometer.
 
 Als je een foto van de maan bekijkt zie je dat de maan bezaaid is met
 vele *kraters*. Alleen al op de naar ons gekeerde zijde van de maan
-bevinden zich naar schatting zo\'n 300.000 kraters met een doorsnede van
+bevinden zich naar schatting zo'n 300.000 kraters met een doorsnede van
 meer dan één kilometer.
 
 Het aantal kleinere kraters is nog veel groter. De grootste kraters
@@ -153,7 +152,7 @@ worden echter gemeten vanaf de zeespiegel.
 
 De top van de Mount Everest ligt dus bijna 9 kilometer boven de
 zeespiegel. Het diepste punt in zee ligt ruim elf kilo meter onder de
-zeespiegel. Het hoogteverschil op aarde is dus zo\'n twintig kilometer.
+zeespiegel. Het hoogteverschil op aarde is dus zo'n twintig kilometer.
 Dat is ongeveer het dubbele van het hoogteverschil op de maan. Maar de
 aarde is dan ook veel groter dan de maan.\
 Tenslotte nog een aantal interessante gegevens over de maan:
@@ -176,4 +175,6 @@ omloopstijd: 27,32 dagen\
 albedo: 0,07 (dat betekent dat de maan slechts 7% van het zonlicht
 weerkaatst.\
 schijnbare helderheid van de Volle Maan: -12,7 magnitude\
-temperatuur: overdag 120°Celsius; \'s nachts -150°C\
+temperatuur: overdag 120°Celsius; \'s nachts -150°C
+
+---

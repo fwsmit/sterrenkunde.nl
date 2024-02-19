@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Misschien heb je wel eens een meteoor gezien. Je ziet dan een lichtflits
 aan de hemel. Het is net alsof er een ster valt. Daarom worden meteoren
 wel eens *vallende sterren* ge noemd. Maar dat is eigenlijk helemaal
@@ -29,7 +28,7 @@ Deze snelheid ligt tussen de 15 en 60 kilometer per seconde. Ofwel
 tussen de 54.000 en meer dan 200.000 kilo meter per uur. De energie van
 het deeltje noemen we daarom heel toepasselijk *bewegingsenergie*. Door
 deze bewegings energie worden er elektronen van de
-[atomen](atomen.html){.two} in de dampkring weggeslagen. We noemen dat
+[atomen](/encyclopedie/atomen) in de dampkring weggeslagen. We noemen dat
 *ioniseren*. Alle stoffen en gassen die we kennen bestaan uit atomen.
 Alles is uit atomen opge bouwd. Een atoom heeft een kern. Om die kern
 draaien elektronen. Bij atomen kun je hier meer over lezen.
@@ -108,22 +107,25 @@ minder. Dat komt omdat het radiant bijna nooit in het zenit staat. Maar
 zelfs al staat het radiant wel in het zenit, dan nog zie je maar 30% van
 de meteoren die verschijnen. Je kunt namelijk maar een beperkt gebied
 van de hemel tegelijk zien. Bovendien ontgaan je de meteoren van
-[magnitude](magnitud.html){.two} vier of vijf omdat ze zo kort zichtbaar
+[magnitude](/encyclopedie/magnitude) vier of vijf omdat ze zo kort zichtbaar
 zijn. In de laatste kolom van de lijst meteorenzwermen zie je de naam
 van de komeet waar het gruis van afkomstig is.
 
-    naam             radiant in   maximum  aantal  komeet
-    Boötiden         Boötes        3 jan    300    ? 
-    Lyriden          Lier         21 apr     40    1861 I 
-    Eta-Aquariden    Waterman      5 mei     80    Halley 
-    juni-Draconiden  Draak        28 jun     10    Pons-Winnecke 
-    Perseïden        Perseus      12 aug    250    1862 III 
-    okt.-Draconiden  Draak         9 okt    0-20   Giacobini-Zinner 
-    Orioniden        Orion        22 okt     50    Halley 
-    Tauriden         Stier        13 nov     25    Encke 
-    Leoniden         Leeuw        16 nov     10    1866 I 
-    Geminiden        Tweelingen   13 dec     60    ? 
-    Ursiden          Kleine Beer  22 dec     20    Tuttle (?) 
+---
+|   |   |   |   |   |
+|---|---|---|---|---|
+naam             |radiant in   |maximum  |aantal  |komeet
+Boötiden         |Boötes       |3 jan    |300     |? 
+Lyriden          |Lier         |21 apr   |  40    |1861 I 
+Eta-Aquariden    |Waterman     | 5 mei   |  80    |Halley 
+juni-Draconiden  |Draak        |28 jun   |  10    |Pons-Winnecke 
+Perseïden        |Perseus      |12 aug   | 250    |1862 III 
+okt.-Draconiden  |Draak        | 9 okt   | 0-20   |Giacobini-Zinner 
+Orioniden        |Orion        |22 okt   |  50    |Halley 
+Tauriden         |Stier        |13 nov   |  25    |Encke 
+Leoniden         |Leeuw        |16 nov   |  10    |1866 I 
+Geminiden        |Tweelingen   |13 dec   |  60    |? 
+Ursiden          |Kleine Beer  |22 dec   |  20    |Tuttle (?) 
 
 In het verleden zijn er een paar fantastische meteorenregens
 waargenomen. Een mooi voorbeeld is de meteorenregen op 12 november 1833.
@@ -187,7 +189,7 @@ meteoren* genoemd. Sporadische meteoren zijn waarschijnlijk niet
 afkomstig van kometen.
 
 We denken dat ze voor een deel zijn ontstaan bij botsingen tussen
-[planeto‹den](planetoiden.html){.two}. Dat zijn grote en kleine brokken
+[planeto‹den](/encyclopedie/planetoiden). Dat zijn grote en kleine brokken
 steen (tot duizend kilometer groot), die in banen om de zon bewegen. Ze
 komen voornamelijk tussen Mars en Jupiter voor.
 
@@ -309,3 +311,5 @@ Bij elkaar vormen deze stoffen slechts 3% van de massa van de meteoriet.
 In ijzermeteorieten komen we ook nog wat kobalt, fosfor en koolstof
 tegen: ongeveer 1%. Zwavel en koper komen in ijzermeteorieten in nóg
 kleinere hoeveelheden voor.
+
+---
