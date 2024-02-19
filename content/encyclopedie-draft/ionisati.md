@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Zo noemen we het proces waarbij atomen een elektron kwijt raken. Laten
 we als voorbeeld eens een zuurstofatoom nader bekijken. Helemaal binnen
 in het atoom zitten acht protonen en acht neutronen samengepakt. Die
@@ -30,4 +29,6 @@ noemen we een *ion* en we zeggen dat het atoom geïoniseerd is. Heeft het
 atoom twee elektronen verloren dan zeggen we dat het atoom tweemaal
 geïoniseerd is.
 
-Lees ook de informatie bij het trefwoord [atoom](atomen.html){.two}.
+Lees ook de informatie bij het trefwoord [atoom](/encyclopedie/atomen).
+
+---

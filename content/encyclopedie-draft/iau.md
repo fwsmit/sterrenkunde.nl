@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De Internationale Astronomische Unie ( *IAU*) is in 1919 in Brussel
 opgericht tijdens de eerste vergadering van de Inter national Research
 Council. De belangrijkste figuur bij de vorming van de IAU was de
@@ -42,7 +41,7 @@ bezoekend sterrenkundige nu zowel de Algemene Vergadering als een
 IAU-symposium kan bij wonen.
 
 Het belang van persoonlijke contacten tussen astronomen moet niet worden
-onderschat. Zo\'n bijeenkomst is dé gelegen heid om ervaringen en
+onderschat. Zo'n bijeenkomst is dé gelegen heid om ervaringen en
 resultaten uit te wisselen. Het grootste gedeelte van de vergaderingen
 en symposia staat in het teken van wetenschappelijke besprekingen. Maar
 er moeten ook min of meer zakelijke beslissingen worden genomen. Zo
@@ -65,3 +64,5 @@ uit om tijdens het congres de nieuwste resultaten te horen. En de mensen
 die nieuws te melden hebben kunnen rekenen op een publiek van misschien
 wel duizend mensen. Dat is nog eens iets anders dan de vage blikken van
 een handjevol journalisten.
+
+---

@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Icarus neemt een bijzondere plaats onder de
-[planetoïden](planetoiden.html){.two} in omdat het de enige is waarvan
+[planetoïden](/encyclopedie/planetoiden) in omdat het de enige is waarvan
 de baan tot binnen die van Mercurius voert. Zijn kortste afstand tot de
 zon ( *perihelium*) bedraagt slechts 27 miljoen kilometer. Tweehonderd
 dagen later wordt de grootste afstand tot de zon ( *aphelium*) bereikt.
@@ -21,3 +20,5 @@ heeft het oppervlak nauwelijks tijd gehad om af te koelen voor het op
 nieuw de volle zonnehitte opvangt. Wanneer de planetoïde zijn grootste
 afstand tot de zon bereikt is het oppervlak overgeleverd aan ijzige
 koude.
+
+---
