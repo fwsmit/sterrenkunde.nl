@@ -4,11 +4,10 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Dagnummering die onafhankelijk is van maanden en jaren. Vol gens
 afspraak begint de Juliaanse Dag om 12 uur
-[wereldtijd](tijdreke.html){.two}, dus \'s middags. Een van de voordelen
+[wereldtijd](/encyclopedie/tijdreke), dus 's middags. Een van de voordelen
 is dat men zich minder makkelijk kan vergissen in de datum. Als je \'s
 nachts van 23.00 uur tot 01.00 gaat waarnemen moet je er rekening mee
 houden dat om 00.00 uur ook de datum verandert.
@@ -26,3 +25,5 @@ voorstel van de Franse geleerde *Joseph Justus Scalinger* (1540-1609)
 ingevoerd en door hem genoemd naar zijn vader die als voornaam Julius
 had. Volgens afspraak begint de Juliaanse dagrekening op 1 januari 4713
 v. Chr. om 12.00 wereldtijd.
+
+---

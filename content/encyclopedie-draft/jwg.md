@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De *Jongerenwerkgroep* (JWG) van de Nederlandse Vereniging voor Weer- en
 Sterrenkunde (NVWS) bestaat al sinds 1968.
 
@@ -27,14 +26,14 @@ excursie naar bijvoorbeeld de volkssterrenwacht in Hoeven, het Eise
 Eisinga-planetarium in Franeker of het Artis-Planetarium in Amsterdam?
 Wie lid is van de JWG krijgt genoeg te lezen. Zes maal per jaar krijg je
 namelijk het tijdschrijft *UniVersum*. Dit is een blad dat voor en door
-JWG\'ers gemaakt wordt. Het staat boordevol met sterrenkunde,
+JWG'ers gemaakt wordt. Het staat boordevol met sterrenkunde,
 verenigingsnieuws en interessante hemelverschijnselen. Voor wie daar nog
 niet genoeg aan heeft zijn er ook nog *brochures*. Dit zijn uitgaven van
 de JWG over allerlei sterrenkundige onder werpen. Verder verkoopt de JWG
 T-shirts, stickers, foto\'s, posters, steratlassen, onderdelen voor
 sterren kijkers en nog veel meer.
 
-Iedere JWG\'er heeft natuurlijk een grote hartewens: een echte
+Iedere JWG'er heeft natuurlijk een grote hartewens: een echte
 sterrenkijker, waarmee je de kraters op de maan kunt zien.
 
 Of de ringen van Saturnus, de manen en wolkenbanden op Jupiter, of
@@ -43,3 +42,5 @@ sterrenhopen? Leden van de JWG kunnen - onder deskundige leiding - zelf
 zo\'n kijker bouwen. Oudere leden kunnen dit ook zelf. Er is een goede
 bouwbeschrijving verkrijgbaar en de optiek is bij de JWG te koop. Sinds
 1975 zijn er al vele honderden van dergelijke
+
+---

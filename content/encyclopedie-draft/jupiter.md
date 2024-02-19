@@ -4,11 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![De reuzenplaneet Jupiter](plaatjes/jupiter.gif){vspace="0"
-  hspace="0"}\
+  ![De reuzenplaneet Jupiter](/jupiter-modified.png)
+  
   **De reuzenplaneet Jupiter**
 
   -----------------------------------------------------------------------
@@ -39,8 +37,8 @@ De atmosfeer van Jupiter, die we ook vanaf de aarde kunnen waarnemen, is
 ongeveer duizend kilometer dik. Er komen ook wolkenformaties in voor.
 
   -----------------------------------------------------------------------
-  ![Doorsnede van Jupiter](plaatjes/jupiter_doorsnede.jpg){vspace="0"
-  hspace="0"}\
+  ![Doorsnede van Jupiter](/jupiter_doorsnede-modified.png)
+  
   **Doorsnede van Jupiter**
 
   -----------------------------------------------------------------------
@@ -220,7 +218,7 @@ de deeltjes van de ring afkomstig zijn van vulkaan uitbarstingen van het
 maantje Io.
 
 Informatie over de vier grote Jupitermanen, Io, Europa, Ganymedes en
-Callisto kun je lezen bij [Galileïsche manen](galileïs.html){.two}.
+Callisto kun je lezen bij [Galileïsche manen](/encyclopedie/galileis).
 
 Hieronder vind je een tabel met gegevens over de 16 manen die tot dusver
 bij Jupiter ontdekt zijn.
@@ -229,23 +227,25 @@ Na de aanduiding, de naam en het jaar van ontdekking vind je de afstand
 tot het middelpunt van Jupiter in duizenden kilometers, de omlooptijd in
 dagen, de gemiddelde visuele schijnbare magnitude en de middellijn.
 
-     
-    JXVI  Metis     1979    127,98    0,2948  17,5  40 km 
-    JXV   Adrastea  1979    128,98    0,2983  19,2  25x20x15 km 
-    JV    Amalthea  1892    181,37    0,4982  14,2  270x166x150 km 
-    JXIV  Thebe     1979    221,89    0,6745  15,8  110x100x90 km 
-    JI    Io        1610    421,77    1,7691   5,0  3642 km 
-    JII   Europa    1610    671,06    3,5512   5,3  3130 km 
-    JIII  Ganymedes 1610   1070,43    7,1546   4,6  5268 km 
-    JIV   Callisto  1610   1882,73   16,6890   5,8  4806 km 
-    JXIII Leda      1974  11093,93  238,717   19,6    16 km 
-    JVI   Himalia   1904  11458,06  250,566   14,7   186 km 
-    JX    Lysithea  1938  11720,35  259,219   18,1    30 km 
-    JVII  Elara     1905  11733,43  259,653   16,6    76 km 
-    JXII  Ananke    1951  21209,0   631,009r  18,9    22 km 
-    JXI   Carme     1938  22564,4   692,454r  17,7    38 km 
-    JVIII Pasiphae  1908  23664     743,7  r  17,2    46 km 
-    JIX   Sinope    1914  23726     746,6  r  18,3    28 km 
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+**Letteraanduiding** |**Naam** |**Jaar van ontdekking** |**Afstand middelpunt** |**Omlooptijd** |**Schijnbare mgnitude** |**Middellijn**
+    JXVI  |Metis     |1979    |127,98    |0,2948  |17,5  |40 km 
+    JXV   |Adrastea  |1979    |128,98    |0,2983  |19,2  |25x20x15 km 
+    JV    |Amalthea  |1892    |181,37    |0,4982  |14,2  |270x166x150 km 
+    JXIV  |Thebe     |1979    |221,89    |0,6745  |15,8  |110x100x90 km 
+    JI    |Io        |1610    |421,77    |1,7691   |5,0  |3642 km 
+    JII   |Europa    |1610    |671,06    |3,5512   |5,3  |3130 km 
+    JIII  |Ganymedes |1610   |1070,43    |7,1546   |4,6  |5268 km 
+    JIV   |Callisto  |1610   |1882,73   |16,6890   |5,8  |4806 km 
+    JXIII |Leda      |1974  |11093,93  |238,717   |19,6    |16 km 
+    JVI   |Himalia   |1904  |11458,06  |250,566   |14,7   |186 km 
+    JX    |Lysithea  |1938  |11720,35  |259,219   |18,1    |30 km 
+    JVII  |Elara     |1905  |11733,43  |259,653   |16,6    |76 km 
+    JXII  |Ananke    |1951  |21209,0   |631,009r  |18,9    |22 km 
+    JXI   |Carme     |1938  |22564,4   |692,454r  |17,7    |38 km 
+    JVIII |Pasiphae  |1908  |23664     |743,7  r  |17,2    |46 km 
+    JIX   |Sinope    |1914  |23726     |746,6  r  |18,3    |28 km 
 
 Je ziet dat het buitenste maantje Sinope op maar liefst ruim 23,7
 miljoen (23726 x 1000) kilometer een baan om Jupiter beschrijft. Het
@@ -262,12 +262,12 @@ kilometer.
 De maantjes Io, Europa, Ganymedes en Callisto worden Galileïsche manen
 genoemd omdat ze in 1610 door Galileo Galilei zijn ontdekt. Deze
 maantjes zijn uitgebreid door de
-[Voyager](voyager.html){.two}-ruimtevoertuigen onderzocht.
+[Voyager](/encyclopedie/voyager)-ruimtevoertuigen onderzocht.
 
 Tenslotte vind je hieronder nog enkele numerieke gegevens over de
 reuzenplaneet Jupiter:
 
-\
+
 gemiddelde afstand tot de zon: 5,2024 AE (778,267 miljoen km)\
 kleinste afstand tot de zon: 4,9504 AE (740,569 miljoen km)\
 grootste afstand tot de zon: 5,4544 AE (815,967 miljoen km)\
@@ -282,10 +282,10 @@ gemiddelde dichtheid: 1,326 gr per kubieke cm\
 zwaartekracht aan het oppervlak (aarde = 1): 2,366\
 gemiddelde temperatuur: 167K (-106°C)\
 albedo: 34%\
-absolute magnitude: -9,25\
-\
+absolute magnitude: -9,25
+
 De *siderische omlooptijd* is de tijd waarin de planeet de gehele
-[dierenriem](dierenri.html){.two} doorloopt en op dezelfde plaats terug
+[dierenriem](/encyclopedie/dierenriem) doorloopt en op dezelfde plaats terug
 komt ten opzichte van dezelfde ster, gezien vanaf de zon.
 
 De *synodische periode* is de tijdsduur die een planeet nodig heeft om,
@@ -298,3 +298,5 @@ eenmaal om haar as draait ten opzichte van de sterren.
 De *absolute magnitude* van een planeet is de helderheid van de planeet
 als zij op één astronomische eenheid van de zon en tegelijk op één
 astronomische eenheid van de waarnemer staat.
+
+---
