@@ -4,15 +4,14 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Tussen Andromeda en Voerman ligt het sterrenbeeld Perseus. Ga je van
 Perseus verder naar het sterrenbeeld Cassiopeia, dan zie je op heldere
 maanloze nachten ongeveer in het midden tussen beide sterrenbeelden twee
 lichtende wolkjes. Het zijn twee [open
 sterrenhopen](open%20ste.html){.two} die tot Perseus behoren. Het is de
 moeite waard eens een verrekijker op deze sterrenhopen te richten! De
-merkwaardigste ster van Perseus is [Algol](algol.html){.two}. Hij
+merkwaardigste ster van Perseus is [Algol](/encyclopedie/algol). Hij
 verandert elke drie dagen in helderheid. Naar die eigenaardigheid kreeg
 hij zijn naam, want Algol betekent duivel. Het is een
 *bedekkingsveranderlijke* en reeds 300 jaar bekend. Om de hoofdster
@@ -49,10 +48,8 @@ vallen, boven op het monster. Hij doodde het monster en toen mocht hij
 met Andromeda trouwen.\
 Hieronder wat gegevens over enkele heldere sterren in het sterrenbeeld
 Perseus. Na de Griekse letteraanduiding vind je een eventuele naam.
-Daarachter de afstand in [lichtjaar\
-](lichtjaa.html){.two}en het [spectraaltype](spectraa.html){.two}.
-Tenslotte de [schijnbare](schijnba.html){.two} en de [absolute
-magnitude](absolute.html){.two}.
+Daarachter de afstand in [lichtjaar](/encyclopedie/lichtjaar) en het [spectraaltype](/encyclopedie/spectraa).
+Tenslotte de [schijnbare](/encyclopedie/magnitude) en de [absolute magnitude](/encyclopedie/absolute).
 
 alfa Per Mirfak 470 lj cF5 1,90 -3,9 beta Per Algol 82 lj B8 2,2-3,5
 0,2-1,5 gamma Per 205 lj cF7+A3 3,08 -0,9 delta Per 1160 lj B1 3,10 -1,5
@@ -66,5 +63,7 @@ we Persei. Als we het over de ster alfa (a) van het sterrenbeeld Perseus
 hebben zeggen we a Persei of we schrijven a Per, want de officiële
 afkorting van het sterrenbeeld Perseus is Per.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

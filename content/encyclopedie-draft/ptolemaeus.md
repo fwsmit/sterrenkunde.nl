@@ -4,14 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-  -----------------------------------------------------------------------
-  ![Claudius Ptolemaeus](plaatjes/ptolemaeus.jpg){vspace="0" hspace="0"}\
-  **Claudius Ptolemaeus**
-
-  -----------------------------------------------------------------------
-
+---
 Claudius Ptolemaeus was een beroemd Grieks sterrenkundige, geograaf,
 wiskundige en muziektheoreticus die leefde in Alexandrië van 87 tot 150
 na Christus. Zijn belangrijkste werk schreef hij in het jaar 137 onder
@@ -25,7 +18,7 @@ dan duizend sterren alsmede 48 namen van sterren beelden die heden ten
 dage nog steeds worden gebruikt.
 
 In de negende eeuw werd dit werk vanuit het Grieks in het Arabisch
-vertaald. Onder zijn Arabische titel « [Almagest](almagest.html){.two}»
+vertaald. Onder zijn Arabische titel « [Almagest](/encyclopedie/almagest)»
 dat «grootste» betekent, is dit werk wereldberoemd geworden. In de 12e
 eeuw volgde nog een Latijnse vertaling. Tot in de 16e eeuw is de
 Almagest het belangrijkste sterrenkundige werk geweest. Het geeft een
@@ -52,4 +45,6 @@ astronomie behandeld worden zijn «Analemna, Planis phaerium» en
 «Hypotheses planetarum» dat over de beweging van de planeten gaat. Zijn
 «Optica» bevat onder meer metingen over lichtbreking en zijn «Harmonica»
 vormt een van de belangrijkste bronnen voor de kennis van de antieke
-muziektheorie.
+muziektheorie
+
+---

@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Aan de rand van ons zonnestelsel bevinden zich de planeet Pluto en zijn
 maan *Charon*. De eerste werd op 18 februari 1930 ontdekt door *Clyde W.
 Tombaugh* en genoemd naar de mythologische figuur Pluto, de broer van
@@ -22,7 +21,7 @@ als hun baanbeweging, staat elke wereld vanaf de ander gezien roerloos
 aan de hemel.
 
 Charon is vanaf Pluto gezien twaalf maal zo groot als de maan gezien
-vanaf de aarde. Maar Pluto\'s ijslandschap wordt vrijwel niet door
+vanaf de aarde. Maar Pluto's ijslandschap wordt vrijwel niet door
 Charon verlicht: het zonlicht is er meer dan duizend maal zo zwak als
 het zonlicht op aarde.
 
@@ -63,7 +62,7 @@ poolkappen heeft en een brede, grijze equatoriale band.
 
 In 1993 slaagden astronomen van het Jet Propulsion Laboratory er in de
 massa van Pluto en Charon afzonderlijk te bepalen. Zij namen het tweetal
-waar met de [Hubble Space Telescope](hst.html){.two} en be paalden de
+waar met de [Hubble Space Telescope](/encyclopedie/hst) en be paalden de
 grootte van hun banen om het gemeenschappelijk zwaar tepunt. Dat was
 mogelijk doordat hun posities heel nauwkeurig kon den worden gemeten ten
 opzichte van een referentiester. Op grond van deze twee banen leidden de
@@ -342,7 +341,7 @@ massa: 0,00247 (aarde = 1) gemiddelde dichtheid: 2,01 gram per kubieke
 cm zwaartekracht aan het oppervlak: 0,067 (aarde = 1) gemiddelde
 temperatuur: 38K (-235°C) albedo: 48% gem. magnitude vanaf de aarde:
 +15,3 absolute magnitude: -1,01 *siderische omlooptijd* is de tijd
-waarin de planeet de gehele [dierenriem](dierenri.html){.two} doorloopt
+waarin de planeet de gehele [dierenriem](/encyclopedie/dierenriem) doorloopt
 en op dezelfde plaats terug komt ten opzichte van dezelfde ster, gezien
 vanaf de zon.
 
@@ -351,5 +350,7 @@ gezien vanaf de aarde, weer dezelfde positie ten opzichte van de zon in
 te nemen. De *siderische rotatieduur* van de planeet is de tijd waarin
 de planeet éénmaal om haar as draait ten opzichte van de sterren. De
 *absolute magnitude* van de planeet is de helderheid van de planeet als
-zij op één [astronomische eenheid](astronom.html){.two} van de zon én
+zij op één [astronomische eenheid](/encyclopedie/ae) van de zon én
 tegelijk op één astro nomische eenheid van de waarnemer staat.
+
+---

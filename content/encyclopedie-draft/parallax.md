@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Zoals je weet draait de aarde in één jaar om de zon. Door deze beweging
 van de aarde lijken alle sterren in de loop van een jaar een kleine
 [ellips](ellips.html){.two} aan de hemel te beschrijven.
@@ -26,8 +25,7 @@ Dat is helemaal niet zo moeilijk. Kijk maar:
 Wat je hier boven ziet is een echte wiskundige formule. Je ziet dat
 zo\'n formule niet altijd zo moeilijk hoeft te zijn.
 
-In de formule hierboven moet de parallax in [boogseconden\
-](hoeken.html){.two}worden gegeven.
+In de formule hierboven moet de parallax in [boogseconden ](/encyclopedie/hoeken) worden gegeven.
 
 De *parsec* is een afstandsmaat die in de sterrenkunde veel wordt
 gebruikt. Eén parsec is gelijk aan 3,26 lichtjaar. Het woord parsec is
@@ -35,7 +33,7 @@ afgeleid uit de woorden *par*allax en *sec*onde.
 
 De parallax is altijd heel erg klein. Dat komt omdat de sterren zo
 ontzettend ver weg staan. De ster die het dichtst bij ons staat heet
-[Proxima Centauri](proxima.html){.two}. Van alle sterren heeft Proxima
+[Proxima Centauri](/encyclopedie/proxima). Van alle sterren heeft Proxima
 Centauri daarom de grootste parallax. Toch bedraagt die parallax niet
 meer dan 0,75 boogseconden.
 
@@ -47,3 +45,5 @@ plaatsen krijgen we 1/0,75 = 1,33. Zoals verteld is dit de afstand in
 parsec. Als je de afstand in lichtjaren wilt weten moet je dit nog met
 3,26 vermenigvuldigen. De afstand van Proxima Centauri bedraagt dus 1,33
 x 3,26 = ongeveer 4,35 lichtjaar.
+
+---

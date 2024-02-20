@@ -4,9 +4,8 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-Pulserende sterren zijn [veranderlijke sterren](verander.html){.two}. Ze
+---
+Pulserende sterren zijn [veranderlijke sterren](/encyclopedie/verander). Ze
 veranderen van helderheid doordat ze afwisselend opzwellen en weer in
 krimpen. Dit groter en kleiner worden noemen we *pulseren*.
 
@@ -47,13 +46,13 @@ heeft om vanaf het moment van grootste helderheid opnieuw het maximum te
 bereiken. De absolute magnitude geeft de werkelijke lichtkracht van de
 ster aan. Het is de helderheid die een ster zou hebben als hij op een
 afstand van 10 *parsec* zou staan. Dat is 32,6
-[lichtjaar](lichtjaa.html){.two}, want een afstand van één parsec is
+[lichtjaar](/encyclopedie/lichtjaar), want een afstand van één parsec is
 gelijk aan 3,26 lichtjaar.
 
 Henriëtta Leavitt ontdekte dat hoe langer de periode van een Cepheïde
 is, des te groter ook zijn werkelijke licht kracht is. Dit verband
 tussen periode en absolute helderheid wordt de
-[Cepheïdenwet](cepheide.html){.two} genoemd. Ook de naam
+[Cepheïdenwet](/encyclopedie/cepheide) genoemd. Ook de naam
 *periode-lichtkracht wet* wordt veel gebruikt. Met de
 periode-lichtkracht-wet kunnen sterrenkundigen heel gemakkelijk de
 absolute helder heid te weten komen als de periode bekend is. En omdat
@@ -219,7 +218,7 @@ voorbeelden van halfregelmatigen zijn de sterren Antares in het
 sterrenbeeld Schorpioen, Betelgeuze in Orion en m (de Griekse letter Mu)
 Cepheus.
 
-[W. Herschel](w.%20hersc.html){.two} gaf æ Cepheus de naam «granaatster»
+W. Herschel gaf æ Cepheus de naam «granaatster»
 vanwege zijn helderrode kleur. In totaal zijn er meer dan 2200
 veranderlijken van dit type bekend.
 
@@ -263,3 +262,5 @@ halve magnitude. We kennen tot dusver ongeveer 1700 onregelmatig
 veranderlijke sterren. Een van de bekendste voorbeelden van een
 onregelmatig veranderlijke ster is RW Aurigae in het sterrenbeeld
 Voerman.
+
+--

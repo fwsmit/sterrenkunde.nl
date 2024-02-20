@@ -4,15 +4,14 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 In de herfst kun je het sterrenbeeld Pegasus hoog in het zuiden aan de
 hemel vinden. Juist omdat het in de herfst hoog in het zuiden staat en
 de belangrijkste sterren een mooi vierkant vormen, wordt dit
 sterrenbeeld wel het *herfstvierkant* genoemd. Het herfstvierkant is
 gemakkelijk te herkennen, omdat er in dat vierkant geen andere heldere
 sterren meer staan. Pegasus staat rechts van Andromeda, vlak onder de
-[melkweg](melkweg.html){.two}.
+[melkweg](/encyclopedie/melkweg).
 
 Hoe Pegasus «geboren» werd, kun je lezen in de beschrijving van Perseus.
 Pegasus nam vaak dichters mee op zijn rug, en bracht ze dan naar de berg
@@ -23,10 +22,8 @@ ineens hele mooie gedichten maken.
 Hieronder vind je nog wat gegevens over de helderste sterren van het
 sterrenbeeld Pegasus. In de eerste kolom vind je de Griekse
 letteraanduiding. Daarachter de naam, de afstand in
-[lichtjaar](lichtjaa.html){.two}, het
-[spectraaltype](spectraa.html){.two}, de [schijnbare
-magnitude](magnitud.html){.two} en tenslotte de [absolute
-magnitude](absolute.html){.two}.
+[lichtjaar](/encyclopedie/lichtjaar), het
+[spectraaltype](/encyclopedie/spectraa), de [schijnbare magnitude](/encyclopedie/magnitude) en tenslotte de [absolute magnitude](/encyclopedie/absolute).
 
 alfa Peg Markab 102 lj B9 2,57 0,1 beta Peg Scheat 172 lj gM2 2,61 -0,1
 gamma Peg Algenib 470 lj B2 2,87 -2,8 epsilon Peg Enif 820 lj cK2 2,54
@@ -42,5 +39,7 @@ Pegasi. Als we het hebben over de ster alfa (a) van het sterrenbeeld
 Pegasus zeggen we a Pegasi of we schrijven a Peg want de officiële
 afkorting van het sterrenbeeld Pegasus is Peg.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

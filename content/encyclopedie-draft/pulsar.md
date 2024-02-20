@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 In november 1967 merkte de studente *Jocelyn Bell*, die in het kader van
 haar studie een radio-onderzoek deed onder leiding van prof.
 
@@ -40,7 +39,7 @@ roteren dan ongeveer vijfduizend maal per seconde, zouden ze ook uiteen
 worden gerukt.
 
 Ruim een jaar na de ontdekking van pulsars vonden radio astronomen ook
-een pulsar in de [Krabnevel](krabnevel.html){.two}. Deze kreeg de
+een pulsar in de [Krabnevel](/encyclopedie/krabnevel). Deze kreeg de
 aanduiding NP 0532. In tegenstelling tot de meeste andere pulsars heeft
 deze een veel sneller ritme. Ongeveer 30 maal per seconde zendt ze een
 radiopuls uit. Met de ontdekking van de Krabpulsar, één van de meest
@@ -55,7 +54,7 @@ inderdaad, in januari 1969 werd gevonden dat het verdachte sterretje ook
 30 maal per seconde helder opflitst in zichtbaar licht! Tussen twee
 heldere flitsen geeft ze ook nog een zwakke flits. Hiermee werd
 eindelijk onomsto telijk bewezen dat pulsars neutronensterren zijn die
-gevormd worden bij [supernova](supernova.html){.two}-explosies, juist
+gevormd worden bij [supernova](/encyclopedie/supernova)-explosies, juist
 zoals al in 1934 was voorspeld.
 
 Toch is de Krabnevel erg bijzonder. Het is de snelste pulsar die we
@@ -136,3 +135,5 @@ Tenslotte maakte de astronoom Alexander Wolszcan in het voorjaar van
 1994 de ontdekking bekend van planeten bij de pulsar PSR 1257+12. Het
 bestaan van de planeten kwam aan het licht doordat er kleine fluctuaties
 optreden in de radiopulsen van de pulsar.
+
+---

@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Pi (normaal geschreven als ã) is een letter uit het Griekse alfabet.
 Vaak stelt het een onmeetbaar getal voor dat gelijk is aan de omtrek van
 een cirkel gedeeld door zijn middellijn.
@@ -33,3 +32,5 @@ Zie je dat het helemaal niet zo moeilijk is? Met computers hebben
 geleerden het getal ã bepaald met een nauwkeurigheid van 1 miljoen
 cijfers achter de komma! Dat is eigenlijk zinloos. Met de bovenvermelde
 waarde van 3,14 kun je uitstekend werken.
+
+---

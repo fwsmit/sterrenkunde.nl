@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Om de zon draaien negen planeten. De aarde is er één van.
 
 Twee planeten staan dichter bij de zon dan de aarde. Dat zijn Mercurius
@@ -24,7 +23,7 @@ planeet en een maan is eigenlijk maar één ken merkend verschil. Een maan
 beschrijft een baan om een planeet. Dat komt doordat een maan veel
 kleiner is dan de planeet waar hij omheen draait, en dus veel minder
 massa heeft. Daardoor heeft een maan ook veel minder
-[aantrekkingskracht](aantrekk.html){.two}. De veel grotere
+[aantrekkingskracht](/encyclopedie/aantrekkingskracht). De veel grotere
 aantrekkingskracht van de planeet zorgt er voor dat een maan een baan om
 een planeet be schrijft. Net zoals de zon door zijn enorme aantrekkings
 kracht ervoor zorgt dat de planeten een baan om de zon beschrijven.
@@ -73,7 +72,7 @@ komt de planeet in het oosten boven de horizon. De planeet is dan de
 gehele nacht waar neembaar.
 
 De planeten bewegen niet in mooie cirkels om de zon. De banen van de
-planeten zijn een beetje uitgerekt. Zo\'n uitgerekte cirkel noemen we
+planeten zijn een beetje uitgerekt. Zo'n uitgerekte cirkel noemen we
 een *ellips*. Hierdoor staan de planeten niet altijd even ver van de
 zon. Het punt waar een planeet het dichtst bij de zon staat noemen we
 het *perihelium*. Peri betekent «dichtbij» en helios is het Griekse
@@ -113,3 +112,5 @@ afstand tussen maan en aarde *apogeum* = grootste afstand tussen maan en
 aarde *conjunctie* = samenstand *elongatie* = schijnbare hoekafstand (in
 graden) *benedenconjunctie* = binnenplaneet staat tussen zon en aarde
 *bovenconjunctie* = zon staat tussen aarde en binnenplaneet
+
+---

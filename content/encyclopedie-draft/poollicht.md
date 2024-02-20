@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Bij de polen van de aarde is soms een prachtig schouwspel te zien. Het
 is het poollicht; een zacht glanzend gekleurd licht dat de hele hemel in
 vlam lijkt te zetten. Het ver schijnsel heeft te maken met de
@@ -28,7 +27,7 @@ Het poollicht kan in verschillende vormen verschijnen.
 
 Straks zullen we deze nader beschrijven. Eerst moeten we kijken naar de
 oorzaken van het poollicht. Dit blijken de
-[zonnewind](zonnewind.html){.two} en het *magnetisch veld* van de aarde
+[zonnewind](/encyclopedie/zonnewind) en het *magnetisch veld* van de aarde
 te zijn.
 
 De zon zendt voortdurend elektrisch geladen deeltjes uit: protonen, die
@@ -238,3 +237,5 @@ meer daarover bij je fotohandel. Als ze de film ontwikke len, kun je hem
 wat korter belichten dan anders nodig zou zijn. Het is bovendien aan te
 raden een groothoeklens te gebruiken, tenzij het poollicht maar een
 klein deel van de hemel beslaat.
+
+---
