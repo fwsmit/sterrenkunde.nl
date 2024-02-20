@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Als je omhoog springt kom je natuurlijk weer op de aarde terecht. Daar
 zorgt de aantrekkingskracht van onze planeet voor. Hoe harder je je
 afzet, hoe hoger je kunt springen.
@@ -28,3 +27,5 @@ ontsnappingssnelheid groter.
 
 Hieronder volgt een overzicht van de ontsnappingssnelheden van de
 belangrijkste objecten in ons zonnestelsel.
+
+---

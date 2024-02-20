@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De Orionnevel wordt ook wel aangeduid met M 42 of NGC 1976.
 
 Dat betekent dat de nevel als nummer 42 te vinden is in de catalogus van
@@ -13,12 +12,12 @@ de Franse sterrenkundige Charles *Messier* die deze in 1794 publiceerde.
 Of als nummer 1976 in de New General Catalogue, gepubliceerd in 1888
 door de Deense sterrenkundige Johan Ludwig Emil *Dreyer*. De Orionnevel
 is een *diffuse nevel* die voor ongeveer 90% uit waterstof, 10% uit
-helium en minder dan 0,1% uit zwaardere [elementen](elemente.html){.two}
-bestaat. De temperatuur van de Orionnevel bedraagt zo\'n tienduizend
+helium en minder dan 0,1% uit zwaardere [elementen](/encyclopedie/elementen)
+bestaat. De temperatuur van de Orionnevel bedraagt zo'n tienduizend
 graden. Daardoor is het waterstof geïoniseerd.
 
 Dat wil zeggen dat de *elektronen* uit de waterstofatomen ontsnapt zijn.
-Dergelijke gebieden noemen we [H IIgebieden](h%20iigebi.html){.two}.
+Dergelijke gebieden noemen we HII gebieden.
 
 De Orionnevel is ontdekt door de Franse sterrenkundige N.C.F.
 
@@ -31,9 +30,9 @@ als een wazig vlekje met het blote oog te zien. In een verre kijker
 kunnen we al wat structuur in de nevel ontdekken.
 
 De afstand van de nevel is nog altijd onzeker. Ongeveer 1600
-[lichtjaar](lichtjaar.html){.two} lijkt echter een goede schatting. Het
+[lichtjaar](/encyclopedie/lichtjaar) lijkt echter een goede schatting. Het
 centrale deel van de Orionnevel heeft dan een doorsnede van 5 of 6
-lichtjaar. Maar op de beste foto\'s die we hebben, zien we dat zwakkere
+lichtjaar. Maar op de beste foto's die we hebben, zien we dat zwakkere
 gebieden van de nevel zich over een groot deel van het sterrenbeeld
 Orion uit strekken.
 
@@ -61,7 +60,7 @@ jaar.
 Daarmee behoort die tot de jongste sterrenhopen die we kennen.
 
 De sterren van het trapezium zijn zeer jonge sterren. Ze hebben
-[spectraaltype](spectraa.html){.two} O of B. Dat betekent dat ze een
+[spectraaltype](/encyclopedie/spectraa) O of B. Dat betekent dat ze een
 hoge oppervlakte-temperatuur hebben.
 
 De Orionnevel is een broedplaats van nieuwe sterren. De leeftijd van de
@@ -70,13 +69,12 @@ ook de ontdekking van een groot aantal zwakke rode sterren in de
 Orionnevel.
 
 Hieronder bevinden zich vele veranderlijke sterren van het
-[TTauri](ttauri.b.html){.two}-type.
+TTauri-type.
 
-Met de Wide Field and Planetary Camera van de [Hubble Space\
-Telescope](hst.html){.two} zijn unieke foto\'s van de Orionnevel
+Met de Wide Field and Planetary Camera van de [Hubble Space Telescope](/encyclopedie/hst) zijn unieke foto's van de Orionnevel
 gemaakt.
 
-Een van deze foto\'s werd eind 1995 vrijgegeven en onder andere als
+Een van deze fotos's werd eind 1995 vrijgegeven en onder andere als
 poster bij het decembernummer van het tijdschrift «National Geographic»
 gevoegd. Het betreft een schitterende mozaïekopname die werd
 samengesteld uit opnamen die de ruimtetelescoop tussen januari 1994 en
@@ -110,7 +108,7 @@ uitzondering. De Orionnevel wordt dan ook gezien als een ware
 broedplaats voor nieuwe planetenstelsels. Als de theorie over het
 ontstaan van planeten klopt, klonteren in de proto-planetaire schijven
 stofdeeltjes samen tot steeds grotere brokstukken, die uiteindelijk
-uitgroeien tot planeten. Tenminste\.... daar waren veel sterrenkundigen
+uitgroeien tot planeten. Tenminste.... daar waren veel sterrenkundigen
 van overtuigd. Inmiddels zijn hierover de nodige twijfels ont staan.
 
 Uit theoretische modellen die op basis van Hubble-opnamen van de
@@ -125,7 +123,7 @@ tot staan worden gebracht.
 Het proces dat in dit geval roet in het eten gooit is de zelfde
 fotovaporisatie (stralingsverdamping die wordt ver oorzaakt door de
 ioniserende straling van de nevel - zie bij
-[Lagunenevel](lagunenevel.html){.two}). De straling van de nabije, hete
+[Lagunenevel](/encyclopedie/lagunenevel). De straling van de nabije, hete
 sterren van het trapezium doen de stofschijven als sneeuw voor de zon
 verdwijnen.
 
@@ -140,4 +138,6 @@ en dat terwijl het volgens de huidige inzichten één tot tien miljoen
 jaar duurt, voordat er planeten uit hetzelfde stof zijn ontstaan.
 
 Voor informatie over allerlei soorten nevels verwijzen we je naar het
-trefwoord [nevels](nevels.html){.two}.
+trefwoord [nevels](/encyclopedie/nevels).
+
+---

@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Het *objectief* (de grote lens in een lenzenkijker of de grote spiegel
 in een spiegelkijker) van een kijker hoort er voor te zorgen dat alle
 lichtstralen van een ster in één punt samenkomen. Dit punt heet het
@@ -19,9 +18,8 @@ de middellijn van het objectief. Brandpuntsafstand en middellijn worden
 in millimeters opgegeven. In formulevorm:
 
   -------------------- --- ---------------------------------------------------------
-  openingsverhouding   =   brandpuntsafstand in mm
-                           ![lijntje](opmaak/lijntje.gif){width="100%" height="1"}
-                           middellijn objectief in mm
+  
+  openingsverhouding   =   Brandpuntsafstand (mm)/Middellijn objectief (mm)
   -------------------- --- ---------------------------------------------------------
 
 In de tabel op de volgende bladzijde hebben we voor een aantal kijkers
@@ -49,4 +47,6 @@ planeten. Ook zijn ze veel goedkoper dan lichtsterke kijkers. Maar het
 beeld is wat minder helder en het deel van de hemel dat we er door
 kunnen zien meestal wat kleiner. Die nadelen nemen we op de koop toe.
 
-Lees ook het verhaal bij het trefwoord [telescoop](telescop.html){.two}.
+Lees ook het verhaal bij het trefwoord [telescoop](/encyclopedie/telescopen).
+
+---

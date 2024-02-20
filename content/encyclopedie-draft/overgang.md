@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Een overgang vindt plaats als een klein hemellichaam voor een veel
 groter hemellichaam langs trekt. Bijvoorbeeld als Mercurius of Venus
 zichtbaar wordt op de zonneschijf doordat de planeet tussen de aarde en
@@ -34,28 +33,35 @@ Hieronder vind je een overzichtje van alle Mercurius overgangen tussen
 1900 en 2020. Zoals je ziet zijn het er 18. Mercuriusovergangen zijn dus
 niet zo heel erg zeldzaam.
 
-    12 nov 1907        14 nov 1953          6 nov 1993 
-     6 nov 1914         6 mei 1957         15 nov 1999 
-     8 mei 1924         7 nov 1960          7 mei 2003 
-    10 nov 1927         9 mei 1970          8 nov 2006 
-    11 mei 1937        10 nov 1973          9 mei 2016 
-    11 nov 1940        13 nov 1986         11 nov 2019 
+---
+|   |   |   |
+|---|---|---|
+12 nov 1907        |14 nov 1953          |6 nov 1993 
+     6 nov 1914         |6 mei 1957         |15 nov 1999 
+     8 mei 1924         |7 nov 1960          |7 mei 2003 
+    10 nov 1927         |9 mei 1970          |8 nov 2006 
+    11 mei 1937        |10 nov 1973          |9 mei 2016 
+    11 nov 1940        |13 nov 1986         |11 nov 2019 
+    
+---
 
 *Venusovergangen* zijn veel zeldzamer. Zoals je kunt zien in het lijstje
 hieronder.
 
-    6 december 1882
-    8 juni 2004 
-    5/6 juni 2012 
-    11 december 2117 
-    8 december 2125 
-    11 juni 2247 
-    9 juni 2255 
-    12/13 december 2360 
-    10 december 2368 
+6 december 1882\
+8 juni 2004\
+5/6 juni 2012\
+11 december 2117\
+8 december 2125\
+11 juni 2247\
+9 juni 2255\
+12/13 december 2360\
+10 december 2368
 
 Maximaal kunnen we vanaf de aarde per eeuw slechts twee Venusovergangen
 waarnemen.
 
 Voor meer informatie over de venusovergang van 2004 zie:
 [hier](http://home.hetnet.nl/~smvanroode/venustransit/).
+
+---

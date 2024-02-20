@@ -4,13 +4,12 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Hoe groot is het heelal? En hoe oud? Dat zijn vragen die de mens al
 lange tijd bezig houden. Vroeger dacht bijna iedereen dat het heelal
 oneindig groot was en al oneindig lang be stond. Tegenwoordig weten de
 meeste mensen het niet meer zo precies. Ze hebben wel eens gehoord over
-een [Oerknal](bigbang.html){.two} waarmee alles begonnen zou zijn,
+een [Oerknal](/encyclopedie/bigbang) waarmee alles begonnen zou zijn,
 miljarden jaren geleden. En wat was er daarvoor dan? En ze hebben wel
 eens ergens gelezen dat het heelal «eindig maar niet begrensd» is. En
 wat mag dat wel betekenen? Als het heelal eindig is moet er toch ergens
@@ -104,8 +103,8 @@ aarde als een perfecte gladde bol voorstelt, is het oppervlak van de
 aarde toch een twee dimensionale wereld! Zo lang je dat oppervlak niet
 kunt verlaten - niet naar boven of naar beneden kunt bewegen heb je aan
 twee getallen genoeg om een plaats op het aard oppervlak aan te geven:
-de [geografische lengte](geografi.html){.two} en
-[breedte](breedte..html){.two}! Met twee getallen ligt een plaats op het
+de [geografische lengte](/encyclopedie/geografi) en
+breedte! Met twee getallen ligt een plaats op het
 oppervlak van een bol volledig vast. Een boloppervlak is dus een
 twee-dimen sionale wereld. Pas wanneer je het oppervlak kunt verlaten,
 is er sprake van een derde dimensie.
@@ -172,7 +171,7 @@ richting, weer op je uitgangspunt aankomen. Net als een platlander die
 alsmaar rechtuit beweegt, en na lange, lange tijd toch op zijn
 uitgangspunt aankomt. En iemand die wil weten wat er buiten ons heelal
 is, die moet zich maar een voorstelling proberen te maken van een
-vier-dimensionale wereld\.....
+vier-dimensionale wereld.
 
 Het voorbeeld van Platland met zijn kleine bewonertjes is al heel oud.
 Het is een handig hulpmiddel bij elke gedachte over het heelal waarin
@@ -319,3 +318,5 @@ oerknal» plaatsvinden.
 Wat er in de verre, verre toekomst met ons drie-dimensionale heelal
 gebeurt, is niet bekend. Maar de twee mogelijkheden zijn dezelfde als
 die we zojuist beschreven voor de *platlanders!*
+
+---

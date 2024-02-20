@@ -4,15 +4,13 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+--
 In de ruimte tussen de sterren bevinden zich wolken waterstof gas.
-Indien zo\'n wolk waterstofgas zich in de buurt van een hete ster
+Indien zo'n wolk waterstofgas zich in de buurt van een hete ster
 bevindt wordt het gas door die ster verhit. Als de ster heel erg heet
 is, kan het waterstofgas zó verhit worden, dat de atomen van dat gas één
 of meerdere elektronen ver liezen. We noemen dit gas dan *geïoniseerde
-waterstof*. Ook wordt wel eens gesproken van een [H
-IIgebied](h%20iigebi.html){.two}. De letter H stelt het scheikundig
+waterstof*. Ook wordt wel eens gesproken van een HII gebied. De letter H stelt het scheikundig
 symbool voor van waterstof. Het gas dat zich verder van de ster bevindt
 ontvangt minder warmte en verliest daarom geen elektronen. Dit gas wordt
 *neutraal waterstof* genoemd. Ook wordt wel eens gesproken van een *H
@@ -38,4 +36,6 @@ heldere nevels te vinden. Ze zien er uit als donkere, ronde plekjes,
 welke *globulen* worden genoemd. De dichtheid van de deeltjes in de
 globulen kan meer dan duizend keer hoger zijn dan in normale donkere
 wolken. Hun middellijn bedraagt ongeveer 0,1 tot 1,5
-[lichtjaar](lichtjaa.html){.two}.
+[lichtjaar](/encyclopedie/lichtjaar).
+
+---

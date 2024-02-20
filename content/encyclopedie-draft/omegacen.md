@@ -4,15 +4,13 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-Omega Centauri is de naam van een [bolvormige
-sterrenhoop](bolvormi.html){.two} in het sterrenbeeld Centaurus. Helaas
+---
+Omega Centauri is de naam van een [bolvormige sterrenhoop](/encyclopedie/bolvormig) in het sterrenbeeld Centaurus. Helaas
 is deze bolhoop vanuit ons land niet te zien. Op het zuidelijk halfrond
 is Omega Centauri makkelijk als een wazig vlekje te herkennen.
 
 Omega Centauri is de grootste bolvormige sterrenhoop die we kennen. De
-afstand bedraagt ongeveer 16.300 [lichtjaar](lichtjaa.html){.two} en
+afstand bedraagt ongeveer 16.300 [lichtjaar](/encyclopedie/lichtjaar) en
 zijn doorsnede is ongeveer 153 lichtjaar. Zijn massa is enkele jaren
 geleden nauwkeurig bepaald door sterrenkundigen van de Europese
 Zuidelijke Sterrenwacht (ESO) in Chili. Van 1981 tot 1993 heeft men door
@@ -28,3 +26,5 @@ begeleiden. Overigens staan de sterren in het centrale deel van Omega
 Centauri gemiddeld nog 0,1 lichtjaar van elkaar. Een waarnemer op een
 denkbeeldige planeet bij een van de sterren van deze bolhoop zou pas
 kunnen genieten van een schitterende sterrenhemel!
+
+---
