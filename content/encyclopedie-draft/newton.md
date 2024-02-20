@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![Isaac Newton](plaatjes/newton.jpg){vspace="0" hspace="0"}\
+  ![Isaac Newton](/newton-modified.png)
+  
   **Isaac Newton**
 
   -----------------------------------------------------------------------
@@ -45,7 +44,7 @@ en hij terug moest keren naar zijn geboorte plaats. In de 1« jaar die
 volgden begonnen zijn revolutionaire ontwikkelingen in wiskunde, optica,
 natuurkunde en sterren kunde.
 
-Evenals [Johannes Kepler](kepler.html){.two} (1571-1630) was Newton niet
+Evenals [Johannes Kepler](/encyclopedie/kepler) (1571-1630) was Newton niet
 ongevoelig voor het bijgeloof van zijn tijd. Hij had dan ook regelmatig
 mystieke contacten. In feite kan veel van Newtons intellectuele
 ontwikkeling worden toegeschreven aan deze spanning tussen het gezonde
@@ -77,13 +76,13 @@ kleuren.
 
 Het «witte» licht van de zon bleek door het prisma tot alle kleuren van
 de regenboog uiteengerafeld te worden. Newton noemde de kleurenband op
-zijn muur [spectrum](spectrum.html){.two}, een woord uit het Latijn dat
+zijn muur [spectrum](/encyclopedie/spectrum), een woord uit het Latijn dat
 «(geestes)verschijning» betekent. Ook toonde hij aan dat met een tweede
 prisma de kleuren van de regenboog weer tot wit licht samengevoegd
 kunnen worden.
 
 De spreiding van de verschillende kleuren van wit licht bij breking door
-een prisma noemen we [dispersie](dispersi.html){.two} of kleurschifting.
+een prisma noemen we [dispersie](/encyclopedie/dispersi) of kleurschifting.
 
 Newton verklaarde deze dispersie door aan te nemen dat elke kleur zijn
 eigen brekingsindex heeft. Hij publiceerde zijn onderzoekingen in 1672
@@ -96,7 +95,7 @@ ontnomen. Zijn grote werk «Optics» (Optiek) publiceerde hij daarom pas
 in 1704, nadat Hooke was overleden. Ook verklaarde Newton de naar hem
 genoemde inter ferentieringen. Dat zijn gekleurde ringen om de
 contactplaats tussen twee niet zuiver op elkaar sluitende doorzichtige
-oppervlakken. Ze ontstaan door [interferentie](interfer.html){.two}
+oppervlakken. Ze ontstaan door [interferentie](/encyclopedie/interfer)
 tussen de, op de oppervlakken gedeeltelijk teruggekaatste lichtstralen.
 
 Ook verklaarde hij de dubbele breking en de polarisatie van licht.
@@ -141,7 +140,7 @@ trekt de aarde een appel naar haar oppervlak. De appel trekt de aarde
 ook aan. Maar omdat de appel zo\'n kleine massa heeft in vergelijking
 met de aarde, trekt hij de aarde slechts met een onwaarneembare zwakke
 kracht aan. Omdat de appel naar de aarde valt, lijkt het alsof de
-zwaartekracht eenzijdig is. In feite is de zwaartekracht zo\'n geringe
+zwaartekracht eenzijdig is. In feite is de zwaartekracht zo'n geringe
 kracht, dat ook twee objecten met een gelijke massa elkaar nauwelijks
 waarneembaar aan trekken. Daarom zullen twee appels met een gelijke
 massa op een schaal niet naar elkaar toe worden getrokken, ook al
@@ -182,7 +181,7 @@ beschreven.
 Newton had aangetoond dat dezelfde kracht die een appel naar de aarde
 doet vallen, de maan in haar baan houdt, de planeten in een elliptische
 baan om de zon houdt en ook verantwoordelijk is voor het rondlopen van
-de door [Galileo Galilei](galilei.html){.two} ontdekte vier grote manen
+de door [Galileo Galilei](/encyclopedie/galilei) ontdekte vier grote manen
 van Jupiter rondom die reuzenplaneet. Het is een wet van het omgekeerde
 kwadraat.
 
@@ -215,10 +214,10 @@ bewegingen af. Alle planetaire bewegingen, die empirisch waren
 beschreven door de drie wetten van Kepler, konden worden afgeleid uit
 één fundamentele wet, de wet van de universele gravitatie. Deze wet
 luidt: de kracht tussen twee lichamen is gericht langs hun verbindings
-lijn en is recht evenredig aan het product van hun massa\'s en omgekeerd
+lijn en is recht evenredig aan het product van hun massa's en omgekeerd
 evenredig met het kradraat van hun afstand. In formulevorm ziet deze wet
-er zo uit:\
-Hierin is F de kracht waarmee twee massa\'s m1 en m2 elkaar op een
+er zo uit:
+Hierin is F de kracht waarmee twee massa's m1 en m2 elkaar op een
 afstand r aantrekken. G is een vaste constante die we de
 gravitatieconstante noemen.
 
@@ -228,7 +227,7 @@ wet verenigd.
 Het was de eerste wiskundige beschrijving van het heelal die
 overeenstemde met de tot dan toe gedane waarnemingen.
 
-Overigens is het aan [Edmund Halley](halley.html){.two} (1656-1742) te
+Overigens is het aan [Edmund Halley](/encyclopedie/halley) (1656-1742) te
 danken dat Newton\'s «Principia» tot stand kwam. Tijdens een bezoek van
 Halley in 1684 aan Newton, bracht deze het vraagstuk van de
 planeetbeweging naar voren. Newton vertelde dat hij dit vraagstuk al
@@ -268,11 +267,11 @@ Verder merkte hij op dat de draaiing van de aarde een uitstulping moest
 veroorzaken om de evenaar.
 
 Hij zag in dat de aantrekkingskracht van de zon op die equa toriale
-uitstulping de [precessie](precessi.html){.two} veroorzaakte, de
+uitstulping de [precessie](/encyclopedie/precessi) veroorzaakte, de
 langzame verschuiving van de draaiingsas van de aarde. Verder merkte hij
 op dat de gecombineerde aantrekkingskracht van zon en maan regelmatige
 schommelingen moest veroorzaken in de stand van de aardas, iets wat we
-*nutatie* noemen. Ook verklaarde hij de [getijden](getijden.html){.two}
+*nutatie* noemen. Ook verklaarde hij de [getijden](/encyclopedie/getijden)
 uit deze combinatie.
 
 Newton ging uit van een heelal waarin niets in rust is. Alle
@@ -283,7 +282,7 @@ en hoe kon dan de rand van het heelal worden bepaald? Er was geen
 logische voorwaarde voor een begrenzing van het heelal. Het zou zowel in
 ruimte als tijd onbegrensd moeten zijn. Maar de wetenschap kon niet
 verklaren waarom het heelal bestond. Evenmin konden wetenschappers een
-cruciale vraag beantwoorden die was opgeroepen door Newton\'s beeld van
+cruciale vraag beantwoorden die was opgeroepen door Newton's beeld van
 het oneindig heelal onder invloed van de zwaarte kracht, namelijk: als
 elk voorwerp zwaartekracht uitoefende op elk ander voorwerp, hoe kon het
 dan dat alle sterren zolang hun eigen plaats hadden behouden? In een
@@ -291,11 +290,10 @@ oneindig en eeuwig heelal zou alles tenslotte door de zwaartekracht in
 een grote samenklontering moeten eindigen. En dat leek niet te kloppen
 met het heelal zoals dat sinds duizenden jaren regelmatig was
 waargenomen. Niettemin gaven de wiskundige wetten van Newton van
-beweging en zwaartekracht zo\'n mooie verklaring voor die waarnemingen
+beweging en zwaartekracht zo'n mooie verklaring voor die waarnemingen
 dat zijn model van een oneindig, eeuwig heelal al gauw net zo algemeen
-werd aanvaard als daarvoor het model van [Claudius
-Ptolemaeus](ptolemaeus.html){.two}. Maar in tegenstelling tot
-Ptolemaeus\' model met de aarde als middel punt, zou het model van
+werd aanvaard als daarvoor het model van [Claudius Ptolemaeus](/encyclopedie/ptolemaeus). Maar in tegenstelling tot
+Ptolemaeus' model met de aarde als middel punt, zou het model van
 Newton slechts tweehonderd jaar zijn geldigheid behouden.
 
 Newton ontwikkelde in 1671 ook een verbeterde versie van de
@@ -342,3 +340,5 @@ hun inzichten.
 
 Sir Isaac Newton overleed op 31 maart 1727 in Londen. Hij is 84 jaar
 geworden.
+
+---

@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
   -----------------------------------------------------------------------
-  ![De planeet Neptunus](plaatjes/neptunus.jpg){vspace="0" hspace="0"}\
+  ![De planeet Neptunus](/neptunus-modified.png)
+  
   **De planeet Neptunus**
 
   -----------------------------------------------------------------------
@@ -48,8 +47,7 @@ van achter de schrijftafel een nieuwe planeet te ontdekken.
 Overigens blijkt Neptunus, evenals Uranus, al lang vóór zijn eigenlijke
 ontdekking op 23 september 1846 door ver schillende waarnemers te zijn
 opgetekend. Zonder dat ze wisten met een nieuwe planeet te maken te
-hebben. Zelfs de beroemde sterrenkundige [Galileo
-Galileï](galilei.html){.two} heeft ruim tweehonderd jaar voor de
+hebben. Zelfs de beroemde sterrenkundige [Galileo Galileï](/encyclopedie/galilei) heeft ruim tweehonderd jaar voor de
 eigenlijke ontdekking van Neptunus de planeet twee keer opgetekend. Op
 28 december 1612 tekende Galileï naast Jupiter en zijn maantjes een
 ander object dat hij voor een ster aanzag. Tegenwoordig weten we dat
@@ -57,8 +55,8 @@ daar toen geen ster in de buurt stond. Ook op 28 januari 1613 heeft
 Galileï Neptunus waargenomen.
 
   -----------------------------------------------------------------------
-  ![Een doorsnede van de planeet
-  Neptunus](plaatjes/neptunus_doorsnede.jpg){vspace="0" hspace="0"}\
+  ![Een doorsnede van de planeet Neptunus](/neptunus_doorsnede-modified.png)
+  
   **Een doorsnede van de planeet Neptunus**
 
   -----------------------------------------------------------------------
@@ -118,6 +116,8 @@ Tenslotte vind je hieronder nog enkele numerieke gegevens over de
 planeet Neptunus.
 
   ---------------------------------- ------------------------------
+|   |   |
+|---|---|
   gemiddelde afstand tot de zon:     30,2708 AE (4528 miljoen km)
   kleinste afstand tot de zon:       29,9658 AE (4482 miljoen km)
   grootste afstand tot de zon:       30,5758 AE (4574 miljoen km)
@@ -136,7 +136,7 @@ planeet Neptunus.
   ---------------------------------- ------------------------------
 
 De *siderische omlooptijd* is de tijd waarin de planeet de gehele
-[dierenriem](dierenri.html){.two} doorloopt en op dezelfde plaats terug
+[dierenriem](/encyclopedie/dierenriem) doorloopt en op dezelfde plaats terug
 komt ten opzichte van dezelfde ster, gezien vanaf de zon.
 
 De *synodische periode* is de tijdsduur die een planeet nodig heeft om,
@@ -147,8 +147,7 @@ De *siderische rotatieduur* van een planeet is de tijd waarin de planeet
 éénmaal om haar as draait ten opzichte van de sterren.
 
 De *absolute magnitude* is de helderheid van de planeet als zij op één
-[astronomische eenheid](astronom.html){.two} (AE) van de zon Šn tegelijk
+[astronomische eenheid](/encyclopedie/ae) (AE) van de zon Šn tegelijk
 op 1 astronomische eenheid van de waarnemer staat.
 
-\
-ONTBREKENDE TABEL MAANTJES NEPTUNUS (ZIE TEKST)\
+---

@@ -4,21 +4,20 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Een nova is een ster die een plotselinge uitbarsting heeft.
 
 Hierbij blaast de ster zijn buitenste gaslaag de ruimte in.
 
 Door deze uitbarsting wordt de helderheid van de ster tien duizend tot
 honderduizend keer zo groot. Dat komt overeen met een helderheidstoename
-van 10 tot 12« [magnitude](magnitud.html){.two}. Hierdoor lijkt het of
+van 10 tot 12« [magnitude](/encyclopedie/magnitude). Hierdoor lijkt het of
 er plotseling een «nieuwe ster» aan de hemel is komen te staan. Dat
 gebeurde bijvoorbeeld in augustus 1975 in het sterrenbeeld Zwaan. Daarom
 wordt deze nova ook wel Nova Cygni 1975 genoemd. De Latijnse naam van
 het sterren beeld Zwaan is immers Cygnus. Nova Cygni 1975 wordt ook wel
 aangeduid als V1500 Cygni. Dat wil zeggen dat het de 1500ste
-[veranderlijke ster](verander.html){.two} is die in het sterrenbeeld
+[veranderlijke ster](/encyclopedie/verander) is die in het sterrenbeeld
 Zwaan is ont dekt.
 
 Nova is een Latijns woord dat «nieuw» betekent. Het meervoud is novae.
@@ -41,11 +40,11 @@ Aql is namelijk de gebruikelijke afkorting voor Aquila.
 De sterrenkundigen weten nog niet precies hoe een nova eigen lijk
 ontstaat. Wel zijn ze er de laatste jaren wat meer over te weten
 gekomen. Waarschijnlijk maken alle novae deel uit van een
-[dubbelster](dubbelst.html){.two}. De ene ster van dit dubbelstersysteem
+[dubbelster](/encyclopedie/dubbelster). De ene ster van dit dubbelstersysteem
 is erg klein, maar wel zeer heet. Het is een *witte dwerg*. De andere
 ster is erg groot, maar juist koel: een *rode reus*. De dwergster is de
 prenova. Het is een ster die bijna aan het eind van zijn levensloop is.
-Zo\'n ster bestaat voor het grootste deel uit helium. Wel is dat helium
+Zo'n ster bestaat voor het grootste deel uit helium. Wel is dat helium
 omringd door een dunne schil waterstofgas. Door de aantrekkingskracht
 tussen de beide sterren van het dubbelstersysteem stroomt er gas van de
 rode reus naar de witte dwerg toe. Wanneer dit gas in de buitenste lagen
@@ -55,7 +54,7 @@ voor dat de buitenste schil van de witte dwerg wordt weggeblazen.
 
 Er zijn ook sterrenkundigen die denken dat een nova door iets heel
 anders komt. Ze gaan er van uit dat de witte dwerg uit koolstof of nog
-zwaardere [elementen](elemente.html){.two} bestaat. De kern van de ster
+zwaardere [elementen](/encyclopedie/elementen) bestaat. De kern van de ster
 krimpt door de zwaartekracht zeer snel in.
 
 Daardoor ontstaat een schokgolf. Die schokgolf voert een deel van de
@@ -84,7 +83,7 @@ Deze schijnbare magnitude wordt meestal aangeven met de kleine letter m.
 In de laatste kolom vind je de *absolute magnitude*. Die wordt altijd
 aangegeven met de hoofdletter M. Met alsolute magnitude bedoelen we de
 helderheid die een ster zou hebben als deze op een afstand van 10
-[parsec](lichtjaa.html){.two} (dat is 32,6 *lichtjaar*) van de aarde zou
+[parsec](/encyclopedie/lichtjaar) (dat is 32,6 *lichtjaar*) van de aarde zou
 staan.
 
 De snelheid waarmee de buitenste gaslaag van de ster de ruimte in wordt
@@ -135,3 +134,5 @@ zijn maximum.
 
 Veel novae hebben vóór de uitbarsting een constante helder heid. Toch
 zijn er ook prenovae bekend waarvan de helderheid al wat veranderde.
+
+---

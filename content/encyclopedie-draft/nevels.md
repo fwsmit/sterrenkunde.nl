@@ -4,15 +4,14 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De ruimte tussen de sterren is niet helemaal leeg. Er be vinden zich
 talloze gas- en stofdeeltjes. Deze deeltjes noemen we *interstellaire
 materie*. Onder materie verstaan we alles wat ruimte inneemt. Ons woord
 materiaal is ervan afgeleid. Interstellair betekent «tussen de sterren».
 
 De interstellaire materie bestaat voor ongeveer 60% uit waterstof, 38%
-uit helium en 2 % uit zwaardere [elementen](elemente.html){.two}.
+uit helium en 2 % uit zwaardere [elementen](/encyclopedie/elementen).
 
 De totale massa van de interstellaire materie is voor 99% afkomstig van
 de gasdeeltjes. Stofdeeltjes maken slechts 1% van de massa uit. De
@@ -36,7 +35,7 @@ bestaat. Dit verzwakkingsproces noemen we *extinctie* of *interstellaire
 absorptie*. De extinctie verschilt van plaats tot plaats. Ze is
 afhankelijk van de dichtheid van de gas- en stofwolken. In de richting
 van de melkweg neemt de helderheid van een object gemiddeld twee
-[magnituden](magnitud.html){.two} per [kiloparsec](lichtjaa.html){.two}
+[magnituden](/encyclopedie/magnitude) per [kiloparsec](/encyclopedie/lichtjaar)
 af. Eén kiloparsec is 1000 parsec ofwel 3260 lichtjaar. Op deze afstand
 lijken de sterren dus gemiddeld twee magnituden zwakker door de
 interstellaire absorptie. Op sommige plaatsen is de verzwakking echter
@@ -60,11 +59,10 @@ het gas zŠlf licht gaat uitstralen. Deze nevels worden *emissienevels*
 genoemd.
 
 Eén van de mooiste voorbeelden van een emissienevel is de
-[Orionnevel](orionnevel.html){.two}. Hier straalt het gas zŠlf licht
+[Orionnevel](/encyclopedie/orionnevel). Hier straalt het gas zŠlf licht
 uit. Deze gebieden van lichtgevend gas bestaan voornamelijk uit
 *geïoniseerde waterstof*. In normale toestand bestaat een waterstof
-[atoom\
-](atomen.html){.two}uit twee deeltjes. Een *proton* in de kern en een
+[atoom](/encyclopedie/atomen) uit twee deeltjes. Een *proton* in de kern en een
 *elektron* dat om het proton heen draait. Het proton heeft een positieve
 lading en het elektron een negatieve lading. Een dergelijk
 waterstofatoom noemen we *neutraal waterstof*. Beide ladingen heffen
@@ -92,9 +90,9 @@ door de zon verlicht en kaatsen dit licht weer terug. Precies zoals bij
 de reflectie nevels. Reflectienevels hebben altijd de kleur van de ster
 waar ze bij in de buurt staan. Een mooi voorbeeld van reflectie nevels
 zijn de nevels om de helderste sterren van de
-[Pleiaden](sterrenh.html){.two}.
+[Pleiaden](/encyclopedie/sterrenhopen).
 
-Dat is een prachtige [open sterrenhoop](sterrenh.html){.two} in het
+Dat is een prachtige [open sterrenhoop](/encyclopedie/sterrenhopen) in het
 sterrenbeeld Stier. Vooral in de winter kun je deze sterrenhoop ge
 makkelijk met het blote oog zien. Een andere naam voor deze sterrenhoop
 is het *Zevengesternte*.
@@ -116,10 +114,10 @@ In de melkweg zijn veel van deze donkere wolken te vinden.
 Daarom lijkt de melkweg op veel plaatsen onderbroken. Het licht van de
 sterren van de melkweg wordt door de donkere wolken tegengehouden. Eén
 van de bekendste donkere nevels is de
-[Paardekopnevel](paardekopnevel.html){.two} in het sterrenbeeld Orion.
+[Paardekopnevel](/encyclopedie/paardekopnevel) in het sterrenbeeld Orion.
 
 Al deze gas- en stofwolken zijn erg groot. In het sterren beeld Zwaan
-kun je op een heldere nacht al duidelijk zo\'n wolk zien. Deze donkere
+kun je op een heldere nacht al duidelijk zo'n wolk zien. Deze donkere
 wolken staan op een afstand van meer dan tweeduizend lichtjaar. De
 middelijn van deze donkere wolk is bijna vijfhonderd lichtjaar.
 
@@ -127,18 +125,18 @@ We hebben al verteld dat alle gasnevels bijzonder ijl zijn. Omdat ze
 echter zo ontzettend groot zijn, is er toch erg veel materie aanwezig.
 Vaak meer dan genoeg om tien tallen nieuwe sterren te vormen.
 
-[Planetaire nevels](planetaire_nevel.html){.two} behoren eigenlijk tot
+[Planetaire nevels](/encyclopedie/planetaire_nevel) behoren eigenlijk tot
 de groep lichtende nevels. De naam planetaire nevel is afkomstig van
 *William Herschel* (1738-1822) die in 1785 deze naam aan dit type nevel
 gaf. Planetaire nevels lijken in kijkers een beetje op een schijfje. Net
 als de planeten. Maar ze hebben met planeten natuurlijk niets te maken.
 
-Planetaire nevels zijn ronde of bolvormige gasmassa\'s. In het midden
+Planetaire nevels zijn ronde of bolvormige gasmassa's. In het midden
 vinden we meestal een zwak sterretje. Die noemen we daarom de *centrale
 ster*. Hij staat immers in het centrum van de nevel. De centrale ster
 heeft het gas van de nevel tijdens een nova-uitbarsting de ruimte
 ingeblazen. Hoe dat kan staat beschreven bij het trefwoord
-[nova](nova.html){.two}.
+[nova](/encyclopedie/nova).
 
 Een planetaire nevels heeft gemiddeld een diameter van 40.000
 *astronomische eenheden*. Eén astronomische eenheid (A.E.) komt overeen
@@ -160,7 +158,7 @@ verschijnselen.
 
 De reden waarom een planetaire nevel licht geeft, is precies hetzelfde
 als bij een emissienevel. In het centrum van de nevel staat een ster van
-[spectraaltype](spectraa.html){.two} O. De oppervlakte temperatuur van
+[spectraaltype](/encyclopedie/spectraa) O. De oppervlakte temperatuur van
 die ster bedraagt wel 30.000 tot 100.000°C.
 
 De ster zendt kortgolvige straling uit van zeer hoge energie.
@@ -173,10 +171,12 @@ staan, ontvangen ook de meeste straling van die ster. Die worden dan ook
 het meest verhit.
 
 Het bekendste voorbeeld van een planetaire nevel is de
-[Ringnevel](ringnevel.html){.two} in het sterrenbeeld Lier. Andere
-voorbeelden zijn de [Uilnevel](uilnevel.html){.two} in de Grote Beer, de
-[Halternevel](halterne.html){.two} in het Vosje en de
-[Helixnevel](helixnev.html){.two} in de Waterman.
+[Ringnevel](/encyclopedie/ringnevel) in het sterrenbeeld Lier. Andere
+voorbeelden zijn de [Uilnevel](/encyclopedie/uilnevel) in de Grote Beer, de
+[Halternevel](/encyclopedie/halterne) in het Vosje en de
+[Helixnevel](/encyclopedie/helixnevel) in de Waterman.
+
+---
 
 Een planetaire nevel is in feite het gevolg van een nova.
 

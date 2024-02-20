@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De Franse sterrenkundige *Nicolas-Louis de Lacaille*, die leefde van
 1713 tot 1762, heeft een groot deel van zijn leven op de sterrenwacht in
 Kaapstad (Zuid-Afrika) door gebracht. Daar hield hij zich onder meer
@@ -23,7 +22,7 @@ sterrenbeeld) weer te geven.
 Het sterrenbeeld Winkelhaak komt in ons land nooit boven de horizon en
 bestaat slechts uit hele zwakke sterren.
 
-Geen enkele ster is helderder dan [magnitude](magnitud.html){.two} 4.
+Geen enkele ster is helderder dan [magnitude](/encyclopedie/magnitude) 4.
 
 De Latijnse naam van het sterrenbeeld Winkelhaak is *Norma*.
 
@@ -32,5 +31,7 @@ het hebben over de ster alfa (a) van het sterrenbeeld Winkelhaak zeggen
 we a Normae of we schrijven a Nor want de officiële afkorting van het
 sterrenbeeld Winkelhaak is Nor.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

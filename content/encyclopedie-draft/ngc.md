@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Aan de hemel wemelt het van de neveltjes. Veel ervan zijn in de 18de
 eeuw ontdekt en beschreven door de Engelse sterren kundige *William
 Herschel* (1738-1822) en zijn zoon *John Herschel* (1792-1871). Zij
@@ -32,3 +31,5 @@ objecten onder de naam *New General Catalogue*, meestal afgekort tot
 aanvulling die 1529 nieuwe objecten bevatte. In 1908 verscheen van
 Dreyer nog een tweede Index Catalogue met 3857 nieuwe nevels en
 sterrenhopen.
+
+---
