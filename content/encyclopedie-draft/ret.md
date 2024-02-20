@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Meestal wordt dit sterrenbeeld ook aan Nicolas-Louis de Lacaille
 toegeschreven, maar het was waarschijnlijk daar voor al ingevoerd door
 de Duitser Habrecht. Een riticulum (het Latijnse woord voor net) was
@@ -20,5 +19,7 @@ Als we het hebben over de ster alfa (a) van het sterrenbeeld Net zeggen
 we a Reticuli of we schrijven a Ret want de officiële afkorting van het
 sterrenbeeld Net is Ret.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

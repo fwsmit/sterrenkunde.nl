@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De *declinatie* is de afstand van een hemellichaam tot de
 *hemelevenaar*. Deze afstand wordt in graden uitgedrukt.
 
@@ -25,8 +24,7 @@ De zuidelijke hemelpool heeft een declinatie van -90°.
 De declinatie van een ster kun je vergelijken met de geografische
 breedte van een plaats op aarde.
 
-De Rechte Klimming lijkt wel wat op de [geografische\
-lengte](geografi.html){.two}. Ook hier is er een nullijn. Deze loopt van
+De Rechte Klimming lijkt wel wat op de [geografische lengte](/encyclopedie/geografi). Ook hier is er een nullijn. Deze loopt van
 de noordelijke naar de zuidelijke hemelpool. Maar natuurlijk niet over
 Greenwich. Dat bestaat niet aan op de hemelbol.
 
@@ -48,5 +46,6 @@ minuut weer in 60 (boog)seconden.
 
 De Rechte Klimming wordt vaak afgekort tot RK.
 
-Lees zo nodig ook het verhaal bij [geografische lengte\
-en breedte](geografi.html){.two}.
+Lees zo nodig ook het verhaal bij [geografische lengte en breedte](/encyclopedie/geografi).
+
+---

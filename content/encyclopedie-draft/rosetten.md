@@ -4,25 +4,24 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-De Rosettenevel is een heldere [diffuse nevel](diffuse.html){.two} in
+---
+De Rosettenevel is een heldere [diffuse nevel](/encyclopedie/diffuse) in
 het sterrenbeeld Eenhoorn. Hij wordt ook wel aangeduid als NGC 2237. Dat
 betekent dat het nevel 2237 is in de beroemde *N*ew *G*eneral
 *C*atalogue.
 
-De schijnbare middellijn van de Rosettenevel is zo\'n 80
-[boogminuten](hoeken.html){.two}. De afstand wordt geschat op 1600
-[lichtjaar](lichtjaa.html){.two}.
+De schijnbare middellijn van de Rosettenevel is zo'n 80
+[boogminuten](/encyclopedie/hoeken). De afstand wordt geschat op 1600
+[lichtjaar](/encyclopedie/lichtjaar).
 
 Dat betekent dat de werkelijke middellijn ongeveer 55 lichtjaar moet
 bedragen. Opvallend is de grote dichtheid van de nevel. De massa
 bedraagt meer dan 10.000 keer de massa van de zon.
 
-De Rosettenevel ligt rond de [open sterrenhoop](sterrenh.html){.two} NGC
+De Rosettenevel ligt rond de [open sterrenhoop](/encyclopedie/sterrenhopen) NGC
 2244. Deze sterrenhoop bestaat uit een groepje zeer jonge sterren. De
 schijnbare middellijn van deze sterrenhoop bedraagt 40 boog minuten.
-Vijf sterren ervan hebben [spectraaltype](spectraa.html){.two} O en 16
+Vijf sterren ervan hebben [spectraaltype](/encyclopedie/spectraa) O en 16
 spectraaltype B. Dat zijn allemaal sterren met een hele hoge
 oppervlakte-temperatuur. Verder telt de groep nog een aantal minder hete
 sterren.
@@ -49,4 +48,6 @@ afstand van de aarde tot de zon: ongeveer 150 miljoen kilometer. We
 weten dat uit deze globulen nieuwe sterren ontstaan.
 
 Wil je meer algemene informatie over nevels, kijk dan bij het trefwoord
-[nevels](nevels.html){.two}.
+[nevels](/encyclopedie/nevels).
+
+---

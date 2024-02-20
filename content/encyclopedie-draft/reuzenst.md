@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Reuzensterren zijn sterren die veel groter zijn dan onze zon.
 
 Een voorbeeld van een reuzenster is de heldere ster *Arcturus* in het
@@ -28,10 +27,12 @@ Enkele jaren geleden is ontdekt dat de verander lijke ster S Doradus (in
 het sterrenbeeld Goudvis) nog eens 30% groter is dan de ster Betelgeuze!
 Maar de grootste ster die tot dusver bekend is, is Mu Cephei in het
 sterrenbeeld Cepheus. Deze ster heeft een straal van maar liefst elf
-[astronomische eenheden](astronom.html){.two}. Eén astronomische eenheid
+[astronomische eenheden](/encyclopedie/ae). Eén astronomische eenheid
 is de ge middelde afstand aarde - zon ofwel bijna 150 miljoen kilo
 meter. Zou de zon zo groot worden, dan werd zelfs Saturnus opgeslokt!
 Stralen reuzensterren en superreuzen veel meer licht uit dan de zon, de
 meeste sterren stralen minder licht uit dan onze zon. Sterren die veel
-minder licht uitstralen worden [dwergsterren](dwergste.html){.two}
+minder licht uitstralen worden [dwergsterren](/encyclopedie/dwergste)
 genoemd.
+
+---
