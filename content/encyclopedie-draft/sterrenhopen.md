@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 In het heelal komen ook groepen van sterren voor. In zo\'n groep staan
 de sterren allemaal erg dicht bij elkaar. Een dergelijke verzameling
 sterren noemen we een sterrenhoop.
@@ -31,7 +30,7 @@ tientallen tot enkele honderden sterren.
 Zelfs in een open sterrenhoop staan de sterren nog een heel eind van
 elkaar vandaan. In de meeste gevallen bevat een open sterrenhoop slechts
 één ster per kubieke *parsec.* Een parsec is een afstand van 3,26
-[lichtjaar](lichtjaa.html){.two}. Door de geringe sterdichtheid is de
+[lichtjaar](/encyclopedie/lichtjaar). Door de geringe sterdichtheid is de
 aantrekkingskracht van de groep niet groot genoeg om alle sterren bijeen
 te houden. Dit komt doordat ook de sterren van een open sterrenhoop om
 het middelpunt van ons *Melkwegstelsel* draaien. Net zoals alle andere
@@ -135,7 +134,7 @@ aan de hemel vinden. En dan moet het nog uitzonderlijk helder zijn
 zonder storend licht. In het sterrenbeeld Hercules kun je dan proberen
 de bolvormige sterrenhoop M 13 te vinden. Als de zon zich in deze
 bolvormige sterrenhoop zou bevinden, zou je aan de hemel ongeveer
-twintigduizend sterren van [magnitude](magnitud.html){.two} 1 kunnen
+twintigduizend sterren van [magnitude](/encyclopedie/magnitude) 1 kunnen
 zien. Dat zou pas een geweldige sterrenhemel zijn! In totaal zijn er
 ongeveer 120 bolvormige sterrenhopen bekend. Ze bevinden zich op hele
 andere plaatsen aan de hemel dan de open sterrenhopen. Weet je nog waar
@@ -143,7 +142,7 @@ die te vinden waren? Allemaal in de melkweg! De bolvormige sterrenhopen
 staan juist niet in de melkweg. Ze staan verspreid in een uitgestrekt
 gebied rondom de kern van ons Melkwegstelsel. Het gebied waarin zich de
 bolvormige sterrenhopen bevinden wordt wel de
-[halo](sterrenh.html){.two} van het melkweg stelsel genoemd.
+[halo](/encyclopedie/sterrenhopen) van het melkweg stelsel genoemd.
 
 De bolvormige sterrenhopen behoren tot de oudste objecten die we kennen.
 Anders dan bij de open sterrenhopen zijn bolvormige sterrenhopen compact
@@ -167,15 +166,21 @@ zou staan (op deze afstand wordt de absolute magnitude gemeten), zou de
 helderheid maar liefst -9,8 magnitude bedragen. Ten slotte kun je zien
 dat de dichtheid van deze bolhoop wat onder het gemiddelde ligt.
 
-      M 22 (NGC 6656)      Schutter      17,3    34    3     5,9   -6,6    VII 
-      Omega Cen (NGC 5139) Centaurus     23,0    47    5     3,7   -9,8    VIII 
-      M 13 (NGC 6205)      Hercules      10,0    30    6,9   5,7   -8,3    V 
-      M 3  (NGC 5272)      Jachthonden    9,8    35   13,8   6,4   -9,3    VI 
-      M 92 (NGC 6341)      Hercules       8,3    27   11,0   6,1   -9,0    IV 
-      M 56 (NGC 6779)      Lier           1,8    10   13,8   8,2   -7,3    X 
-      M 15 (NGC 7078)      Pegasus        7,4    27   15,1   6,0   -9,8    IV 
-      M 53 (NGC 5024)      Hoofdh. v Ber. 3,3    17   20     7,6   -8,9    V 
-      M 2  (NGC 7089)      Waterman       8,2    32   15,8   6,3   -9,7    II 
-      M 12 (NGC 6218)      Slangedrager   9,3    30    5,8   6,6   -7,2    IX 
-      M 10 (NGC 6254)      Slangedrager   8,2    26    5,0   6,7   -6,7    VII 
-      M 5  (NGC 5904)      Slang         12,7    40    8,3   6,2   -8,1    V 
+
+---
+|   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+M 22 (NGC 6656)      |Schutter      |17,3   |34    |3     |5,9   |-6,6    |VII 
+Omega Cen (NGC 5139) |Centaurus     |23,0   |47    |5     |3,7   |-9,8    |VIII 
+M 13 (NGC 6205)      |Hercules      |10,0   |30    |6,9   |5,7   |-8,3    |V 
+M 3  (NGC 5272)      |Jachthonden   |9,8    |35    |13,8  |6,4   |-9,3    |VI 
+M 92 (NGC 6341)      |Hercules      |8,3    |27    |11,0  |6,1   |-9,0    |IV 
+M 56 (NGC 6779)      |Lier          |1,8    |10    |13,8  |8,2   |-7,3    |X 
+M 15 (NGC 7078)      |Pegasus       |7,4    |27    |15,1  |6,0   |-9,8    |IV 
+M 53 (NGC 5024)      |Hoofdh. v Ber.|3,3    |17    |20    |7,6   |-8,9    |V 
+M 2  (NGC 7089)      |Waterman      |8,2    |32    |15,8  |6,3   |-9,7    |II 
+M 12 (NGC 6218)      |Slangedrager  |9,3    |30    |5,8   |6,6   |-7,2    |IX 
+M 10 (NGC 6254)      |Slangedrager  |8,2    |26    |5,0   |6,7   |-6,7    |VII 
+M 5  (NGC 5904)      |Slang         |12,7   |40    |8,3   |6,2   |-8,1    |V 
+      
+---

@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Stationair is een ander woord voor stilstaand. Je komt in boeken wel
-eens tegen dat een planeet of [planeto‹de](planetoiden.html){.two}
+eens tegen dat een planeet of [planeto‹de](/encyclopedie/planetoiden)
 stationair is. Dat wil zeggen dat de planeet of planetoïde zijn oost
 waartse beweging omkeert in een westwaartse beweging of andersom. Deze
 beweging wordt overigens veroorzaakt doordat niet alleen de planeet of
@@ -28,3 +27,5 @@ noemen we een *geo-stationaire satelliet*. In een enkel geval kom je de
 naam geo-synchrome satelliet tegen.
 
 Daarmee wordt echter precies hetzelfde bedoeld.
+
+---

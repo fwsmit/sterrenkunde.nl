@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De eerste voorspellingen van zons- en maansverduisteringen gebeurden
 door bestudering van de sarosperiode. Dat is de periode waarna de zon,
 de maan en het snijpunt van hun banen weer in dezelfde onderlinge
@@ -57,3 +56,5 @@ Al deze verduisteringen zijn totaal. De tijd geldt voor het maximum van
 de verduistering in *Wereldtijd*.
 
 Ook wordt het aantal schrikkeldagen sinds de voorgaande eclips vermeld.
+
+---

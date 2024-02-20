@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De Space Shuttle is een transportsysteem in de ruimte dat vele malen kan
 worden gebruikt. Hiermee kunnen ruimtevoer tuigen (bijvoorbeeld
 satellieten en ruimtestations) in de ruimte worden gebracht. Eventueel
@@ -29,7 +28,7 @@ een soort zweefvliegtuig. Door het hergebruiken van Space Shuttle-delen
 en nuttige ladingen kan de exploitatie en exploratie van de ruimte
 doelmatiger geschieden dan voorheen.
 
-Na het beëindigen van het [Apolloprogramma](apollopr.html){.two}
+Na het beëindigen van het [Apolloprogramma](/encyclopedie/apollo)
 (omstreeks 1970) besloot het Amerikaanse Bureau voor de Ruimtevaart
 (NASA), dat een doeltreffender transportmiddel dan de kostbare wegwerp
 raketten moest worden ontwikkeld. Hiertoe werden studie opdrachten
@@ -153,3 +152,5 @@ Smith, Ronald E. McNair, Ellison S. Onizuka, Judith A. Resnick, Gregory
 B. Jarvis en Christa McAuliffe om het leven. Door deze ramp liep het
 Space Shuttle-project forse vertraging op. Het zou tot 28 september 1988
 duren alvorens een nieuwe Space Shuttle gelancerd zou worden.
+
+---

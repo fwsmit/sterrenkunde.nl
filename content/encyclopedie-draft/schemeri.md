@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 In het gewone taalgebruik is dit de tijd tussen zonsonder gang en het
 moment dat het helemaal donker is geworden. We onderscheiden: de
 *burgerlijke schemering*: de tijd tussen zonsondergang en het moment dat
@@ -24,3 +23,5 @@ daar geen last meer van hebben. De eigen straling van de nachthemel
 wordt nu niet meer beïnvloed door het zonlicht. Bij helder weer komen nu
 de *melkweg* en de zwakste met het blote oog zichtbare sterren
 tevoorschijn.
+
+---

@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Het fonkelen van de sterren wordt scintillatie genoemd.
 
 Dit fonkelen wordt veroorzaakt door onze eigen dampkring.
@@ -19,3 +18,5 @@ langer zijn weg door de damp kring van de aarde is. Daarom zal een ster
 die erg laag staat veel meer trillen dan een ster die in het *zenit*
 (dat is het punt recht boven je) staat. Planeten fonkelen duidelijk
 minder, doordat ze niet puntvormig zijn.
+
+---

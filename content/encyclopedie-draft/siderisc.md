@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De aarde draait om zijn as. Om één keer helemaal rond te draaien heeft
 de aarde 23 uur, 56 minuten en 4 seconden nodig.
 
@@ -25,7 +24,8 @@ genoemd.
 
 Bij gegevens over planeten kom je ook vaak de *synodische periode*
 tegen. Dat is de tijdsduur die een planeet nodig heeft om, gezien vanaf
-de aarde, weer dezelfde positie ten opzichte van de zon in te nemen.\
+de aarde, weer dezelfde positie ten opzichte van de zon in te nemen.
+
 Hieronder vind je de siderische rotatieduur en de synodische periode van
 de planeten.
 
@@ -34,3 +34,5 @@ Mercurius 58 15 30 34 115,877 Venus 243 00 26 38 583,921 Aarde 23 56
 04,1 Mars 24 37 22,7 779,936 Jupiter 9 55 29,7 398,884 Saturnus 10 39
 22,4 378,092 Uranus 17 14 24 369,656 Neptunus 16 06 36 367,487 Pluto 6
 09 17 38 366,735
+
+---

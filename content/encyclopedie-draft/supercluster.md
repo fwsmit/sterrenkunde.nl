@@ -4,20 +4,19 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Al heel lang weten de sterrenkundigen dat
-[sterrenstelsels](sterrenstelsel.html){.two} in groepen voorkomen.
+[sterrenstelsels](/encyclopedie/sterrenstelsel) in groepen voorkomen.
 Dergelijke groepen sterrenstelsels worden clusters genoemd. De bekendste
-cluster is de [Lokale Groep](lokalegr.html){.two}.
+cluster is de [Lokale Groep](/encyclopedie/lokalegr).
 
-waartoe ook ons [Melkwegstelsel](melkwegs.html){.two} behoort. De Lokale
+waartoe ook ons [Melkwegstelsel](/encyclopedie/melkwegstelsel) behoort. De Lokale
 Groep telt enkele tientallen leden waarvan het Melkwegstelsel net niet
 het grootste stelsel is. Ze neemt wel een goede tweede plaats in. De
 «grote broer» van ons Melkwegstelsel is de
-[Andromedanevel](andromedanevel.html){.two} (ook wel aangeduid als M 31
+[Andromedanevel](/encyclopedie/andromedanevel) (ook wel aangeduid als M 31
 of NGC 224) die op een afstand staat van 2,2 miljoen
-[lichtjaar](lichtjaa.html){.two}. De Andromedanevel lijkt heel veel op
+[lichtjaar](/encyclopedie/lichtjaar). De Andromedanevel lijkt heel veel op
 ons Melkwegstelsel, maar ze is een slag groter en telt minstens
 anderhalf keer zoveel sterren.
 
@@ -66,3 +65,5 @@ verschillende kleinere clusters en groepen van sterrenstelsels, die
 allemaal genoemd zijn naar het sterrenbeeld waarin ze, gezien vanaf de
 aarde, staan: de Ursa Major-cluster, de Coma-cluster, de
 Centaurus-cluster, de Hercules-cluster, de Sculptor-cluster, enzovoort.
+
+---

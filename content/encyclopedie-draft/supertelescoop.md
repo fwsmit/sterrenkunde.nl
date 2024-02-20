@@ -4,11 +4,10 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De geschiedenis van hele grote telescopen - waarvan de spiegel
 middellijn meer dan één meter bedraagt - begint in de 18e eeuw bij
-[William Herschel](herschel.html){.two} (1738-1822). Herschel was van
+[William Herschel](/encyclopedie/herschel) (1738-1822). Herschel was van
 beroep organist en muziekleraar. Zijn enthousiasme voor de sterren kunde
 had hij van zijn vader gekregen. William Herschel zou uitgroeien tot een
 geweldig telescoopbouwer. Bovendien ont wikkelde hij zich tot een van de
@@ -80,7 +79,7 @@ hij gebouwd heeft - zijn Leviathan-telescoop had een spiegelmiddellijn
 van 182,9 cm. Deze enorme, tien ton wegende buis, kwam in 1845 gereed.
 Het was in die tijd de grootste telescoop op aarde. Hij gebruikte zijn
 telescoop om de structuur van nevels te onderzoeken. Hij is ook de
-ontdekker van de [Krabnevel](krabnevel.html){.two} en degene die deze
+ontdekker van de [Krabnevel](/encyclopedie/krabnevel) en degene die deze
 nevel zijn naam gaf. De oorspronkelijke spiegel van William Parsons is
 nu te bewonderen in het Science Museum in Londen. De kijkerbuis en de
 resten van het gebouw zijn nog steeds te bezichtigen in Birr.
@@ -94,12 +93,13 @@ Newcastle-upon Tyne. Het bedrijf bouwde onder meer de spiegels voor de
 Engels-Australische 3,9 meter telescoop in Siding Spring en de 3,8 meter
 infraroodkijker op Mauna Kea op Hawaii. De 4,2 meter William
 Herschel-telescoop op La Palma op de Canarische Eilanden werd de laatste
-die door dit bedrijf is gebouwd.\
+die door dit bedrijf is gebouwd.
+
 Meer dan zeventig jaar is de 182,9 cm-telescoop van William Parsons in
 grootte niet overtroffen. In 1918 werd in het zuiden van de Amerikaanse
 staat Californië de *Mount Wilson sterrenwacht* in gebruik genomen. De
 2« meter telescoop op deze sterrenwacht was, op aandringen van de
-astronoom *George* *¿ : ' Ellery Hale*, gefinancierd door zijn vriend en
+astronoom *George* *: ' Ellery Hale*, gefinancierd door zijn vriend en
 zakenman *J.D. Hooker*. Daarom wordt deze telescoop vaak de Hooker
 telescoop genoemd. Het totale gewicht van het instrument bedraagt zo\'n
 100 ton! Oorspronkelijk was er sprake van een wat kleinere telescoop van
@@ -285,7 +285,7 @@ zeshoekige segmenten, die tezamen één reuzenspiegel vormen. Het bij
 zondere aan de Hobby-Ebberly-telescoop is dat de kijker vast staat
 gericht op 55° boven de horizon. Wel kan hij 360° draaien in azimut.
 Aldus kan men met de telescoop de hemel waarnemen tussen -10 en +71°
-[declinatie](rk.html){.two}. Maar hij is sferisch van vorm en door de
+declinatie. Maar hij is sferisch van vorm en door de
 aanwezige correctiespiegels is de effectieve diameter slechts ruim 9
 meter. De kostprijs van de Hobby-Ebberly-telescoop bedraagt slechts 13,5
 miljoen dollar. Dat is slechts een fractie van de Keck-telescopen die
@@ -329,8 +329,10 @@ beïnvloed door trillingen in de atmosfeer. Met behulp van zeer
 ingewikkelde correctietechnieken kan die luchtonrust tegenwoordig wel
 worden «weggefilterd». Maar de ideale telescoop bevindt zich natuurlijk
 boven de aardse dampkring. Daarom moeten we in dit verhaal zeker ook de
-[Hubble Space Telescope](hst.html){.two} (HST) noemen. Sinds 1990 draait
+[Hubble Space Telescope](/encyclopedie/hst) (HST) noemen. Sinds 1990 draait
 deze ruimte-telescoop in een baan om de aarde. Ondanks het feit dat dit
 een relatief vrij kleine telescoop is (de spiegelmiddellijn bedraagt
 «slechts» 2,4 meter), levert hij toch scherpere beelden op dan de meeste
 grote telescopen op het aardoppervlak.
+
+---

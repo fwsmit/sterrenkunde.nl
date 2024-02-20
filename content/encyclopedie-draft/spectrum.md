@@ -4,17 +4,16 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
   -----------------------------------------------------------------------
-  ![Spectrum op de bodem van een glazen
-  gebouw](plaatjes/spectrum.jpg){vspace="0" hspace="0"}\
+  ![Spectrum op de bodem van een glazen gebouw](/spectrum-modified.png)
+  
   **Spectrum op de bodem van een glazen gebouw**
 
   -----------------------------------------------------------------------
 
 Door een gaatje in een van zijn vensterluiken te maken, liet de Engelse
-natuurkundige en astronoom [Isaac Newton](newton.html){.two} (1642-1727)
+natuurkundige en astronoom [Isaac Newton](/encyclopedie/newton) (1642-1727)
 een smalle bundel licht op de witte muur van zijn werkkamer vallen. Toen
 hij een glazen prisma in de lichtbundel plaatste, zag hij dat de witte
 plek op de muur plaats had gemaakt voor een heldere regenboog van
@@ -31,7 +30,7 @@ duidelijk werd.
 *Joseph von Fraunhofer* (1787-1826) was een Duits optiekmaker.
 
 Ondanks zijn adellijk aandoende naam, was hij een kind uit een arm
-gezin. En het scheelde niet veel of hij zou nooit tot zijn belangrijke
+gezin. En het scheelde niet vehttp://localhost:1313/encyclopedie-draft/spectrum/el of hij zou nooit tot zijn belangrijke
 ontdekkingen zijn gekomen. In 1801 over leefde hij op wonderbaarlijke
 wijze als enige de instorting van de bouwvallige optiekzaak in M?nchen
 waar hij werkte. Het nieuws van zijn opzienbarende redding verspreidde
@@ -188,4 +187,6 @@ van zeldzame sterren, die die soms ook met letters worden aangeduid: R,
 N, S of W (voor de zeer hete Wolf-Rayet-sterren).
 
 Kijk voor nog meer informatie bij het trefwoord
-[straling](straling.html){.two}.
+[straling](/encyclopedie/straling).
+
+---

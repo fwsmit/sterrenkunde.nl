@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Wat is licht? Die vraag is eigenlijk nog nooit goed be antwoord. Licht
 zorgt ervoor dat je iets kunt zien. Bijna al het licht dat in onze ogen
 terecht komt is afkomstig van de zon. De zon straalt licht uit. Een deel
@@ -42,7 +41,7 @@ tussen twee opeenvolgende golven noemen we de *golflengte*. Die afstand
 is bij lichtgolven ontzettend klein. De golflengte van licht is nog
 minder dan één duizendste millimeter! Lichtgolven hebben een zeer hoge
 snelheid: 300.000 kilo meter per seconde. Die snelheid noemen we de
-[lichtsnelheid](lichtsnelheid.html){.two}.
+[lichtsnelheid](/encyclopedie/lichtsnelheid).
 
 Omdat de golflengte van licht zo vreselijk klein is, zullen per seconde
 vreselijk veel golfjes een bepaald punt passeren.
@@ -77,7 +76,7 @@ die nog maar heel jong zijn stralen nog geen zichtbaar licht uit. Wel
 warmtestraling! Met een infrarood telescoop zijn zulke objecten te
 ontdekken. Dat gaat natuurlijk niet zo maar! De telescoop moet zelf heel
 koud zijn, anders krijg je valse warmtestraling! Hij moet ook hoog op
-een berg staan, want de [dampkring](atmosfeer.html){.two} van de aarde
+een berg staan, want de [dampkring](/encyclopedie/atmosfeer) van de aarde
 houdt vrij veel infrarode straling tegen. Infrarode straling wordt
 daarom ook vaak waargenomen met satellieten die om de aarde draaien.
 
@@ -134,9 +133,7 @@ straling komt ook vrij als een atoombom tot ontploffing wordt gebracht.
 Alle soorten straling die we nu genoemd hebben zijn in één opzicht
 hetzelfde: ze reizen door het heelal met behulp van elektrische en
 magnetische velden. Daarom heten al deze soorten straling bij elkaar
-[elektromagnetische\
-straling](elektrom.html){.two}, ook wel het [elektromagnetische
-spectrum](elektrom.html){.two} genoemd.
+[elektromagnetische straling](/encyclopedie/elektrom), ook wel het [elektromagnetische spectrum](/encyclopedie/elektrom) genoemd.
 
 Waar komt dat woord spectrum vandaan? We hebben al gezegd dat het
 zichtbare licht van de zon uit verschillende kleuren bestaat. Die
@@ -152,11 +149,10 @@ ook bij het spectrum! Zo komen we aan de naam elektromagnetisch
 spectrum. Hieronder zie je dat het zichtbare licht maar een heel klein
 stukje vormt van het elektromagnetisch spectrum.
 
-*\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-\<- gamma- \| röntgen- \| ultra- \| \| infrarood \| radiostraling -\>
-straling \| straling \| violet \| \| \|
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-\<\-- korte golflengte zichtbaar lange golflengte \--\>* Over het
+
+- gamma- \| röntgen- \| ultra- \| \| infrarood \| radiostraling -\>
+straling \| straling \| violet \| 
+ korte golflengte zichtbaar lange golflengte. Over het
 zichtbare spectrum van de zon valt nog wel wat meer te vertellen. Heet
 gas, dat onder een hoge druk staat, ver oorzaakt een mooi, gelijkmatig
 spectrum, waarin alle kleuren netjes in elkaar overlopen. Zo\'n spectrum
@@ -172,7 +168,7 @@ Ieder gas heeft zo zijn eigen voorkeur. Aan de donkere lijnen in het
 spectrum zien de sterrenkundigen welke gassen er in de atmosfeer van de
 zon voorkomen. Die donkere lijnen in het zonnespectrum heten
 *fraunhoferlijnen*. Meestal spreken we bij andere sterren gewoon over
-[spectraallijnen](spectraa.html){.two}. Een spectrum met spectraallijnen
+[spectraallijnen](/encyclopedie/spectraa). Een spectrum met spectraallijnen
 heet een *absorptiespectrum*. Bepaalde golflengten zijn door de koelere
 gassen geabsorbeerd (tegen gehouden). Een derde soort spectrum is het
 *emissiespectrum*.
@@ -200,14 +196,16 @@ Soms staan de spectraallijnen niet precies op hun plaats.
 Ze zijn allemaal wat verschoven naar een bepaalde kant.
 
 Als de spectraallijnen naar de rode kant van het spectrum zijn
-verschoven, spreken we van [roodverschuiving](doppler.html){.two}. Rood
+verschoven, spreken we van [roodverschuiving](/encyclopedie/doppler). Rood
 verschuiving in het spectrum van een ster betekent dat die ster van ons
 af beweegt: de afstand wordt steeds groter. Als de ster naar ons toe
 beweegt, zijn de spectraal lijnen verschoven naar de blauwe kant van het
 spectrum.
 
-Dat heet natuurlijk [blauwverschuiving](doppler.html){.two}. Meestal is
+Dat heet natuurlijk [blauwverschuiving](/encyclopedie/doppler). Meestal is
 de rood- of blauwverschuiving heel klein. Hoe groter de snelheid van de
 ster, hoe groter de verschuiving van de spectraallijnen is. Dus als de
 sterrenkundigen meten hoeveel de spectraallijnen zijn verschoven kunnen
 ze uitrekenen hoe snel de ster naar ons toe of van ons af beweegt.
+
+---

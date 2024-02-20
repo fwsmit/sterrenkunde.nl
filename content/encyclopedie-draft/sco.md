@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Het sterrenbeeld Schorpioen is een van de twaalf sterren beelden van de
-[dierenriem](dierenri.html){.two}. Een deel van dit sterrenbeeld kun je
+[dierenriem](/encyclopedie/dierenriem). Een deel van dit sterrenbeeld kun je
 in de zomer laag in het zuiden aan de hemel vinden.
 
 Helemaal kun je het in ons land nooit zien: de staart, met daaraan de
@@ -32,13 +31,17 @@ ook naar de hemel werd gehaald.\
 Hieronder hebben we nog wat gegevens vermeld over de drie helderste
 sterren van het sterrenbeeld Schorpioen. In de eerste kolom de Griekse
 letteraanduiding met daarachter de naam. Vervolgens vind je de afstand
-in [lichtjaar](lichtjaa.html){.two}, het
-[spectraaltype](spectraa.html){.two}, de [schijnbare
-magnitude](magnitud.html){.two} en tenslotte de [absolute
-magnitude](absolute.html){.two}.
+in [lichtjaar](/encyclopedie/lichtjaar), het
+[spectraaltype](/encyclopedie/spectraa), de [schijnbare magnitude](/encyclopedie/magnitude) en tenslotte de [absolute magnitude](/encyclopedie/absolute).
 
-alfa Sco Antares 365 lj cM1 0.94 -5.0 beta Sco Acrab 540 lj B1 2.90 -3.4
-delta Sco Dschubba 990 lj B0 2.54 -4,9\
+---
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+**Letteraanduiding** |**Naam** |**Afstand** |**Spectraaltype** |**Schijnbare magnitude** |**Absolute magnitude**
+alfa Sco |Antares |365 lj |cM1 |0.94 |-5.0 
+beta Sco |Acrab   |540 lj |B1  |2.90 |-3.4
+delta Sco|Dschubba|990 lj |B0  |2.54 |-4,9
+
 De kleine letter c voor het spectraaltype wil zeggen dat het om een
 heldere superreus gaat.
 
@@ -50,5 +53,7 @@ Als we het hebben over de ster beta (b) van het sterrenbeeld Schorpioen
 zeggen we b Scorpii en we schrijven b Sco want de officiële afkorting
 van het sterrenbeeld is Sco.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

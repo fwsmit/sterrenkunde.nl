@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 In de Oudheid werd er in Mesopotamië, Iran, Griekenland en China veel
 naar de sterren gekeken. Niet zo verwonderlijk, want elektriciteit kende
 men natuurlijk nog niet. Het was altijd hardstikke donker. In
@@ -15,7 +14,7 @@ goden. Zo zijn de allereerste sterrenbeelden ontstaan.
 
 Van de sterrenhemel zijn ook atlassen gemaakt. Eén van de eerste
 atlassen, de Almagest, werd omstreeks het jaar 145 na Chr. gemaakt door
-de Griekse sterrenkundige [Ptolemaeus](ptolemaeus.html){.two}.
+de Griekse sterrenkundige [Ptolemaeus](/encyclopedie/ptolemaeus).
 
 In de Almagest worden 48 sterrenbeelden beschreven, de meeste zijn
 voorgesteld als mythologische figuren, die hun oorsprong nog verder
@@ -31,109 +30,111 @@ In de loop van de tijd zijn meer sterrenbeelden benoemd, voornamelijk op
 het zuidelijk halfrond. Dit zorgde ervoor dat de International
 Astronomical Union de sterrenhemel heeft opgedeeld in 88 sterrenbeelden.
 Een uitgebreide pagina over sterrenbeelden vind je ook op:
-[http://www.sterrenkunde.nl/sterrenbeelden](http://www.sterrenkunde.nl/sterrenbeelden){.two}\
+[http://www.sterrenkunde.nl/sterrenbeelden](http://www.sterrenkunde.nl/sterrenbeelden)\
 Hieronder een lijst van alle 88 sterrenbeelden.\
 \
 **Lijst**\
 \
-[Andromeda](and.html){.two}\
-[Altaar](ara.html){.two}\
-[Arend of Adelaar](aql.html){.two}\
+[Andromeda](/encyclopedie/and)\
+[Altaar](/encyclopedie/ara)\
+[Arend of Adelaar](/encyclopedie/aql)\
 \
-[Beeldhouwer](scl.html){.two}\
-[Beker](crt.html){.two}\
-[Boïtes](boo.html){.two}\
+[Beeldhouwer](/encyclopedie/scl)\
+[Beker](/encyclopedie/crt)\
+[Boïtes](/encyclopedie/boo)\
 \
-[Cassiopeia](cas.html){.two}\
-[Centaurus](cen.html){.two}\
-[Cepheus](cep.html){.two}\
+[Cassiopeia](/encyclopedie/cas)\
+[Centaurus](/encyclopedie/cen)\
+[Cepheus](/encyclopedie/cep)\
 \
-[Dolfijn](del.html){.two}\
-[Draak](dra.html){.two}\
-[Driehoek](tri.html){.two}\
-[Duif](col.html){.two}\
+[Dolfijn](/encyclopedie/del)\
+[Draak](/encyclopedie/dra)\
+[Driehoek](/encyclopedie/tri)\
+[Duif](/encyclopedie/col)\
 \
-[Giraffe](cam.html){.two}\
-[Goudvis](dor.html){.two}\
-[Grote Beer](uma.html){.two}\
-[Grote Hond](cma.html){.two}\
-[Graveerstift](cae.html){.two}\
+[Giraffe](/encyclopedie/cam)\
+[Goudvis](/encyclopedie/dor)\
+[Grote Beer](/encyclopedie/uma)\
+[Grote Hond](/encyclopedie/cma)\
+[Graveerstift](/encyclopedie/cae)\
 \
-[Haas](lep.html){.two}\
-[Hagedis](lac.html){.two}\
-[Hercules](her.html){.two}\
-[Hoofdhaar van Berenice](com.html){.two}\
+[Haas](/encyclopedie/lep)\
+[Hagedis](/encyclopedie/lac)\
+[Hercules](/encyclopedie/her)\
+[Hoofdhaar van Berenice](/encyclopedie/com)\
 \
-[Eenhoorn](mon.html){.two}\
-[Eridanus](eri.html){.two}\
+[Eenhoorn](/encyclopedie/mon)\
+[Eridanus](/encyclopedie/eri)\
 \
-[Indiaan](ind.html){.two}\
+[Indiaan](/encyclopedie/ind)\
 \
-[Jachthonden](cvn.html){.two}\
+[Jachthonden](/encyclopedie/cvn)\
 \
-[Kameleon](cha.html){.two}\
-[Kiel](car.html){.two}\
-[Klein Paard of Veulen](equ.html){.two}\
-[Kleine Beer](umi.html){.two}\
-[Kleine Hond](cmi.html){.two}\
-[Kleine Leeuw](lmi.html){.two}\
-[Kleine Waterslang](hyi.html){.two}\
-[Kompas](pyx.html){.two}\
-[Kraanvogel](gru.html){.two}\
-[Kreeft](cnc.html){.two}\
+[Kameleon](/encyclopedie/cha)\
+[Kiel](/encyclopedie/car)\
+[Klein Paard of Veulen](/encyclopedie/equ)\
+[Kleine Beer](/encyclopedie/umi)\
+[Kleine Hond](/encyclopedie/cmi)\
+[Kleine Leeuw](/encyclopedie/lmi)\
+[Kleine Waterslang](/encyclopedie/hyi)\
+[Kompas](/encyclopedie/pyx)\
+[Kraanvogel](/encyclopedie/gru)\
+[Kreeft](/encyclopedie/cnc)\
 \
-[Leeuw](leo.html){.two}\
-[Lier](lyr.html){.two}\
-[Luchtpomp](ant.html){.two}\
-[Lynx](lyn.html){.two}\
+[Leeuw](/encyclopedie/leo)\
+[Lier](/encyclopedie/lyr)\
+[Luchtpomp](/encyclopedie/ant)\
+[Lynx](/encyclopedie/lyn)\
 \
-[Maagd](vir.html){.two}\
-[Microscoop (sterrenbeeld)](mic.html){.two}\
+[Maagd](/encyclopedie/vir)\
+[Microscoop (sterrenbeeld)](/encyclopedie/mic)\
 \
-[Noorderkroon](crb.html){.two}\
+[Noorderkroon](/encyclopedie/crb)\
 \
-[Orion](ori.html){.two}\
-[Oven](for.html){.two}\
+[Orion](/encyclopedie/ori)\
+[Oven](/encyclopedie/for)\
 \
-[Paradijsvogel](aps.html){.two}\
-[Passer](cir.html){.two}\
-[Pauw](pav.html){.two}\
-[Pegasus](peg.html){.two}\
-[Perseus](per.html){.two}\
-[Phoenix](phe.html){.two}\
-[Pijl](sge.html){.two}\
+[Paradijsvogel](/encyclopedie/aps)\
+[Passer](/encyclopedie/cir)\
+[Pauw](/encyclopedie/pav)\
+[Pegasus](/encyclopedie/peg)\
+[Perseus](/encyclopedie/per)\
+[Phoenix](/encyclopedie/phe)\
+[Pijl](/encyclopedie/sge)\
 \
-[Raaf](crv.html){.two}\
-[Ram](ari.html){.two}\
+[Raaf](/encyclopedie/crv)\
+[Ram](/encyclopedie/ari)\
 \
-[Schild](sct.html){.two}\
-[Schilder of Schildersezel](pic.html){.two}\
-[Schorpioen](sco.html){.two}\
-[Schutter of Boogschutter](sgr.html){.two}\
-[Sextant](sex.html){.two}\
-[Slang](ser.html){.two}\
-[Slangedrager](oph.html){.two}\
-[Slingeruurwerk](hor.html){.two}\
-[Steenbok](cap.html){.two}\
+[Schild](/encyclopedie/sct)\
+[Schilder of Schildersezel](/encyclopedie/pic)\
+[Schorpioen](/encyclopedie/sco)\
+[Schutter of Boogschutter](/encyclopedie/sgr)\
+[Sextant](/encyclopedie/sex)\
+[Slang](/encyclopedie/ser)\
+[Slangedrager](/encyclopedie/oph)\
+[Slingeruurwerk](/encyclopedie/hor)\
+[Steenbok](/encyclopedie/cap)\
 \
-[Toekan](tuc.html){.two}\
-[Tweelingen](gem.html){.two}\
+[Toekan](/encyclopedie/tuc)\
+[Tweelingen](/encyclopedie/gem)\
 \
-[Vissen](psc.html){.two}\
-[Vlieg](mus.html){.two}\
-[Vliegende Vis](vol.html){.two}\
-[Voerman](aur.html){.two}\
-[Vosje](vul.html){.two}\
+[Vissen](/encyclopedie/psc)\
+[Vlieg](/encyclopedie/mus)\
+[Vliegende Vis](/encyclopedie/vol)\
+[Voerman](/encyclopedie/aur)\
+[Vosje](/encyclopedie/vul)\
 \
-[Walvis](cet.html){.two}\
-[Waterman](aqr.html){.two}\
-[Waterslang](hya.html){.two}\
-[Weegschaal](lib.html){.two}\
-[Winkelhaak](nor.html){.two}\
-[Wolf](lup.html){.two}\
+[Walvis](/encyclopedie/cet)\
+[Waterman](/encyclopedie/aqr)\
+[Waterslang](/encyclopedie/hya)\
+[Weegschaal](/encyclopedie/lib)\
+[Winkelhaak](/encyclopedie/nor)\
+[Wolf](/encyclopedie/lup)\
 \
-[Zuidelijke driehoek](tra.html){.two}\
-[Zuiderkroon](cra.html){.two}\
-[Zuiderkruis](cru.html){.two}\
-[Zuidervis](psa.html){.two}\
-[Zwaan](cyg.html){.two}\
+[Zuidelijke driehoek](/encyclopedie/tra)\
+[Zuiderkroon](/encyclopedie/cra)\
+[Zuiderkruis](/encyclopedie/cru)\
+[Zuidervis](/encyclopedie/psa)\
+[Zwaan](/encyclopedie/cyg)
+
+---

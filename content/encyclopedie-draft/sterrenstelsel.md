@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Aan de hemel wemelt het van de neveltjes. Veel ervan zijn in de 18de
 eeuw ontdekt en beschreven door de Engelse sterren kundige [William
 Herschel](herschel.html){.two} (1738-1822) en zijn zoon *John Herschel*
@@ -27,8 +26,8 @@ uitgebreidere catalogus verschijnen. Deze catalogus noemde hij de
 en hemzelf ontdekt.
 
 Deze grote catalogus werd in 1888 door *J. Dreyer* uitgebreid tot 7840
-objecten onder de naam [New General Catalogue](ngc.html){.two}, meestal
-afgekort tot [NGC](ngc.html){.two}. In 1895 verscheen onder de naam
+objecten onder de naam [New General Catalogue](/encyclopedie/ngc), meestal
+afgekort tot [NGC](/encyclopedie/ngc). In 1895 verscheen onder de naam
 *Index Catalogue* nog een aanvulling die 1529 nieuwe objecten bevatte.
 In 1908 verscheen van Dreyer nog een tweede Index Catalogue met 3857
 nieuwe nevels en sterrenhopen.
@@ -46,9 +45,9 @@ afstand van deze nevels te bepalen.
 
 Toch begonnen aan het begin van de 20ste eeuw steeds meer
 sterrenkundigen te vermoeden dat veel waargenomen nevels sterrenstelsels
-waren. Met behulp van de [periodelichtkrachtwet](cepheide.html){.two}
-voor [Cephe‹den](cepheide.html){.two} slaagde de Deense sterrenkundige
-*Ejnar Hertzsprung* (1873-1967) er in 1913 in de afstand tot de *¿ : '
+waren. Met behulp van de [periodelichtkrachtwet](/encyclopedie/cepheide)
+voor [Cephe‹den](/encyclopedie/cepheide) slaagde de Deense sterrenkundige
+*Ejnar Hertzsprung* (1873-1967) er in 1913 in de afstand tot de: '
 Kleine Magelhaense Wolk* vast te stellen. Tegenwoordig weten we dat
 zowel de Grote als de Kleine Magelhaense Wolk satellietstelsels van ons
 eigen melkwegstelsel zijn. In 1914 veronderstelde de Engelse
@@ -61,14 +60,14 @@ Het eerste echte bewijs dat sommige nevelachtige objecten afzonderlijke
 sterrenstelsels zijn, werd in 1923 geleverd door de Amerikaanse
 sterrenkundige *Edwin P. Hubble* (1889-1953). Hij slaagde er als eerste
 in afzonderlijke sterren in de
-[Andromedanevel](andromedanevel.html){.two} en andere soortgelijke
+[Andromedanevel](/encyclopedie/andromedanevel) en andere soortgelijke
 nevels waar te nemen. Hij gebruikte voor zijn waarnemingen de 250 cm
 telescoop van de Mount Wilson sterrenwacht. Uit de perioden van de
 lichtwisselingen van Cepheïden in de Andromedanevel bepaalde hij de
 lichtkracht van deze sterren.
 
 Daaruit kon dan weer de afstand worden berekend. Hij vond een afstand
-van 900.000 [lichtjaar](lichtjaa.html){.two}. Dat is overigens nog
+van 900.000 [lichtjaar](/encyclopedie/lichtjaar). Dat is overigens nog
 beduidend minder dan de waarde die we tegenwoordig voor de afstand van
 de Andromedanevel aannemen: namelijk 2,2 miljoen lichtjaar.
 
@@ -218,7 +217,7 @@ Bovendien zijn de armen minder strak gewonden om de kern.
 
 De spiraalarmen van de Sc-stelsels zijn duidelijk herkenbaar.
 
-Ze zijn goed in sterren en [H IIgebieden](h%20iigebi.html){.two}
+Ze zijn goed in sterren en HII gebieden
 (gebieden met geïoniseerd waterstof) op te lossen. De centrale gebieden
 zijn vormloos en klein. De spiraalarmen domineren het stelsel. Bijna
 alle Sc-stelsels hebben meervoudige spiralen die los gewonden zijn
@@ -289,7 +288,7 @@ sterrenstelsels zien dan voorgrondsterren van ons eigen melkwegstelsel.
 Ook ons eigen melkwegstelsels maakt deel uit van een groep
 sterrenstelsels. De groep stelsels waartoe ons melkweg stelsel behoort
 noemen we de *Lokale Groep*. Het grootste lid van deze Lokale Groep is
-de [Andromedanevel](andromedanevel.html){.two}. Dan volgt ons
+de [Andromedanevel](/encyclopedie/andromedanevel). Dan volgt ons
 melkwegstelsel met op de derde plaats M 33 in het sterrenbeeld Driehoek.
 Deze drie stelsels zijn de enige spiraalstelsels in de Lokale Groep die
 in totaal uit zo\'n dertig stelsels bestaat. De meeste daarvan zijn
@@ -311,19 +310,34 @@ verschil van 10 magnituden zelfs een factor 100 x 100 = 10.000 keer! Zo
 straalt de Andromedanevel (M = -21.1) dus ruim 10.000 keer meer licht
 uit dan het Leo I-stelsel (M = -11).
 
-*Naam of aanduiding type middellijn afstand Mv in kpc in kpc*
-Melkwegstelsel Sb/c 30 -20,4 Sagittarius-stelsel dE? 3 24,5 ? Grote
-Magellaense Wolk Irr I 7 52 -18,7 Kleine Magellaense Wolk Irr I 3 53
--16,7 Draco-stelsel dE2 1 67 - 8,5 Ursa Minor-stelsel dE4 2,4 67 - 9
-Sculptor-stelsel dE3 2,4 85 -12 Ursa Major-stelsel dE 120?
-Fornax-stelsel dE3 1,6 170 -13,5 Leo I-stelsel dE4 2 230 -11 Leo
-II-stelsel dE1 1,3 230 - 9,5 NGC 6822 Irr I 2,1 560 -15,6 NGC 205
-(begeleider M 31) dE5 4,2 640 -16,3 IC 1613 Irr I 3 700 -14,8 M 32
-(begeleider M 31) dE2 2 660 -16,3 NGC 147 (begeleider M 31) dE5 2,4 660
--14,8 NGC 185 (begeleider M 31) dE3 2,8 660 -15,2 Andromedanevel (M 31)
-Sb 50 650 -21,2 NGC 598 (M 33) Sc 14 720 -18,8 Wolf-Lundmarkstelsel Irr
-5,5 870? -13,7 Sextant A Irr I 4,1 1000? -13,6 Leo A Irr 3,1 1100? -18,1
-IC 10 Irr I 1,3 1260? -17,3\
+
+---
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+Melkwegstelsel      |Sb/c         |30  |N/A |-20,4 
+Sagittarius-stelsel |dE?          |3   |24,5|? 
+Grote Magellaense Wolk Irr |I     |7   |52  |-18,7 
+Kleine Magellaense Wolk Irr |I    |3   |53  |-16,7 
+Draco-stelsel      |dE2           |1   |67  |-8,5 
+Ursa Minor-stelsel |dE4           |2,4 |67  |-9
+Sculptor-stelsel   |dE3           |2,4 |85  |-12 
+Ursa Major-stelsel |dE            |120 |N/A |?
+Fornax-stelsel     |dE3           |1,6 |170 |-13,5 
+Leo I-stelsel      |dE4           |2   |230 |-11 
+Leo II-stelsel     |dE1           |1,3 |230 |- 9,5 
+NGC 6822 Irr       |I             |2,1 |560 |-15,6 
+NGC 205 (begeleider M 31) |dE5    |4,2 |640 |-16,3 
+IC 1613 Irr |I                    |3   |700 |-14,8 
+M 32 (begeleider M 31) |dE2       |2   |660 |-16,3 
+NGC 147 (begeleider M 31) |dE5    |2,4 |660 |-14,8 
+NGC 185 (begeleider M 31) |dE3    |2,8 |660 |-15,2 
+Andromedanevel (M 31) |Sb         |50  |650 |-21,2 
+NGC 598 (M 33) |Sc                |14  |720 |-18,8 
+Wolf-Lundmarkstelsel Irr |N/A     |5,5 |870?|-13,7 
+Sextant A Irr |I                  |4,1 |1000?|-13,6 
+Leo A Irr |N/A                    |3,1 |1100?|-18,1
+IC 10 Irr |I                      |1,3 |1260?|-17,3
+
 Van enkele stelsels, zoals de laatste drie, is het nog niet zeker of ze
 inderdaad tot de Lokale Groep behoren. Ook zijn er nog enkele
 dwergstelsels niet in de lijst opgenomen die wel tot de Lokale Groep
@@ -343,7 +357,7 @@ ligt. Daardoor wordt het bijna geheel aan het zicht ont trokken.
 
 Tenslotte bespreken we hieronder nog enkele opvallende sterren stelsels.
 Van deze sterrenstelsels vind je in dit programma ook trefwoorden met
-meer informatie! De [Draaikolknevel](draaikol.html){.two} (M51 of NGC
+meer informatie! De [Draaikolknevel](/encyclopedie/draaikol) (M51 of NGC
 5194) in het sterrenbeeld Jachthonden is het eerste sterrenstelsel
 waarin spiraal structuur werd gevonden. Dat werd ontdekt door *William
 Parsons*, de derde graaf van Rosse, met zijn zelfgebouwde telescoop, die
@@ -353,14 +367,14 @@ Het stelsel staat op 23 miljoen lichtjaar afstand en wordt vervormd door
 de zwaartekrachtswerking van zijn kleine, onregelmatige begeleider NGC
 5195.
 
-De grote [Andromedanevel](andromedanevel.html){.two} (M31 of NGC 224) is
+De grote [Andromedanevel](/encyclopedie/andromedanevel) (M31 of NGC 224) is
 het verst verwijderde object in het heelal dat vanaf de aarde met het
 blote oog zichtbaar is. Met zijn zeven spiraalarmen lijkt het op ons
 eigen melkwegstelsel. Het is het grootste lid van de Lokale Groep en
 staat ongeveer 2,3 miljoen lichtjaar ver weg. De Andromedanevel wordt
 omringd door twee elliptische dwergstelsels, NGC 205 en M 32.
 
-De [Sombreronevel](sombrero.html){.two} (M 104 of NGC 4594) is te vinden
+De [Sombreronevel](/encyclopedie/sombrero) (M 104 of NGC 4594) is te vinden
 in het sterrenbeeld Maagd. De spiraalarmen van dit stelsel zijn
 gemarkeerd door banen stof en zijn strak om de kern ge wonden. Het
 sterrenstelsel staat op ongeveer 40 miljoen lichtjaar afstand en bevat
@@ -369,7 +383,7 @@ wellicht een biljoen sterren.
 Ons eigen melkwegstelsel, de melkweg, zou in zijaanzicht vanaf een
 vergelijkbare afstand op de Sombreronevel lijken.
 
-Het zwaarste sterrenstelsel dat we kennen is [M 87](m87.html){.two}. Het
+Het zwaarste sterrenstelsel dat we kennen is [M 87](/encyclopedie/m87). Het
 is een reusachtig elliptisch stelsel nabij het centrum van de grote
 Virgo-cluster, ongeveer 40 miljoen lichtjaar van ons verwijderd. In de
 buurt van de centrale gebieden bevinden zich bijna geen stof en gas; dit
@@ -378,11 +392,11 @@ de ruimte. Dit schijnbaar zo rustige object is op de zon en de maan na
 de helderste radiobron aan de hemel en een van de helderste
 röntgenbronnen. De schattingen van zijn massa lopen uiteen van een
 biljoen tot honderd biljoen zonnen. Uit de kern, die misschien een zeer
-zwaar [zwart gat](zwartega.html){.two} herbergt, stroomt een gasstraal
+zwaar [zwart gat](/encyclopedie/zwartega) herbergt, stroomt een gasstraal
 met een lengte van 100.000 lichtjaar. M 87 wordt omringd door duizenden
 bolvormige sterrenhopen.
 
-Het sterrenstelsel [Centaurus A](centauru.html){.two} (NGC 5128) is
+Het sterrenstelsel Centaurus A (NGC 5128) is
 wellicht een botsing tussen een groot elliptisch stelsel en een spiraal
 nevel waarvan wij de verpletterende armen in zijaanzicht zien.
 Tegenwoordig ziet men het stelsel meer als een reus achtig elliptisch
@@ -397,7 +411,7 @@ schuilgaat in het centrum.
 
 Centaurus A staat 14 miljoen lichtjaar ver weg; de radio lobben ervan
 zijn drie miljoen lichtjaar lang! Het
-[Wagenwielstelsel](wagenwielstelsel.html){.two} is een heel merkwaardig
+[Wagenwielstelsel](/encyclopedie/wagenwielstelsel) is een heel merkwaardig
 sterrenstelsel in het sterrenbeeld Beeldhouwer. Dit sterrenbeeld komt in
 ons land echter nooit boven de horizon. Het Wagenwielstelsel vertoont
 duidelijke sporen van een botsing met een ander sterrenstelsel. Zo heeft
@@ -408,13 +422,15 @@ Wagenwielstelsel staat op een afstand van ongeveer 500 miljoen
 lichtjaar.
 
 Het Wagenwielstelsel is een voorbeeld van een
-[starburststelsel](starburs.html){.two}. Dat zijn blauwe sterrenstelsels
+[starburststelsel](/encyclopedie/starburs). Dat zijn blauwe sterrenstelsels
 die veel jonge, hete en zware sterren bevatten. Dat duidt erop dat deze
 stelsels in hun recente verleden een periode van intense stervormig
-hebben doorgemaakt. Zo\'n geboortegolf van sterren wordt meestal
+hebben doorgemaakt. Zo'n geboortegolf van sterren wordt meestal
 aangeduid met het Engelse woord starburst.
 
 Starburst-stelsels zijn het resultaat van botsingen tussen twee
-«normale» sterrenstelsels. Bij zo\'n ontmoeting wordt het aanwezige gas
+«normale» sterrenstelsels. Bij zo'n ontmoeting wordt het aanwezige gas
 in de stelsels hevig in beroering gebracht en hier en daar samengedrukt.
 Dat leidt tot ware geboorte golven in de sterrenbevolking.
+
+---

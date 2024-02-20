@@ -4,10 +4,10 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
   -----------------------------------------------------------------------
-  ![De planeet Saturnus](plaatjes/saturnus.jpg){vspace="0" hspace="0"}\
+  ![De planeet Saturnus](/saturnus-modified.png)
+  
   **De planeet Saturnus**
 
   -----------------------------------------------------------------------
@@ -131,8 +131,8 @@ Ook dan zal het ringenstelsel vanaf de aarde enkele maanden niet
 zichtbaar zijn doordat we er precies van opzij tegenaan kijken.
 
   -----------------------------------------------------------------------
-  ![Doorsnede van Saturnus](plaatjes/saturnus_doorsnede.jpg){vspace="0"
-  hspace="0"}\
+  ![Doorsnede van Saturnus](/saturnus_doorsnede-modified.png)
+  
   **Doorsnede van Saturnus**
 
   -----------------------------------------------------------------------
@@ -266,7 +266,7 @@ de snelle aswenteling: in slechts 9 uur draait het maantje om zijn as.
 
 Phoebe is erg donker. Het kaatst slechts 6% van het op vallend zonlicht
 terug. Sommige sterrenkundigen denken dat Phoebe vroeger een
-[planeto‹de](planetoiden.html){.two} is geweest, die door de planeet is
+[planeto‹de](/encyclopedie/planetoiden) is geweest, die door de planeet is
 «ingevangen».
 
 Tenslotte vind je hieronder nog enkele numerieke gegevens over de
@@ -281,7 +281,7 @@ rotatieduur: 10u 39m 22,4s massa: 95,16112 (aarde = 1) gemiddelde
 dichtheid: 0,687 gram per kubieke cm zwaartekracht aan het oppervlak:
 0,931 (aarde = 1) gemiddelde temperatuur: 134K (-139°C) albedo: 34%
 absolute magnitude: -8,88 De *siderische omlooptijd* is de tijd waarin
-de planeet de gehele [dierenriem](dierenri.html){.two} doorloopt en op
+de planeet de gehele [dierenriem](/encyclopedie/dierenriem) doorloopt en op
 dezelfde plaats terugkomt ten opzichte van dezelfde ster, gezien vanaf
 de zon.
 
@@ -293,5 +293,7 @@ De *siderische rotatieduur* van de planeet is de tijd waarin de planeet
 éénmaal om haar as draait ten opzichte van de sterren.
 
 De *absolute magnitude* van een planeet is de helderheid van de planeet
-als zij op één [astronomische eenheid](astronom.html){.two} (AE) van de
+als zij op één [astronomische eenheid](/encyclopedie/ae) (AE) van de
 zon Šn tegelijk op één astronomische eenheid van de waar nemer staat.
+
+---

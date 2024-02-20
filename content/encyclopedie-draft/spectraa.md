@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De kleur van een ster hangt samen met zijn oppervlakte temperatuur. Hoe
 koeler de ster, des te roder zijn kleur.
 
@@ -28,9 +27,9 @@ Van iedere duizend sterren is er slechts één te vinden met
 spectraalklasse B. En van iedere miljoen sterren is er nog niet één te
 vinden met spectraalklasse O! Je ziet dat het niet zo moeilijk is als
 het lijkt. Probeer de volgorde van de letters uit je hoofd te leren. Dat
-kan bijvoorbeeld met het zinnetje \'Onze Buurman Aantjes Foto grafeert
-Graag Kleine Meisjes\', of \'Ons Bezoek Aan Franeker Garandeert
-Kostelijke Momenten.\' De beginletters van ieder woord in deze zinnetjes
+kan bijvoorbeeld met het zinnetje 'Onze Buurman Aantjes Foto grafeert
+Graag Kleine Meisjes', of 'Ons Bezoek Aan Franeker Garandeert
+Kostelijke Momenten.' De beginletters van ieder woord in deze zinnetjes
 vormen de juiste volgorde in de spectraalklassen.
 
 Nu is het natuurlijk niet zo dat een witte ster altijd precies een
@@ -55,3 +54,5 @@ onze eigen zon. Duidelijk is te zien dat de kleur van de zon geel is.
 Deze kleur komt overeen met een temperatuur van 6.000°. De juiste
 oppervlakte-temperatuur van de zon is echter iets lager, namelijk 5700°.
 Het spectraaltype van de zon is daarom ook niet precies G0, maar G2.
+
+---

@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Als we het hebben over sterevolutie, dan bedoelen we hun ontstaan, het
 gaan stralen, en tenslotte het uitdoven van de sterren. Dit alles duurt
 vele miljoenen, ja meestal zelfs miljarden jaren. Van de evolutie van
@@ -29,7 +28,7 @@ Door die zware druk stijgt in de kern de gasdruk, waardoor de
 temperatuur van het gas nog verder stijgt. Dit laatste is nu eenmaal een
 eigenschap van gassen. Tenslotte is de temperatuur zó hoog geworden (en
 is het gas dus zó heet) geworden, dat we het gas kunnen zien gloeien
-wanneer we met een voldoende grote kijker naar de \`geboren\' ster
+wanneer we met een voldoende grote kijker naar de `geboren' ster
 kijken. Bovendien is de temperatuur in het centrum hoog genoeg geworden
 om een kernreactie tot stand te brengen.
 
@@ -41,7 +40,9 @@ de temperatuur en dus ook de druk. Vaak wordt de op die manier
 uitdovende ster dan veel kleiner omdat het de hoge gasdruk was die de
 buitenste lagen ervan weerhield nog verder naar de kern te vallen.
 
-Veel meer over de evolutie van de zon kun je lezen bij [de\
-levensloop van de zon](levenslz.html){.two}. Sterren die veel zwaarder
+Veel meer over de evolutie van de zon kun je lezen bij [de
+levensloop van de zon](/encyclopedie/levenslz). Sterren die veel zwaarder
 zijn dan de zon evolueren duidelijk anders. Dat kun je lezen bij [de
-levensloop van zware sterren](zwareste.html){.two}.
+levensloop van zware sterren](/encyclopedie/zwareste).
+
+---

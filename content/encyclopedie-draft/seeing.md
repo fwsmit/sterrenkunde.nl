@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Seeing (spreek uit: sie-jing) is een Engels woord dat zicht betekent.
 Het geeft de onrust in de lucht aan. Voor goede sterrenkundige
 waarnemingen is het belangrijk dat de lucht rustig is, dus niet in
@@ -33,3 +32,5 @@ Antoniadi 5: Zeer slechte seeing\
 In de praktijk wordt deze schaal overigens niet veel gebruikt.
 
 Meestal wordt alleen gesproken over goede, matige of slechte seeing.
+
+---

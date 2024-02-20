@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 De *as* van de aarde is een denkbeeldige lijn die van de zuid pool van
 de aarde door het middelpunt naar de noordpool loopt. De aardas staat
 ten opzichte van de zon een beetje schuin. Zo\'n 23« graad. Dat is erg
@@ -32,3 +31,5 @@ grootste afstand van de aarde tot de zon bedraagt 152,1 miljoen
 kilometer. In december staat de aarde dus 5 miljoen kilometer dichterbij
 de zon dan in de zomer. Maar zoals verteld heeft dit niets te maken met
 de seizoenen.
+
+---

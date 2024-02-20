@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Als je op een heldere maanloze nacht, ver van de bewoonde wereld, naar
 de hemel kijkt, kun je enkele duizenden sterren zien. Sterren zijn
 eigenlijk zonnen. Onze zon is een gewone ster! Dat de zon zo helder is
@@ -47,19 +46,30 @@ In een jaar zitten 60x60x24x365,25 = 31.557.000 seconden.
 In die tijd legt het licht dus 31.557.000 x 300.000 = 9.467.280.000.000
 kilometer af. Dat is ongeveer 9,5 biljoen km en ruim 63.000 keer zover
 als de afstand aarde - zon! De ster die het dichtst bij de zon staat is
-[Proxima Centauri](proxima.html){.two}.
+[Proxima Centauri](/encyclopedie/proxima).
 
 Deze ster bevindt zich in het sterrenbeeld Centaurus. Proxima betekent
 dichtbij. Toch heeft het licht al iets meer dan 4 jaar nodig om vanaf
 die ster de aarde te bereiken.
 
-Hieronder vind je een lijstje van sterren die minder dan 10 lichtjaar
+Hieronder vind je een lijstje van een paar sterren die minder dan 10 lichtjaar
 van de aarde staan:
 
-\
-TABEL INVOEGEN\
-\
-/ [dubbelster](dubbelst.html){.two}-systeem.
+---
+|   |   |
+|---|---|
+**Naam** |**Afstand**
+Proxima Centauri |4.24 lj
+Alpha Centauri A |4.37 lj
+Alpha Centauri B |4.37 lj
+Barnard's Ster   |5.96 lj
+Wolf 359         |7.78 lj
+Lalanda 21185    |8.29 lj
+Sirius           |8.58 lj
+Ross 154         |9.68 lj
+Ross 248         |10.30 lj
+
+[dubbelster](/encyclopedie/dubbelster)-systeem.
 
 Daartoe behoren ook de sterren Alfa Centauri A en Alfa Centauri B. Deze
 sterren staan zo dicht bij elkaar dat we ze zonder kijker niet
@@ -125,7 +135,7 @@ Probeer ze eens aan de hemel te vinden en kijk eens of je inderdaad de
 kleur kunt onderscheiden.
 
 zien is dat ze niet allemaal even groot zijn. Hele grote sterren noemen
-we [reuzen](reuzenst.html){.two}. Sterren die nóg veel groter zijn dan
+we [reuzen](/encyclopedie/reuzenstl). Sterren die nóg veel groter zijn dan
 reuzen worden *superreuzen* genoemd. Betelgeuze in het sterrenbeeld
 Orion is zo\'n superreus. Deze ster heeft een middellijn van maar liefst
 meer dan 400 miljoen kilometer.
@@ -134,39 +144,42 @@ Dat is meer dan de doorsnede van de aardbaan om de zon. En dan te
 bedenken dat er sterren zijn die nog aanmerkelijk groter zijn dan
 Betelgeuze.
 
-Sterren die erg klein zijn noemen we [dwergen](dwerg.html){.two}. Een
+Sterren die erg klein zijn noemen we [dwergen](/encyclopedie/dwerg). Een
 van de kleinste normale sterren is de witte dwerg LP-327-16. Deze ster
 is pas in mei 1962 ontdekt. Zijn middellijn bedraagt slechts ongeveer
 1700 kilometer. Dat is slechts de helft van de middellijn van de maan.
 Er zijn echter ook sterren die weer veel kleiner zijn dan dwergsterren.
-Dat zijn bij voorbeeld [neutronensterren](neutrone.html){.two}. Deze
+Dat zijn bij voorbeeld neutronensterren. Deze
 hebben een middellijn van slechts 20 kilometer. Toch zijn ze wel even
 zwaar als de zon.
 
 Neutronensterren zijn dan ook hele bijzondere sterren.
 
 Hieronder vind je een lijst van de 16 helderste sterren. Ook is de
-helderheid ( [schijnbare magnitude](magnitud.html){.two}), de afstand in
+helderheid ( [schijnbare magnitude](/encyclopedie/magnitude)), de afstand in
 lichtjaar en het *spectraaltype* (Sp) gegeven.
 
-    naam        sterrenbeeld     helderheid    afstand in   Sp 
-                                 (magnitude)   lichtjaar 
-    Sirius      Grote Hond         - 1,46           9       A1 
-    Canopus     Kiel               - 0,72         365       F0 
-    Toliman     Centaurus          - 0,27           4       K5 
-    Arcturus    Boötes             - 0,04          35       K2 
-    Wega        Lier               + 0,03          26       A1 
-    Capella     Voerman            + 0,08          45       G5 
-    Rigel       Orion              + 0,11        1300       B8 
-    Procyon     Kleine Hond        + 0,38          11       F5 
-    Achernar    Eridanus           + 0,46          78       B9 
-    Betelgeuze  Orion              + 0,60         470       M2 
-    Hadar       Centaurus          + 0,61         325       B3 
-    Altair      Adelaar            + 0,77          16       A7 
-    Aldebaran   Stier              + 0,85          64       K5 
-    Acrux       Zuiderkruis        + 0,86         300       B1 
-    Antares     Schorpioen         + 0,94         365       M1 
-    Spica       Maagd              + 0,97         220       B2
+
+---
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+**Naam**        |**Sterrenbeeld**     |**Helderheid**    |**Afstand in lichtjaar**   |**Sp** 
+Sirius      |Grote Hond         |- 1,46         |9       |A1 
+Canopus     |Kiel               |- 0,72         |365     |F0 
+Toliman     |Centaurus          |- 0,27         |4       |K5 
+Arcturus    |Boötes             |- 0,04         |35      |K2 
+Wega        |Lier               |+ 0,03         |26      |A1 
+Capella     |Voerman            |+ 0,08         |45      |G5 
+Rigel       |Orion              |+ 0,11         |1300    |B8 
+Procyon     |Kleine Hond        |+ 0,38         |11      |F5 
+Achernar    |Eridanus           |+ 0,46         |78      |B9 
+Betelgeuze  |Orion              |+ 0,60         |470     |M2 
+Hadar       |Centaurus          |+ 0,61         |325     |B3 
+Altair      |Adelaar            |+ 0,77         |16      |A7 
+Aldebaran   |Stier              |+ 0,85         |64      |K5 
+Acrux       |Zuiderkruis        |+ 0,86         |300     |B1 
+Antares     |Schorpioen         |+ 0,94         |365     |M1 
+Spica       |Maagd              |+ 0,97         |220     |B2
 
 een ster zoals we die vanaf de aarde zien. Hoe kleiner de schijnbare
 magnitude hoe helderder de ster. De zwakste sterren die je onder goede
@@ -237,3 +250,5 @@ Zo kunnen we ook het soortelijk gewicht van sterren bepalen.
 Bij kleine sterren is het soortelijk gewicht erg groot omdat alle
 gasdeeltjes erg dicht op elkaar zitten. Grote sterren hebben een veel
 kleiner soortelijk gewicht.
+
+---

@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Als je de maan enkele dagen achtereen aan de hemel volgt, kun je
 duidelijk zien dat de maan langzaam maar zeker tussen de sterren
 doorschuift. Dit komt doordat de maan om de aarde draait. Na ongeveer
@@ -68,6 +67,8 @@ de halve maan een d maken. Het Franse woord *d*ernier betekent laatste.
 Dit woord begint met de letter d.
 
 Niet alleen de maan heeft schijngestalten. Ook de
-[binnenplaneten](binnenpl.html){.two} Mercurius en Venus vertonen
+[binnenplaneten](/encyclopedie/binnenpl) Mercurius en Venus vertonen
 schijngestalten. Vooral bij de heldere planeet Venus zijn ze al
 makkelijk in een kleine kijker te zien.
+
+---

@@ -4,15 +4,14 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Een supernova is een ster die een gigantische ontploffing ondergaat. Er
 blijft alleen een kleine, zeer zware kern over. Het meervoud van
 supernova is supernovae.
 
 Aan het eind van zijn levensloop heeft een zware ster alleen in zijn
 buitenste lagen nog waterstof. Meer naar binnen toe komen voornamelijk
-zwaardere [elementen](elemente.html){.two} voor zoals helium, koolstof,
+zwaardere [elementen](/encyclopedie/elementen) voor zoals helium, koolstof,
 magnesium, zuurstof en silicium. De kern van zo\'n ster bestaat zelfs
 voor een deel uit ijzer. Natuurlijk niet in vaste vorm. Daar is de
 temperatuur binnen in de ster immers veel te hoog voor. Alle stoffen
@@ -37,19 +36,19 @@ worden er jaarlijks enkele tientallen supernovae in andere
 sterrenstelsels waargenomen. Soms zijn deze net zo helder als het
 sterren stelsel zelf. Hieruit blijkt wel hoeveel energie er vrij komt
 tijdens zo\'n supernova-explosie. Die energie kan wel een miljoen keer
-groter zijn als bij een gewone [nova](nova.html){.two} uitbarsting. Een
+groter zijn als bij een gewone [nova](/encyclopedie/nova) uitbarsting. Een
 supernova heeft een lichtkracht die wel zo\'n vier miljard keer groter
 is dan de lichtkracht van de zon. Dat betekent dat er bij een supernova
 in één seconde net zoveel energie vrijkomt als bij de zon in vier
 miljard seconden. Dat is 130 jaar! Eén van de bekendste supernovae
 verscheen in het jaar 1054 in het sterrenbeeld Stier. Het restant van
 deze gigantische explosie kunnen we nog steeds waarnemen. Het is de
-beroemde [Krabnevel](krabnevel.html){.two}. De supernova waardoor de
+beroemde [Krabnevel](/encyclopedie/krabnevel). De supernova waardoor de
 Krabnevel is ontstaan was zó helder, dat hij zelfs 23 dagen lang midden
 op de dag met het blote oog zichtbaar is geweest. Het verschijnsel is
 beschreven in Chinese en Japanse kronieken. Vooral in China werd er in
 die tijd veel aan sterrenkunde gedaan. De grootste helderheid van de
-supernova uit 1054 is waarschijnlijk [magnitude](magnitud.html){.two}-6
+supernova uit 1054 is waarschijnlijk [magnitude](/encyclopedie/magnitude)-6
 geweest. Dat is ongeveer vijf keer zo helder dan de grootste helderheid
 van de planeet Venus. Of bijna honderd keer zo helder dan Sirius, de
 helderste ster aan de hemel.
@@ -112,7 +111,7 @@ materiaal met een snelheid van 10.000 kilometer per seconde. De
 helderheid nam snel toe tot 260 miljoen keer die van de zon, maar
 bereikte pas in juni 1987 z\'n maximum. Nog steeds worden de uitdijende
 resten van SN1987A scherp in de gaten gehouden. Recente opnamen met de
-[Hubble Space Telescope](hst.html){.two} laten prachtige, elkaar
+[Hubble Space Telescope](/encyclopedie/hst) laten prachtige, elkaar
 doorsnijdende ringen zien, waarschijnlijk een gevolg van het botsen van
 buitenlagen die op verschillende tijdstippen zijn afgestoten.
 
@@ -126,3 +125,5 @@ vermelde Krabnevel.
 Omdat zware sterren doorgaans vele miljoenen jaren leven, zijn
 supernovae zeldzaam. Het kan daarom best tientallen jaren duren eer er
 opnieuw een supernova zo dicht in onze buurt verschijnt.
+
+---
