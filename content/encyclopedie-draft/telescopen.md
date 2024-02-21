@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Als je buiten staat en naar de sterren kijkt, komt het licht van de
 sterren in je oog. Het gaat door je *oogpupil* heen. Dat is het zwarte
 ronde gebiedje in je oog. Je oog pupil is niet altijd even groot. Als je
@@ -279,7 +278,7 @@ gaat dat met een draaiknop, de *fijnregeling*. Het zou veel
 gemakkelijker zijn als je maar aan één knop hoefde te draaien. Dat is
 het geval bij een *parallactische montering*. Eén as is gericht op de
 *noordelijke hemelpool* (ongeveer in de richting van de
-[Poolster](umi.html){.two}), en de andere as staat hier loodrecht op.
+[Poolster](/encyclopedie/umi)), en de andere as staat hier loodrecht op.
 Als de kijker eenmaal gericht is, is het heel eenvoudig om een object in
 beeld te houden. Grote telescopen hebben vaak een opstelling met een
 motortje. Zo\'n *volgmotor* zorgt er automatisch voor dat de kijker met
@@ -305,7 +304,7 @@ samen wel eens een *spin* worden genoemd. De vangspiegel houdt wel een
 beetje sterlicht tegen, maar niet zo veel.
 
 Een reflector zoals we die hier beschreven hebben is voor het eerst
-gebouwd door de natuurkundige [Isaac Newton](newton.html){.two}. Daarom
+gebouwd door de natuurkundige [Isaac Newton](/encyclopedie/newton). Daarom
 wordt zo\'n reflector vaak een *Newtontelescoop* genoemd.
 
 Belangrijk bij iedere telescoop is de *lichtwinst* of *licht sterkte*!
@@ -325,10 +324,10 @@ refractor.
 
 Er zijn nog twee belangrijke eigenschappen van een teles coop. De
 grensmagnitude en het scheidend vermogen. De
-[grensmagnitude](telescop.html){.two} van een kijker is de helderheid
+[grensmagnitude](telescopen){ van een kijker is de helderheid
 van de zwakste sterren die je met die kijker nog net kunt zien.
 
-Het [scheidend vermogen](telescop.html){.two} van een telescoop geeft
+Het [scheidend vermogen](/encyclopedie/telescopen){ van een telescoop geeft
 aan hoe dicht twee even heldere sterren bij elkaar kunnen staan om ze in
 de kijker nog apart te kunnen zien. Van een kijker met een
 objectiefmiddellijn van 60 mm is de grens magnitude ongeveer 11. Het
@@ -339,7 +338,7 @@ een belangrijke rol. Daarom moeten we eigenlijk spreken over
 *theoretische grensmagnitude* en het *theoretisch scheidend vermogen*.
 
 Heel belangrijk bij iedere sterrenkundige waarneming is de
-[seeing](seeing.html){.two}. Dat is een engels woord, dat «zicht»
+[seeing](/encyclopedie/seeing). Dat is een engels woord, dat «zicht»
 betekent.
 
 Je spreekt het uit als sie-jing. Bij een goede seeing is de lucht erg
@@ -367,7 +366,7 @@ bruikbaar beeld meer.
 Of de telescoop heeft een tafelstatief: veel te klein! Of de lenzen zijn
 niet van een goede glassoort gemaakt.
 
-Een goede, goedkope telescoop is de [JWG](jwg.html){.two}-kijker. Het is
+Een goede, goedkope telescoop is de [JWG](/encyclopedie/jwg)-kijker. Het is
 een refractor met een lensdiameter van 60 mm en een brand puntsafstand
 van één meter (1000 mm). Het oculair dat er bij hoort heeft een
 brandpuntsafstand van 25 mm. Kun je nu zelf uitrekenen wat de vergroting
@@ -379,12 +378,14 @@ leiding gebeurd.
 De JWG (Jongerenwerkgroep van de Nederlandse Vereniging voor Weer- en
 Sterrenkunde) heeft echter ook een uitgebreide bouwbeschrijving van deze
 kijker uitgegeven. Bovendien is de benodigde optiek bij de JWG te koop.
-Aan materiaal kost deze kijker ongeveer Ÿ 350.\--. Van dit bedrag kosten
+Aan materiaal kost deze kijker ongeveer Ÿ 350.--. Van dit bedrag kosten
 het objectief, het zenitprisma en het oculair bij elkaar zo\'n Ÿ
-250.\--. Voor inlichtingen kun je kontakt opnemen met de
+250.--. Voor inlichtingen kun je kontakt opnemen met de
 Jongerenwerkgroep. Het adres is: Bureau JWG, Zonnenburg 2, 3512 NL
 Utrecht.
 
 In dit verhaal hebben we het nog niet gehad over hele grote telescopen
 die tegenwoordig in gebruik zijn. Wil je hier meer over weten kijk dan
-bij het trefwoord [superkijkers](superkij.html){.two}.
+bij het trefwoord superkijkers.
+
+---

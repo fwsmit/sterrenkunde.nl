@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Temperaturen worden in graden aangegeven. Vaak gebruiken we daarvoor het
 teken °. Wat betreft temperatuur kennen we ver schillende
 temperatuurschalen. De bekendste is de *Celsiusschaal*. Deze is genoemd
@@ -53,10 +52,15 @@ graden Fahrenheit om te zetten in graden Celsius neem je eerst 68 - 32 =
 
 Dus 68°F komt overeen met 20°C. Kijk maar in het lijstje hieronder:
 
-             °C                 °F                 K
-           -17,8                0                255,2
-             0                 32                273
-            10                 50                283
-            20                 68                293
-            37,8              100                310,9
-           100                212                373
+---
+|   |   |   |
+|---|---|---|
+**°C**                 |**°F**                   |**K**
+           |-17,8              |  0                |255,2
+           |  0                | 32                |273
+           | 10                | 50                |283
+           | 20                | 68                |293
+           | 37,8              |100                |310,9
+           |100                |212                |373
+           
+---

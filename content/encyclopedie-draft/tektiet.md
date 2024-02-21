@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Tektieten zijn kleine stukjes materie (meestal niet meer dan enkele
 centimeters in doorsnede) die bestaan uit een glasachtig materiaal met
 naar verhouding veel aluminium, kalium en calcium.
@@ -39,3 +38,5 @@ reusachtige meteoriet een deel van de materie door de schokdruk is
 verglaasd en tot buiten de atmosfeer weggeslingerd.
 
 Bij terugkeer in de atmosfeer verkregen zij een smeltkorst.
+
+---

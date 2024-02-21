@@ -4,9 +4,8 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-De aarde draait in een [ellips](ellips.html){.two} om de zon. Daardoor
+---
+De aarde draait in een [ellips](/encyclopedie/ellips) om de zon. Daardoor
 is de afstand aarde zon niet altijd hetzelfde. Dit heeft tot gevolg dat
 ook de snelheid waarmee de aarde om de zon draait niet konstant is. Deze
 snelheid is het grootst wanneer het op het noordelijk halfrond van de
@@ -19,11 +18,12 @@ jaar een cirkel aan de hemel te beschrijven.
 
 Omdat de snelheid van de aarde in zijn baan om de zon niet gelijk is,
 zal ook de schijnbare beweging van de zon aan de hemel niet gelijk zijn.
-Daarom werken sterrenkundigen vaak met een [middelbare
-zon](dag.html){.two}. De snelheid van deze middelbare zon is precies
+Daarom werken sterrenkundigen vaak met een [middelbare zon](/encyclopedie/dag). De snelheid van deze middelbare zon is precies
 gelijk aan de *gemiddelde snelheid* van de echte zon. Het tijdsverloop
 tussen de plaats van de echte Šn de denkbeeldige (middelbare) zon,
 noemen we de tijdvereffening.
 
 De waarde ervan is nooit groter dan 17 minuten. Viermaal per jaar is de
 waarde nul.
+
+---
