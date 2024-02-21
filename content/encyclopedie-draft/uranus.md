@@ -4,10 +4,10 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
   -----------------------------------------------------------------------
-  ![De planeet Uranus](plaatjes/uranus.jpg){vspace="0" hspace="0"}\
+  ![De planeet Uranus](/uranus-modified.png)
+  
   **De planeet Uranus**
 
   -----------------------------------------------------------------------
@@ -15,8 +15,7 @@ draft = false
 In de Oudheid kende men slechts zes planeten. Dat waren Mercurius,
 Venus, Aarde, Mars, Jupiter en Saturnus. De ontdekking van Uranus
 gebeurde ook totaal onverwacht. Niemand verwachtte eigenlijk dat er nóg
-een planeet zou zijn. Op 13 maart 1781 zag [William
-Herschel](herschel.html){.two} een wazig vlekje in het sterrenbeeld
+een planeet zou zijn. Op 13 maart 1781 zag [William Herschel](/encyclopedie/herschel) een wazig vlekje in het sterrenbeeld
 Tweelingen. Hij dacht een nieuwe komeet te hebben gevonden. Toen de baan
 wat beter bekend werd, bleek het echter een nieuwe planeet te zijn.
 
@@ -29,8 +28,8 @@ het de Duitse sterrenkundige *Bode* geweest, die voor de nieuw ontdekte
 planeet de naam Uranus heeft voorgesteld.
 
   -----------------------------------------------------------------------
-  ![Doorsnede van Uranus](plaatjes/uranus_doorsnede.jpg){vspace="0"
-  hspace="0"}\
+  ![Doorsnede van Uranus](/uranus_doorsnede-modified.png)
+
   **Doorsnede van Uranus**
 
   -----------------------------------------------------------------------
@@ -51,3 +50,5 @@ dan de zon staat dan Jupiter of Saturnus.
 Bovendien is de planeet aanmerkelijk kleiner. Toch is Uranus veel groter
 dan bijvoorbeeld de aarde. Haar middellijn bedraagt ongeveer 50.800
 kilometer. De gemiddelde afstand tot de zon is 19,19
+
+---

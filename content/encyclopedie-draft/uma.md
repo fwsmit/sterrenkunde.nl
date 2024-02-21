@@ -4,11 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Het sterrenbeeld Grote Beer is wel het bekendste sterren beeld aan de
-hemel. Het behoort tot de [circompolaire
-sterrenbeelden](circompolair.html){.two}. Dat betekent dat het een
+hemel. Het behoort tot de [circompolaire sterrenbeelden](/encyclopedie/circompolair). Dat betekent dat het een
 sterrenbeeld is dat altijd boven de horizon te vinden is. In onze
 streken komt de Grote Beer nooit op en gaat nooit onder.
 
@@ -45,21 +43,24 @@ kwam, met lange staart en al.
 
 Hieronder vind je nog enkele gegevens over de bekende ze ven sterren van
 de steelpan. Achter de Griekse letteraan duiding vind je de naam van de
-ster, de afstand in [lichtjaar](lichtjaa.html){.two}, het
-[spectraaltype](spectraa.html){.two}, de [schijnbare
-magnitude](magnitud.html){.two} en tenslotte de [absolute
-magnitude](absolute.html){.two}.
+ster, de afstand in [lichtjaar](/encyclopedie/lichtjaar), het
+[spectraaltype](/encyclopedie/spectraa), de [schijnbare magnitude](/encyclopedie/magnitude) en tenslotte de [absolute magnitude](/encyclopedie/absolute).
 
-     
-    alfa UMa      Dubhe           96 lj   gK0    1,95   -0,5 
-    beta UMa      Merak           76 lj    A1    2,44    0,6 
-    gamma UMa     Phekda          80 lj    A0    2,54    0,6 
-    delta UMa     Megrez          76 lj    A3    3,44    1,6 
-    epsilon UMa   Alioth          78 lj    A0    1,68   -0,2 
-    theta UMa     Mizar           80 lj    A2    2,40    0,6 
-    eta UMa       Benetnash      163 lj    B3    1,91   -1,6 
+---
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+**Letteraanduiding** |**Naam** |**Afstand** |**Spectraaltype** |**Schijnbare magnitude** |**Absolute magnitude**
+alfa UMa      |Dubhe           |96 lj    |gK0   |1,95   |-0,5 
+    beta UMa      |Merak           |76 lj    |A1    |2,44   |0,6 
+    gamma UMa     |Phekda          |80 lj    |A0    |2,54   |0,6 
+    delta UMa     |Megrez          |76 lj    |A3    |3,44   |1,6 
+    epsilon UMa   |Alioth          |78 lj    |A0    |1,68   |-0,2 
+    theta UMa     |Mizar           |80 lj    |A2    |2,40   |0,6 
+    eta UMa       |Benetnash       |163 lj   |B3    |1,91   |-1,6 
 
-De ster *Mizar* is een prachtige [dubbelster](dubbelst.html){.two}. Het
+---
+
+De ster *Mizar* is een prachtige [dubbelster](/encyclopedie/dubbelster). Het
 is de enige dubbelster waarvan de begeleider (Alcor) met het blote oog
 zichtbaar is. Dit dubbelstersysteem bevat overigens nog meerdere
 sterren, maar die kunnen we niet zien.
@@ -70,5 +71,7 @@ het hebben over de ster alfa (a) van het sterrenbeeld Grote Beer zeggen
 we a Ursae Maioris of we schrijven a UMa want de officiële afkorting van
 het sterrenbeeld Grote Beer is UMa.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die we kennen.
+
+---
