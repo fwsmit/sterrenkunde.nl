@@ -4,13 +4,6 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
-  -----------------------------------------------------------------------
-  ![Westerbork Synthese Radio
-  Telescoop](plaatjes/westerbork.jpg){vspace="0" hspace="0"}\
-  **Westerbork Synthese Radio Telescoop**
-
   -----------------------------------------------------------------------
 
 Omdat *radiostraling* wat betreft zijn aard eigenlijk hetzelfde is als
@@ -18,7 +11,7 @@ licht, kan men radiostraling waarnemen met een spiegel telescoop volgens
 hetzelfde principe als een optische telescoop.
 
 Alleen zijn de afmetingen veel groter. De beeldscherpte wordt minder,
-als de [golflengte](straling.html){.two} van de waar te nemen straling
+als de [golflengte](/encyclopedie/straling) van de waar te nemen straling
 groter wordt. Vandaar, dat radiotelescopen veel groter moeten zijn dan
 optische telescopen. Zelfs geldt in het algemeen dat een radiotelescoop
 met afmetingen van zo\'n 25 meter een slechtere afbeelding geeft dan het
@@ -63,3 +56,5 @@ Toen deze radio-telescoop in 1956 in ge bruik werd genomen was deze
 korte tijd de grootste ter wereld. In Dwingeloo is een bezoek aan het
 Planetron zeker de moeite waard. Het adres is Drift 11b, 7991 AA
 Dwingeloo, tel. 0521-593535.
+
+---
