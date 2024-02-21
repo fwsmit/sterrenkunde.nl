@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Een bezoek aan Saturnus en de andere buitenste planeten leek tot 1961
 ver uit te gaan boven de technische mogelijkheden.
 
@@ -51,15 +50,15 @@ De Grand Tour was een ambitieus en kostbaar plan, ontworpen in het
 enthousiasme van de Apollo-jaren. De Verenigde Staten begonnen zich
 terug te trekken uit het grote ruimte-onderzoek.
 
-De latere Apollo\'s werden afgelast en NASA kreeg het fiscale jaar 1971
-slechts een derde van de benodigde \$ 30 miljoen voor de Grand Tour. De
+De latere Apollo's werden afgelast en NASA kreeg het fiscale jaar 1971
+slechts een derde van de benodigde $ 30 miljoen voor de Grand Tour. De
 plannen moesten worden herzien om met kleinere budgetten te kunnen
 rondkomen.
 
 Het nieuwe plan liet de drie buitenste planeten Uranus, Neptunus en
-Pluto vallen. Op zo\'n manier kon de levensduur korter zijn, waardoor
+Pluto vallen. Op zo'n manier kon de levensduur korter zijn, waardoor
 minder eisen behoefden te worden ge steld aan de apparatuur. De totale
-kosten zouden \$ 250 miljoen bedragen, een derde van dat van de
+kosten zouden $ 250 miljoen bedragen, een derde van dat van de
 oorspronkelijke Grand Tour.
 
 Omdat het ontwerp gebaseerd was op de beproefde Mariner
@@ -104,3 +103,5 @@ augustus 1977 heeft deze ruimtesonde een afstand van 10,07 miljard
 kilometer afgelegd. Beide ruimtevaartuigen waren in mei 1995 in goede
 conditie en gingen door met het waarnemen van de interplanetaire ruimte
 met behulp van verschillende instrumenten.
+
+---

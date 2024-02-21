@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Afkorting van « *Very Large Array*» een radio-sterrenwacht die in 1980
 in de woestijn op de vlakte van San Augustin bij Socorro, in de
 Amerikaanse staat New Mexico werd gebouwd.
@@ -18,3 +17,5 @@ meest geschikt is voor de vereiste waarnemingen. Met elkaar hebben de
 telescopen een oplossend vermogen dat beter is dan dat van de allerbeste
 radiotelescopen. De bouw van deze radiosterrenwacht heeft 100 miljoen
 dollar gekost.
+
+---

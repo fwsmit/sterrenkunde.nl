@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Het sterrenbeeld Vliegende Vis is voor de eerste maal ver meld in het
 boek «Uranometrie» van de Duitse sterrenkundige Johann Bayer
 (1572-1625). Net als Boötes lijkt dit sterren beeld wel wat op een
@@ -20,5 +19,7 @@ hebben over de ster alfa (a) van het sterrenbeeld Vliegende Vis zeggen
 we a Volantis en we schrijven a Vol, want de officiële afkorting van het
 sterrenbeeld Vliegende Vis is Vol.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---

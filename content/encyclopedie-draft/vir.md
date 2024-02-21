@@ -4,14 +4,13 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Tussen Boötes en de Leeuw staat het sterrenbeeld Maagd. In het voorjaar
 kun je het sterrenbeeld laag in het zuiden vinden. De helderste sterren
 van de Maagd vormen een soort stoel. De helderste ster staat dan in de
 voorpoot van de stoel. Deze ster heet Spica. Spica staat vrijwel precies
-op de [ecliptica](ecliptic.html){.two}: de Maagd is dus één van de
-twaalf sterren beelden van de [dierenriem](dierenri.html){.two}.
+op de [ecliptica](/encyclopedie/ecliptic): de Maagd is dus één van de
+twaalf sterren beelden van de [dierenriem](/encyclopedie/dierenriem).
 
 In de mythologie staat de maagd als symbool voor de Griekse godin
 Deméter, de godin van de landbouw. Deméter had een dochter die
@@ -28,12 +27,20 @@ dat Deméter terug is, en het koren weer zal gaan groeien.\
 Hieronder vind je nog wat gegevens over enkele sterren van het
 sterrenbeeld Maagd. In de eerste kolom vind je de Griekse
 letteraanduiding met daarachter de naam. Vervolgens geven we de afstand
-in [lichtjaar](lichtjaa.html){.two}, het
-[spectraaltype](spectraa.html){.two}, de [schijnbare
-magnitude](magnitud.html){.two} en de [absolute
-magnitude](absolute.html){.two}.\
-alfa Vir Spica 220 lj B2 0,97 -2,9 beta Vir Alaraph 32 lj F8 3,80 3,8
-gamma Vir Arich 35 lj F0 2,91 2,7 delta Vir 180 lj gM3 3,66 -0,1\
+in [lichtjaar](/encyclopedie/lichtjaar), het
+[spectraaltype](/encyclopedie/spectraa), de [schijnbare magnitude](/encyclopedie/magnitude) en de [absolute magnitude](absolute).
+
+---
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+**Letteraanduiding** |**Naam** |**Afstand** |**Spectraaltype** |**Schijnbare magnitude** |**Absolute magnitude**
+alfa Vir             |Spica    |220 lj      |B2                |0,97                     |-2,9 
+gamma Vir            |Arich    |35 lj       |F0                |2,91                     |2,7 
+delta Vir |N/A |180 lj |gM3 |3,66 |-0,1
+beta Vir  |Alaraph |32 lj |F8 |3,80 |3,8
+
+---
+
 De kleine letter g bij het spectraaltype geeft aan dat we met een
 reuzenster te maken hebben (giant is het Engelse woord voor reus).
 
@@ -44,5 +51,7 @@ Als we het hebben over de ster alfa (a) van het sterrenbeeld Maagd
 zeggen we a Virginis of we schrijven a Vir want de officiële afkorting
 van het sterrenbeeld Maagd is Vir.
 
-Bij het trefwoord [sterrenbeelden](sterrenb.html){.two} vind je een
+Bij het trefwoord [sterrenbeelden](/encyclopedie/sterrenbeeld) vind je een
 lijst van alle 88 sterrenbeelden die er zijn.
+
+---
