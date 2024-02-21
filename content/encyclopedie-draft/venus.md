@@ -4,10 +4,10 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
   -----------------------------------------------------------------------
-  ![De planeet Venus](plaatjes/venus.jpg){vspace="0" hspace="0"}\
+  ![De planeet Venus](/venus-modified.png)
+  
   **De planeet Venus**
 
   -----------------------------------------------------------------------
@@ -52,8 +52,8 @@ Tot zo\'n vijftig jaar geleden dachten de sterrenkundigen dat de planeet
 Venus als een tweeling op de aarde leek.
 
   -----------------------------------------------------------------------
-  ![Doorsnede van Venus](plaatjes/venus_doorsnede.jpg){vspace="0"
-  hspace="0"}\
+  ![Doorsnede van Venus](/venus_doorsnede-modified.png)
+  
   **Doorsnede van de Venus**
 
   -----------------------------------------------------------------------
@@ -243,11 +243,15 @@ aarde Venus over de zonneschijf trekken. Dit verschijnsel noemen we een
 Dat blijkt wel uit het lijstje hieronder waarin je alle Venusovergangen
 tussen de jaren 1600 en 2200 ziet:
 
-    6 december 1631            6 december 1882
-    4 december 1639            8 juni     2004
-    6 juni     1761            6 juni     2012
-    3 juni     1769           11 december 2117
-    9 december 1874            8 december 2125
+
+---
+|   |   |
+|---|---|
+6 december 1631            |6 december 1882
+4 december 1639            |8 juni     2004
+6 juni     1761            |6 juni     2012
+3 juni     1769           |11 december 2117
+9 december 1874            |8 december 2125
 
 Hieronder vind je een aantal numerieke gegevens over de planeet Venus.
 Tenslotte zetten we nog eens op een rijtje welke ruimtevoertuigen Venus
@@ -268,10 +272,11 @@ gemiddelde dichtheid: 5,245 gram per kubieke cm\
 zwaartekracht aan het oppervlak: 0,90695 (aarde = 1)\
 gemiddelde temperatuur: 729 K (456°C)\
 albedo: 76%\
-absolute magnitude -4,29\
-\
+absolute magnitude -4,29
+
+
 De *siderische omlooptijd* is de tijd waarin de planeet de gehele
-[dierenriem](dierenri.html){.two} doorloopt en op dezelfde plaats
+[dierenriem](/encyclopedie/dierenriem) doorloopt en op dezelfde plaats
 terugkomt ten opzichte van dezelfde ster, gezien vanaf de zon.
 
 De *synodische periode* is de tijdsduur die een planeet nodig heeft om,
@@ -282,150 +287,37 @@ De *siderische rotatieduur* van de planeet is de tijd waarin de planeet
 éénmaal om haar as draait ten opzichte van de sterren.
 
 De *abslute magnitude* van een planeet is de helderheid van de planeet
-als zij op één [astronomische eenheid](astronom.html){.two} (AE) van de
+als zij op één [astronomische eenheid](/encyclopedie/ae) (AE) van de
 zon en tegelijk op één astronomische eenheid van de waarnemer staat.
 
-Aankomst Toestel Bijzonderheid
 
-19 mei 1961
-
-Venera 1
-
-passage op 100.000 km; contact werd verbroken op 7 miljoen km van de
-aarde
-
-14 dec 1962
-
-Mariner 2
-
-passage op 35.000 km; gegevens doorgeseind
-
-27 feb 1966
-
-Venera 2
-
-passage op 24.000 km afstand; daarna in baan om zon; geen gegevens over
-Venus doorgeseind
-
-1 mrt 1966
-
-Venera 3
-
-eerste (harde) landing op Venus; geen gegevens doorgeseind
-
-18 okt 1967
-
-Venera 4
-
-gegevens doorgeseind tijdens 94 min. durende afdaling in de atmosfeer
-
-19 okt 1967
-
-Mariner 5
-
-passage op 3990 km afstand; gegevens doorgeseind
-
-16 mei 1969
-
-Venera 5
-
-afdaling in de dampkring; gegevens doorgeseind
-
-17 mei 1969
-
-Venera 6
-
-afdaling in de dampkring; gegevens doorgeseind; zachte landing mislukt
-
-15 dec 1970
-
-Venera 7
-
-zachte landing; 23 min. lang gegevens doorgeseind vanaf het
-Venusoppervlak
-
-22 jul 1972
-
-Venera 8
-
-zachte landing; 50 min. lang gegevens doorgeseind vanaf het
-Venusoppervlak
-
-5 feb 1974
-
-Mariner 10
-
-passage op 5760 km afstand tijdens vlucht naar Mercurius; foto\'s van
-bovenste wolkenlagen en andere ge ONTBREKENDE TEKST
-
-22 okt 1975
-
-Venera 9
-
-zachte landing; 53 min. lang gegevens doorgeseind vanaf het oppervlak;
-eerste tv-beelden
-
-25 okt 1975
-
-Venera 10
-
-zachte landing; 65 min. lang gegevens doorgeseind vanaf het oppervlak;
-tevens één foto
-
-4 dec 1978
-
-Pioneer Venus 1
-
-in baan rond Venus met laagste punt op 145 km hoogte; veel waardevolle
-gegevens
-
-9 dec 1978
-
-Pioneer Venus 2
-
-meervoudige sonde met 4 landingen op Venus; veel waardevolle gegevens
-
-21 dec 1978
-
-Venera 12
-
-zachte landing; werkte nog 110 min vanaf Venus-oppervlak
-
-25 dec 1978
-
-Venera 11
-
-zachte landing; werkte nog 95 min vanaf Venus-oppervlak
-
-1 mrt 1982
-
-Venera 13
-
-zachte landing; gegevens over atmosfeer en oppervlak (127 min); één foto
-
-5 mrt 1982
-
-Venera 14
-
-zachte landing; gegevens over atmosfeer en oppervlak (57 min); enkele
-kleurenfoto\'s
-
-10 okt 1983 Venera 15
-
-in baan om Venus; radarbeelden van het oppervlak van Venus
-
-14 okt 1983 Venera 16
-
-in baan om Venus; radarbeelden van het oppervlak van Venus
-
-11 jun 1985 Vega 1
-
-op weg naar komeet Halley
-
-15 jun 1985 Vega 2
-
-op weg naar komeet Halley
-
-10 aug 1990 Magellan
-
-bracht planeet met radar in kaart
+---
+|   |   |   |
+|---|---|---|
+**Aankomst Toestel Bijzonderheid**
+19 mei 1961 |Venera 1  |passage op 100.000 km; contact werd verbroken op 7 miljoen km van de aarde
+14 dec 1962 |Mariner 2 |passage op 35.000 km; gegevens doorgeseind
+27 feb 1966 |Venera 2  |passage op 24.000 km afstand; daarna in baan om zon; geen gegevens overVenus doorgeseind
+1 mrt 1966  |Venera 3  |eerste (harde) landing op Venus; geen gegevens doorgeseind
+18 okt 1967 |Venera 4  |gegevens doorgeseind tijdens 94 min. durende afdaling in de atmosfeer
+19 okt 1967 |Mariner 5 |passage op 3990 km afstand; gegevens doorgeseind
+16 mei 1969 |Venera 5  |afdaling in de dampkring; gegevens doorgeseind
+17 mei 1969 |Venera 6  |afdaling in de dampkring; gegevens doorgeseind; zachte landing mislukt
+15 dec 1970 |Venera 7  |zachte landing; 23 min. lang gegevens doorgeseind vanaf het Venusoppervlak
+22 jul 1972 |Venera 8  |zachte landing; 50 min. lang gegevens doorgeseind vanaf het Venusoppervlak
+5 feb 1974  |Mariner 10|passage op 5760 km afstand tijdens vlucht naar Mercurius; foto's van bovenste wolkenlagen
+22 okt 1975 |Venera 9  |zachte landing; 53 min. lang gegevens doorgeseind vanaf het oppervlak; eerste tv-beelden
+25 okt 1975 |Venera 10 |zachte landing; 65 min. lang gegevens doorgeseind vanaf het oppervlak; tevens één foto
+4 dec 1978  |Pioneer Venus 1 |in baan rond Venus met laagste punt op 145 km hoogte; veel waardevolle gegevens
+9 dec 1978  |Pioneer Venus 2 |meervoudige sonde met 4 landingen op Venus; veel waardevolle gegevens
+21 dec 1978 |Venera 12       |zachte landing; werkte nog 110 min vanaf Venus-oppervlak
+25 dec 1978 |Venera 11       |zachte landing; werkte nog 95 min vanaf Venus-oppervlak
+1 mrt 1982  |Venera 13       |zachte landing; gegevens over atmosfeer en oppervlak (127 min); één foto
+5 mrt 1982  |Venera 14       |zachte landing; gegevens over atmosfeer en oppervlak (57 min); enkele kleurenfoto's
+10 okt 1983 |Venera 15       |in baan om Venus; radarbeelden van het oppervlak van Venus
+14 okt 1983 |Venera 16       |in baan om Venus; radarbeelden van het oppervlak van Venus
+11 jun 1985 |Vega 1          |op weg naar komeet Halley
+15 jun 1985 |Vega 2          |op weg naar komeet Halley
+10 aug 1990 |Magellan        |bracht planeet met radar in kaart
+
+---

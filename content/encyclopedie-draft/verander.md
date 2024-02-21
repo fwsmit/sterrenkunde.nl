@@ -4,14 +4,13 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Sterren waarvan de helderheid niet altijd hetzelfde is noemen we
 veranderlijke sterren. De ene keer zijn ze wat helderder dan de andere
 keer.
 
 Sommige veranderlijke sterren zijn vrij helder. Bijvoorbeeld de ster
-[Algol](algol.html){.two} in het sterrenbeeld Perseus. Of *ë Cephei*
+[Algol](/encyclopedie/algol) in het sterrenbeeld Perseus. Of *ë Cephei*
 (delta in het sterrenbeeld Cepheus). Aan de naam van deze twee sterren
 kun je niet zien dat ze veranderlijk zijn. De meeste veranderlijke
 sterren zijn echter veel zwakker. Ze krijgen een speciale aanduiding
@@ -98,16 +97,15 @@ Langperiodieke veranderlijken of Mira-sterren f) Halfregelmatigen g) RV
 Tauri-sterren h) Peculiaire A-sterren of Ap-sterren i) Onregelmatig
 veranderlijke sterren* Dit verhaal zou te lang worden als we hier al
 deze typen afzonderlijk gaan bespreken. Wil je die informatie toch
-weten, kijk dan bij [pulserende sterren.\
-](pulseren.html){.two}De groep eruptieve veranderlijke sterren wordt
+weten, kijk dan bij [pulserende sterren.](/encyclopedie/pulseren) De groep eruptieve veranderlijke sterren wordt
 onder verdeeld in de volgende acht typen: *a) Novae b) Supernovae c) R
 Coronae Borealis-sterren d) RW Aurigae-sterren e) T Tauri-sterren f) U
 Geminorum-sterren g) Z Camelopardalis-sterren h) UV Ceti-sterren* Meer
-informatie over deze afzonderlijke typen kun je vinden bij [eruptieve
-sterren.\
-](eruptiev.html){.two}De derde groep veranderlijke sterren, de
+informatie over deze afzonderlijke typen kun je vinden bij [eruptieve sterren.](/encyclopedie/eruptiev) De derde groep veranderlijke sterren, de
 bedekkingsverander lijken of eclips-dubbelsterren worden in 4 typen
 onderverdeeld: *¿ : ' a) Algol-sterren b) BŠta Lyrae-sterren c) W Ursae
 Majoris-sterren d) Röntgen-dubbelsterren* Over deze typen veranderlijke
 sterren kun je meer lezen bij het trefwoord
-[bedekkingsveranderlijken](bedekkin.html){.two}.
+[bedekkingsveranderlijken](/encyclopedie/bedekking).
+
+---
