@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Het zodiakaal licht dat kort voor zonsopkomst of na zons ondergang als
 een zwakke gloed aan de hemel te zien is, werd al eeuwen geleden
 waargenomen. We weten nu dat dit verschijnsel veroorzaakt wordt door
@@ -16,18 +15,18 @@ Als je op een heldere, maanloze nacht naar buiten gaat, kort voordat de
 schemering begint, zie je in het oosten soms een zwakke kegelvormige
 lichtvlek die een stuk van 15° tot 20° van de horizon beslaat en zich
 als een vinger uitstrekt in de richting van het
-[zenit](hoeken.html){.two}. Indien je wilt vermijden dat je moet opstaan
+[zenit](/encyclopedie/hoeken). Indien je wilt vermijden dat je moet opstaan
 voordat het licht geworden is, kun je hetzelfde verschijnsel ook in de
 avond waar nemen. Je moet dan kort na zonsondergang (als de schemering
 ten einde loopt) in westelijke richting kijken. Het is echter een heel
 zwak lichtschijnsel en daarom mag je geen storende lichtbronnen in de
-buurt hebben staan. Zo\'n plaats is tegenwoordig niet zo gemakkelijk
+buurt hebben staan. Zo'n plaats is tegenwoordig niet zo gemakkelijk
 meer te vinden, aangezien vrijwel overal de straatverlichting te hinder
 lijk is. De beste tijd om het zodiakaal licht op gematigde breedte te
 zien is in de lente of herfst.
 
 Als je naar de tropen reist, heb je meer kans het schijnsel te zien.
-Niet alleen omdat je in zo\'n geval in streken komt waar de lucht
+Niet alleen omdat je in zo'n geval in streken komt waar de lucht
 meestal helderder is, maar ook omdat de kegel van het zodiakaal licht
 een grotere hoek maakt met de horizon, zodat een deel daarvan door
 hogere, minder absorberende luchtlagen schijnt.
@@ -36,7 +35,7 @@ Het zodiakaal licht is niet interessant om te fotograferen, want er zijn
 in het geheel geen structuren te onderscheiden.
 
 Het schijnsel is ongeveer twee keer zo helder als de
-[melkweg](melkweg.html){.two}, en daardoor zal het vooral op zuidelijker
+[melkweg](/encyclopedie/melkweg), en daardoor zal het vooral op zuidelijker
 breedte graden misschien wel lukken het op een gevoelige film vast te
 leggen.
 
@@ -47,7 +46,7 @@ sinds de ruimte vaart konden de sterrenkundigen de theorie bevestigen
 dat het lichtschijnsel ontstaat als licht van de zon ge reflecteerd werd
 door interplanetair stof. In het vlak van het zonnestelsel bevinden zich
 ontelbare stofdeeltjes. Het lichtschijnsel is daardoor altijd in de
-buurt van de [ecliptica](ecliptic.html){.two} te zien, en dat is de
+buurt van de [ecliptica](/encyclopedie/ecliptic) te zien, en dat is de
 reden dat wij het als een schuinstaande lichtkegel waarnemen. Het
 verklaart ook waarom het schijnsel het best waargenomen kan worden in de
 lente en herfst. De zon staat dan in de eveningspunten.
@@ -96,3 +95,6 @@ beïnvloedt hun metingen niet, evenmin als de verstrooiing van het
 zonlicht in de dampkring (die de oorzaak is van de blauwe kleur van de
 daghemel). Dat betekent dat radio-astronomen overdag even goed kunnen
 waarnemen als \'s nachts, en dat is een duidelijk voordeel.
+
+---
+

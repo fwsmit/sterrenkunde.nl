@@ -4,10 +4,9 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Bij het schrijven van dit verhaal zijn we er van uit gegaan dat je het
-verhaal over de « [levensloop van de zon](levenslz.html){.two}» goed
+verhaal over de « [levensloop van de zon](/encyclopedie/levenslz)» goed
 hebt gelezen. Is dat niet het geval, dan raden we je dringend aan dit
 eerst te doen. Anders zullen veel zaken die je in dit verhaal tegenkomt
 onduidelijk blijven.
@@ -25,13 +24,12 @@ sterren is de evolutie ongeveer gelijk. Ze worden geboren uit grote gas-
 en stofwolken. Een groot deel van hun leven zijn ze bezig met de
 omzetting van waterstof en helium. Als de brandstof opgebruikt is,
 worden de sterren rode reuzen. Dan komt de
-[heliumflits](heliumfl.html){.two}. Daarbij wordt zeer veel helium in
+heliumflits. Daarbij wordt zeer veel helium in
 één keer verbrand. En de koolstof, die dan wordt gevormd, ontbrandt
 niet. Daarvoor wordt de temperatuur niet hoog genoeg. De buitenste lagen
 gaan wel weer energie produceren. Een deel van het sterregas wordt de
-ruimte in geslingerd en vormt zo een [planetaire
-nevel](planetaire_nevel.html){.two}. Wat er van de ster overblijft is
-een afkoelende [witte dwerg](dwerg.html){.two}.
+ruimte in geslingerd en vormt zo een [planetaire nevel](/encyclopedie/planetaire_nevel). Wat er van de ster overblijft is
+een afkoelende [witte dwerg](/encyclopedie/dwerg).
 
 Komt het je allemaal nog een beetje bekend voor? Zo was het dus met de
 zon. En met alle sterren die ongeveer even zwaar zijn als de zon.
@@ -41,13 +39,10 @@ levensloop is heel anders dan die van de zon.
 
 In het begin lijkt er niet zo veel verschil te zijn. Maar aan het eind
 van hun leven maken deze sterren moeilijke tijden mee! We zullen eens
-gauw bekijken wat er nu precies gebeurt met zo\'n zware ster.
+gauw bekijken wat er nu precies gebeurt met zo'n zware ster.
 
-\
-\
-ONTBREKEND DEEL\
-\
-\
+ONTBREKEND DEEL
+
 
 Naar de hoofdreeks nogal logisch. Hoe komt het dat de ene ster meer
 weegt dan de andere? Wel, de gaswolken waar sterren uit ontstaan zijn
@@ -102,7 +97,7 @@ weer groter. De helder heid verandert daarbij niet, maar wel de
 oppervlakte temperatuur. Die wordt wat lager. Dus tijdens de schil
 verbranding blijft de ster even helder, maar doordat het steroppervlak
 groter wordt, koelt de ster af. Hij beweegt in het
-[HertzsprungRussellDiagram](hertzspr.html){.two} van de hoofdreeks af.
+[HertzsprungRussellDiagram](/encyclopedie/hertzsprung) van de hoofdreeks af.
 
 De verdere ontwikkeling van de ster hangt sterk af van de massa. Sterren
 die lichter zijn dan 2« keer de massa van de zon, evolueren heel anders
@@ -232,9 +227,9 @@ plotseling ergens een «nieuwe» ster zien opvlammen. Na een aantal dagen
 is de helderheid al weer flink afgenomen. En een jaar na de uitbarsting
 is de ster meestal niet meer te zien.
 
-Zo\'n explosie, die de dood van de ster veroorzaakt, wordt een
-[supernova](supernova.html){.two}-uitbarsting genoemd. «Nova» betekent
-«nieuw», en omdat zo\'n nieuwe ster zó enorm veel helderder wordt, noemt
+Zo'n explosie, die de dood van de ster veroorzaakt, wordt een
+[supernova](/encyclopedie/supernova)-uitbarsting genoemd. «Nova» betekent
+«nieuw», en omdat zo'n nieuwe ster zó enorm veel helderder wordt, noemt
 men hem een supernova.
 
 Soms is er een supernova te zien in een ander sterrenstelsel. De
@@ -295,7 +290,7 @@ niet altijd. Het lijkt alsof er een vuurtorentje in het heelal staat,
 dat zeer snel ronddraait. Op aarde kunnen we dan steeds wat straling
 waarnemen. De ster lijkt heel snel aan en uit te gaan. Vanwege dat
 knipper-effect kregen zulke objecten de naam
-[pulsars](pulsar.html){.two}. Dat is een samentrekking van *puls*ating
+[pulsars](/encyclopedie/pulsar). Dat is een samentrekking van *puls*ating
 st *ars* (pulserende sterren). Pas na de ontdekking van de pulsars in
 1967 kwam aan het licht dat pulsars altijd neutronensterren zijn.
 
@@ -307,7 +302,7 @@ groot als Amsterdam.
 Een luciferdoosje vol neutronenster-materie weegt veertig keer zo veel
 als alle wolkenkrabbers in New York samen! De pulsar in het sterrenbeeld
 Stier staat midden in een grillig gevormde gasnevel. Die heet de
-[Krabnevel](krabnevel.html){.two}. De nevel is gevormd bij een
+[Krabnevel](/encyclopedie/krabnevel). De nevel is gevormd bij een
 supernova-explosie, toen een groot deel van de ster het heelal in werd
 geblazen.
 
@@ -318,7 +313,7 @@ zijn geweest. Je komt dan ergens in de 11e eeuw. En zowaar: in het jaar
 wereld een nieuwe ster op die plaats gezien. In China en Korea zijn nog
 beschrijvingen van deze ster gevonden. Hij was zelfs een paar dagen lang
 midden op de dag zichtbaar! Op deze manier krijg je een beetje een
-indruk van hoe kolossaal zo\'n laatste uitbarsting van een zware ster
+indruk van hoe kolossaal zo'n laatste uitbarsting van een zware ster
 is.
 
 Niet alle neutronensterren zijn pulsars. Als de ster geen magnetisch
@@ -339,8 +334,7 @@ tegenhouden. De sterkern zal dus nóg verder ineenstorten. Net zo lang
 totdat iets anders het inkrimpen tegenhoudt. Helaas weet geen enkele
 natuurkundige hoe het ineenstorten nu nog kan worden tegengehouden. Het
 lijkt er volgens hen op dat alle materie in één punt wordt samengepakt.
-De dichtheid in dat punt is oneindig groot. Er is een [zwart
-gat](zwartega.html){.two} ontstaan. Een zwart gat kan geen licht of
+De dichtheid in dat punt is oneindig groot. Er is een [zwart gat](/encyclopedie/zwartega) ontstaan. Een zwart gat kan geen licht of
 andere straling meer uitzenden. De *ontsnappingssnelheid*is te hoog. Dat
 is de snelheid die je nodig hebt om bij de ster vandaan te komen. Hoe
 groter de aantrekkingskracht van een ster is hoe groter ook de
@@ -348,3 +342,5 @@ ontsnappingssnelheid is. Bij een zwart gat is de ontsnappingssnelheid
 groter dan de *lichtsnelheid*. Dus meer dan 300.000 kilometer per
 seconde. Zelfs lichtstralen kunnen niet meer aan de aantrekkingskracht
 van het zwarte gat ontsnappen.
+
+---

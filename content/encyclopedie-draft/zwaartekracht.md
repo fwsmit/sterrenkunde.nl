@@ -4,8 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-
+---
 Zwaartekracht, ook wel *aantrekkingskracht* of *gravitatie* genoemd, is
 er de oorzaak van dat:
 
@@ -20,8 +19,8 @@ de aarde om de zon draait, evenals de andere planeten;
 kometen naar de zon toegetrokken worden of in een ONTBREKEND WOORD;
 
 de zon en alle sterren een baan beschrijven om het ONTBREKEND WOORD;\
-en bovendien dat het uiteindelijk door de zwaartekracht\
-\
+en bovendien dat het uiteindelijk door de zwaartekracht
+
 
 Wat dóet die zwaartekracht nu precies? Hij maakt dat  lle voorwerpen
 elkaar aantrekken. In de natuurkunde praten we niet over voorwerpen,
@@ -84,9 +83,10 @@ groter wordt. Per saldo betekent dit dat de aantrekkingskracht op aarde
 ook 6 keer zoveel dan op de maan. Weeg je op aarde 42 kilogram, dan zou
 je op de maan dus 42 : 6 = 7 kilogram wegen.
 
-\
-ONTBREKEND STUK\
-\
+ONTBREKEND STUK
+
 
 de planeten in ons zonnestelsel zou wegen. Hierbij zijn we er weer van
 uit gegaan dat je op aarde 42 kg weegt.
+
+---

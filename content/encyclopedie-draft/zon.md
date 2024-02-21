@@ -4,10 +4,12 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
   -----------------------------------------------------------------------
-  ![De zon met zonnevlekken](plaatjes/zon.gif){vspace="0" hspace="0"}\
+  *Bron: wikipeida, NASA*
+  
+  ![De zon met zonnevlekken](/zon-modified.png)
+  
   **De zon met zonnevlekken**
 
   -----------------------------------------------------------------------
@@ -69,9 +71,11 @@ fotosfeer.
 We kijken dwars door de corona en de chromosfeer heen.
 
   -----------------------------------------------------------------------
-  ![Doorsnede van de zon](plaatjes/zon_doorsnede.jpg){vspace="0"
-  hspace="0"}\
-  **Doorsnede van de zon**
+  *Bron: Wikipedia, Kelvinsong*
+  
+  ![Doorsnede van de zon](/zon_doorsnede-modified.png)
+  
+  **Structuur van de zon**
 
   -----------------------------------------------------------------------
 
@@ -104,13 +108,6 @@ kijken. Je zou daarbij je ogen ernstig kunnen beschadigen. Ook de
 de warmte die ze opzamelen kunnen ze barsten. Veel veiliger is het de
 zon te projecteren.
 
-  -----------------------------------------------------------------------
-  ![Projecteren van de zon](plaatjes/zon_projectie.jpg){vspace="0"
-  hspace="0"}\
-  **Projecteren**
-
-  -----------------------------------------------------------------------
-
 Houd een wit vel papier achter de kijker en projecteer daar het
 zonsbeeld op. Dat gaat heel goed. Zeker als je een stuk karton rond de
 kijkerbuis bevestigt dat vals licht tegenhoudt. Als je handig bent kun
@@ -136,15 +133,6 @@ kijker voor het waarnemen van protuberansen heet een Kijk eens enkele
 dagen achter elkaar naar de zon. Je merkt dan dat de zonnevlekken zich
 over het oppervlak van de zon lijken te verplaatsen. Dit komt doordat de
 zon, net als de aarde, om zijn as draait.
-
-  --------------------------------------------------------------------------------
-  [![De zon op dit
-  moment](http://umbra.nascom.nasa.gov/images/latest_mdi_igram.gif){height="225"
-  width="225" vspace="0" hspace="0"}](http://umbra.nascom.nasa.gov/images/){<=""
-  a=""}\
-  **De zon zoals die er op dit moment uitziet**
-
-  --------------------------------------------------------------------------------
 
 Zonnevlekken hebben niet het eeuwige leven. Sommige vlekken hebben een
 levensduur van slechts enkele dagen, terwijl andere vlekken enkele
@@ -177,7 +165,7 @@ Dit prachtige verschijnsel ontstaat wanneer de elektrisch geladen
 deeltjes die de zon uitstoot, botsen met de bovenste lagen van onze
 dampkring. Door de hoge snelheid waarmee die deeltjes in de dampkring
 terecht komen, gaan deze spontaan licht uitzenden. Het noorderlicht of
-[poollicht](poollicht.html){.two} komt alleen in de buurt van de polen
+[poollicht](/encyclopedie/poollicht) komt alleen in de buurt van de polen
 voor. Dat komt omdat de zonnewind door het magnetische veld van de aarde
 wordt aangetrokken.
 
@@ -201,3 +189,5 @@ zonnestraling de tempera tuur op aarde heel erg laag zal worden. Zelfs
 de lucht zal uiteindelijk bevriezen. Maak je niet bezorgd. Dat duurt nog
 erg lang. Zeker zo\'n vijf miljard jaar. Het bovenstaande geldt niet
 alleen voor de zon, maar voor alle sterren.
+
+---

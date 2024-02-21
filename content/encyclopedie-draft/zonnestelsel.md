@@ -4,10 +4,10 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
 
   -----------------------------------------------------------------------
-  ![Het Zonnestelsel](plaatjes/zonnestelsel.jpg){vspace="0" hspace="0"}\
+  ![Het Zonnestelsel](/zonnestelsel-modified.png)
+  
   **Het zonnestelsel, de zon en de negen planeten op schaal (afstanden
   niet op schaal)**
 
@@ -16,10 +16,10 @@ draft = false
 ## Ons zonnestelsel
 
 Tot het zonnestelsel behoort alles wat onder invloed staat van de
-[aantrekkingskracht](aantrekk.html){.two} van de zon. Tot het
+[aantrekkingskracht](/encyclopedie/aantrekkingskracht) van de zon. Tot het
 zonnestelsel behoort één ster. Dat is natuurlijk de
-[zon](zon.html){.two}. Verder bewegen om de zon negen
-[planeten](planeten.html){.two}. In volgorde van toenemende afstand tot
+[zon](/encyclopedie/zon). Verder bewegen om de zon negen
+[planeten](/encyclopedie/planeten)}. In volgorde van toenemende afstand tot
 de zon zijn dat Mercurius, Venus, Aarde, Mars, Jupiter, Saturnus,
 Uranus, Neptunus en Pluto.
 
@@ -165,100 +165,54 @@ berekenen.
 
 ## Het zonnestelsel op een rijtje
 
--   [De zon](zon.html)
+-   [De zon](/encyclopedie/zon)
 
--   [Mercurius](mercurius.html)
+-   [Mercurius](/encyclopedie/mercurius)
 
--   [Venus](venus.html)
+-   [Venus](/encyclopedie/venus)
 
--   [Aarde](aarde.html)
+-   [Aarde](/encyclopedie/aarde)
 
--   -   [De Maan](maan.html)
+-   -   [De Maan](/encyclopedie/maan)
 
--   [Mars](mars.html)
+-   [Mars](/encyclopedie/mars)
 
--   [Planetoiden](planetoiden.html)
+-   [Planetoiden](/encyclopedie/planetoiden)
 
--   [Jupiter](jupiter.html)
+-   [Jupiter](/encyclopedie/jupiter)
 
--   -   [Gaileische manen](xxx.html)
+-   -   [Gaileische manen](/encyclopedie/galileis)
 
--   [Saturnus](saturnus.html)
+-   [Saturnus](/encyclopedie/saturnus)
 
--   -   [Titan](titan.html)
+-   -   [Titan](/encyclopedie/titan)
 
--   [Neptunus](neptunus.html)
+-   [Neptunus](/encyclopedie/neptunus)
 
--   [Uranus](uranus.html)
+-   [Uranus](/encyclopedie/uranus)
 
--   [Pluto](pluto.html)
+-   [Pluto](/encyclopedie/pluto)
 
--   -   [Charon](charon.html)
+-   -   [Charon](/encyclopedie/charon)
 
--   [Sedna](sedna.html)
 
-## Enkele gegevens over ons zonnestelsel
+## Enkele gegevens over ons zonnestelsel met de aarde als referentie
+---
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+**Naam** |**Afstand tot de zon (Ae)** |**Omlooptijd** |**Doorsnede** |**Gewicht **
+Zon         |n.v.t.                  |n.v.t.   |100           |333 000
+Mercurius   |0.39(57 900 000 Km)     |0,24     |0.39          |0.055
+Venus       |0.72(108 200 000 Km)    |0,62     |0.95          |0.82
+Aarde       |1(148 000 000 Km)       |1        |1             |1 
+Mars        |1.52(227 900 000 Km)    |1,88     |0.5           |0.1
+Jupiter     |5.2(778 600 000 Km)     |11,86    |11.2          |318
+Saturnus    |9.58(1 400 000 000 Km)  |29,42    |9.5           |95
+Uranus      |19.22(2 870 000 000 Km) |83,75    |4             |14.5
+Neptunus    |30.07(4 500 000 000 Km) |163,72   |3.9           |17
+Pluto       |39.5(5 900 000 000 Km)  |248,02   |0.2           |0.003
 
-**Naam**
-
-**Afstand tot de zon \[Aarde=1\]**
-
-**Omlooptijd \[in aardjaar\]**
-
-**Doorsnede \[Aarde=1\]**
-
-**Gewicht \[Aarde=1\]**
-
-Zon
-
-n.v.t.
-
-n.v.t.
-
-100
-
-Mercurius
-
-0,24
-
-Venus
-
-0,62
-
-Aarde
-
-1 (=148.000.000 km)
-
-1 (=1 jaar)
-
-1 (=12.000km)
-
-1 (=####### kg)
-
-Mars
-
-1,88
-
-Jupiter
-
-11,86
-
-Saturnus
-
-29,42
-
-Uranus
-
-83,75
-
-Neptunus
-
-163,72
-
-Pluto
-
-248,02
-
+---
 ## Waarnemen
 
 ## Andere zonnestelsels
@@ -285,3 +239,5 @@ planeet Jupiter (= duizend keer de massa van de aarde). Hoewel er nog
 geen planeet ontdekt is met dezelfde massa als de aarde en op dezelfde
 afstand van de ster als de afstand van de zon tot de aarde, is het met
 deze ontdekkingen wel veel aannemelijker geworden dat ze er zijn.
+
+---

@@ -4,10 +4,7 @@ date = 2023-11-17T19:54:58+01:00
 draft = false
 +++
 
-\
-![Gedeeltelijke
-zonsverduistering](plaatjes/zonsverduistering_01.jpg){vspace="5"
-hspace="5" align="right"}
+---
 
 Bij een zonsverduistering schuift de maan tussen de zon en de aarde. Het
 zonlicht wordt dus door de maan tegen gehouden. Het is dan altijd Nieuwe
@@ -41,9 +38,8 @@ wel de [corona](corona.html){.two} van de zon die zichtbaar is geworden.
 Dat is de atmosfeer van de zon.
 
   -----------------------------------------------------------------------
-  ![Ontstaan van een
-  zonsverduistering](plaatjes/zonsverduistering_schema.gif){vspace="0"
-  hspace="0"}\
+  ![Ontstaan van een zonsverduistering](/zonsverduistering_schema.png)
+  
   **Ontstaan van een zonsverduistering**
 
   -----------------------------------------------------------------------
@@ -59,7 +55,7 @@ Celsius.
 
 De vorm van de corona is niet altijd hetzelfde. Die vorm hangt af van de
 aktiviteit op de zon. Is er weinig zonne aktiviteit, dus zijn er weinig
-[zonnevlekken](zonnevlekken.html){.two}, dan is de vorm erg regelmatig.
+[zonnevlekken](/encyclopedie/zonnevlekken), dan is de vorm erg regelmatig.
 Is de zon erg onrustig, dan is de vorm van de corona veel
 onregelmatiger.
 
@@ -106,9 +102,9 @@ middellijn van de zon door de maan bedekt zijn. We zeggen dat de
 de zonsmiddellijn door de maan bedekt worden, dan nog is het verschil
 met een totale zonsverduistering enorm groot. In ons land komen totale
 zonsverduisteringen niet vaak voor. Voor de eerstvolgende moet je
-wachten tot 7 oktober\...\... van het jaar 2135! De eerste
+wachten tot 7 oktober...... van het jaar 2135! De eerste
 voorspellingen van zons- en maansverduisteringen gebeurden door
-bestudering van de [sarosperiode](saros.html){.two}. Dat is de periode
+bestudering van de [sarosperiode](/encyclopedie/saros). Dat is de periode
 waarna de zon, de maan en het snijpunt van hun banen weer in dezelfde
 onderlinge positie staan. Een sarosperiode bedraagt 18 jaar en 10,8
 dagen. Dus 18 jaar en 10 of 11 dagen (je moet ook rekening houden of in
@@ -117,3 +113,5 @@ er meestal opnieuw een verduistering uit dezelfde sarosreeks plaats. De
 omstandigheden zijn echter niet exact gelijk en de sarosperiode is dan
 ook niet meer dan een handig hulp middel bij het voorspellen van
 verduisteringen.
+
+---
